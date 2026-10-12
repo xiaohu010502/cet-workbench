@@ -26,17 +26,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n04",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "src": "CGTN·Culture",
-      "title": "2027 Spring/Summer Shanghai Fashion Week kicks off",
-      "link": "https://news.cgtn.com/news/2026-10-09/2027-Spring-Summer-Shanghai-Fashion-Week-kicks-off-1R60vT5iee4/p.html"
+      "title": "Peng Liyuan urges development of digital education access for women",
+      "link": "https://news.cgtn.com/news/2026-10-10/Peng-Liyuan-urges-development-of-digital-education-access-for-women-1R7u8ZefbW0/p.html"
     },
     {
       "id": "n05",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "src": "CGTN·Culture",
-      "title": "Spring/Summer 2027 Shanghai Fashion Week kicks off",
-      "link": "https://news.cgtn.com/news/2026-10-09/Spring-Summer-2027-Shanghai-Fashion-Week-kicks-off--1R6bkJ10QTK/p.html"
+      "title": "The Queen's Sword Ep. 5 | From princess to slave",
+      "link": "https://news.cgtn.com/news/2026-10-10/The-Queen-s-Sword-Ep-5-From-princess-to-slave-1R7BnBFh6mI/p.html"
     },
     {
       "id": "n06",
@@ -47,17 +47,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n07",
-      "date": "2026-10-08",
+      "date": "2026-10-05",
       "src": "CGTN·Sports",
-      "title": "Changchun 2027 World University Games marks 100-day countdown",
-      "link": "https://news.cgtn.com/news/2026-10-08/Changchun-2027-World-University-Games-marks-100-day-countdown-1R522NvcJaM/p.html"
+      "title": "Zhang Yuetong reflects on Asian Games medals and LA 2028 goals",
+      "link": "https://news.cgtn.com/news/2026-10-05/Zhang-Yuetong-reflects-on-Asian-Games-medals-and-LA-2028-goals-1QZz1DLKKNa/p.html"
     },
     {
       "id": "n08",
-      "date": "2026-10-07",
+      "date": "2026-10-04",
       "src": "CGTN·Sports",
-      "title": "Pickleball gains momentum in China as participation and events surge",
-      "link": "https://news.cgtn.com/news/2026-10-07/Pickleball-gains-momentum-in-China-as-participation-and-events-surge-1R2ARS2DEKk/p.html"
+      "title": "China reaches 169 Asian Games gold medals, sets new overseas record",
+      "link": "https://news.cgtn.com/news/2026-10-04/China-reaches-169-Asian-Games-gold-medals-sets-new-overseas-record-1QXM1DaxKiQ/p.html"
     },
     {
       "id": "n09",
@@ -70,8 +70,8 @@ window.CET_CONTENT = {
       "id": "n10",
       "date": "2026-09-30",
       "src": "CGTN·Culture",
-      "title": "Many dances, one pulse: Rhythmic China",
-      "link": "https://news.cgtn.com/news/2026-09-30/Many-dances-one-pulse-Rhythmic-China-1QRoXF5j1Vm/p.html"
+      "title": "Connecting the world: 'Hear Every Voice 2026 World Rivers Gala'",
+      "link": "https://news.cgtn.com/news/2026-09-30/Connecting-the-world-Hear-Every-Voice-2026-World-Rivers-Gala--1QRh9D2Iphu/p.html"
     },
     {
       "id": "n11",
@@ -103,10 +103,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n15",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "src": "CGTN·Sports",
-      "title": "Real Madrid, Manchester City open Champions League campaigns with wins",
-      "link": "https://news.cgtn.com/news/2026-09-09/Real-Madrid-Manchester-City-open-Champions-League-campaigns-with-wins-1Qi9l1fr0lO/p.html"
+      "title": "China, Australia seal spots in quarterfinals at FIBA Women's World Cup",
+      "link": "https://news.cgtn.com/news/2026-09-10/China-Australia-seal-spots-in-quarterfinals-at-FIBA-Women-s-World-Cup-1QjQZFbsN9u/p.html"
     }
   ],
   "readings": [
