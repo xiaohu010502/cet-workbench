@@ -40,66 +40,66 @@ window.CET_CONTENT = {
     },
     {
       "id": "n06",
+      "date": "2026-10-10",
+      "src": "CGTN·Travel",
+      "title": "From Xinyu to the world: How China's batteries are changing the game",
+      "link": "https://news.cgtn.com/news/2026-10-10/From-Xinyu-to-the-world-How-China-s-batteries-are-changing-the-game-1R7KzQI2bpm/p.html"
+    },
+    {
+      "id": "n07",
       "date": "2026-10-09",
       "src": "CGTN·China",
       "title": "Chinese envoy: Japan's remilitarization drive threatens regional peace",
       "link": "https://news.cgtn.com/news/2026-10-09/Chinese-envoy-Japan-s-remilitarization-drive-threatens-regional-peace-1R6o6GZaYGA/p.html"
     },
     {
-      "id": "n07",
+      "id": "n08",
+      "date": "2026-10-07",
+      "src": "CGTN·Travel",
+      "title": "China's railways hit the return peak as holidaymakers head home",
+      "link": "https://news.cgtn.com/news/2026-10-07/China-s-railways-hit-the-return-peak-as-holidaymakers-head-home-1R3dtnYPpsc/p.html"
+    },
+    {
+      "id": "n09",
       "date": "2026-10-05",
       "src": "CGTN·Sports",
       "title": "Zhang Yuetong reflects on Asian Games medals and LA 2028 goals",
       "link": "https://news.cgtn.com/news/2026-10-05/Zhang-Yuetong-reflects-on-Asian-Games-medals-and-LA-2028-goals-1QZz1DLKKNa/p.html"
     },
     {
-      "id": "n08",
+      "id": "n10",
       "date": "2026-10-04",
       "src": "CGTN·Sports",
       "title": "China reaches 169 Asian Games gold medals, sets new overseas record",
       "link": "https://news.cgtn.com/news/2026-10-04/China-reaches-169-Asian-Games-gold-medals-sets-new-overseas-record-1QXM1DaxKiQ/p.html"
     },
     {
-      "id": "n09",
-      "date": "2026-10-01",
+      "id": "n11",
+      "date": "2026-10-02",
       "src": "CGTN·Travel",
-      "title": "Health Talk | The secret to longevity",
-      "link": "https://news.cgtn.com/news/2026-10-01/Health-Talk-The-secret-to-longevity--1QSIcGuue8E/p.html"
+      "title": "China's railway passenger trips hit record single-day high",
+      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
     },
     {
-      "id": "n10",
+      "id": "n12",
       "date": "2026-09-30",
       "src": "CGTN·Culture",
       "title": "Connecting the world: 'Hear Every Voice 2026 World Rivers Gala'",
       "link": "https://news.cgtn.com/news/2026-09-30/Connecting-the-world-Hear-Every-Voice-2026-World-Rivers-Gala--1QRh9D2Iphu/p.html"
     },
     {
-      "id": "n11",
+      "id": "n13",
       "date": "2026-09-30",
       "src": "CGTN·Business",
       "title": "Explore new destinations and see more of China",
       "link": "https://news.cgtn.com/news/2026-09-30/Explore-new-destinations-and-see-more-of-China-1QRGj3AOXu0/p.html"
     },
     {
-      "id": "n12",
+      "id": "n14",
       "date": "2026-09-28",
       "src": "CGTN·Business",
       "title": "Could the next big coffee idea come from China?",
       "link": "https://news.cgtn.com/news/2026-09-28/Could-the-next-big-coffee-idea-come-from-China--1QOienFs2f6/p.html"
-    },
-    {
-      "id": "n13",
-      "date": "2026-09-24",
-      "src": "CGTN·Travel",
-      "title": "Chinese for a Day: The Temple of a Thousand Buddhas | Crossing Paths",
-      "link": "https://news.cgtn.com/news/2026-09-24/Chinese-for-a-Day-The-Temple-of-a-Thousand-Buddhas-Crossing-Paths-1QCvyIolyP6/p.html"
-    },
-    {
-      "id": "n14",
-      "date": "2026-09-24",
-      "src": "CGTN·Travel",
-      "title": "US student reflects on the power of people-to-people exchange",
-      "link": "https://newsus.cgtn.com/news/2026-09-24/US-student-reflects-on-the-power-of-people-to-people-exchange-1QGN9dNNnB6/p.html"
     },
     {
       "id": "n15",
