@@ -5,24 +5,24 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "src": "CGTN·Business",
-      "title": "China, EU reaffirm stable, balanced ties as key trading partners",
-      "link": "https://news.cgtn.com/news/2026-10-10/Commerce-Ministry-China-EU-reach-consensus-in-trade-talks-1R7TS3KDIpW/p.html"
+      "title": "EU faces mounting pressure amid concerns over winter energy supplies",
+      "link": "https://news.cgtn.com/news/2026-10-11/EU-faces-mounting-pressure-amid-concerns-over-winter-energy-supplies-1R9q9GwCyg8/p.html"
     },
     {
       "id": "n02",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "src": "CGTN·China",
-      "title": "Mainland: Lai's speech disregards facts, reveals ulterior motives",
-      "link": "https://news.cgtn.com/news/2026-10-10/Mainland-Lai-s-speech-disregards-facts-reveals-ulterior-motives-1R86MPQsU4E/p.html"
+      "title": "Taiwan leader's speech exposes him as threat to peace: spokesperson",
+      "link": "https://news.cgtn.com/news/2026-10-11/Taiwan-leader-s-speech-exposes-him-as-threat-to-peace-spokesperson-1R9FbpeiUZG/p.html"
     },
     {
       "id": "n03",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "src": "CGTN·China",
-      "title": "EU trade commissioner briefs media on outcomes of talks with China",
-      "link": "https://news.cgtn.com/news/2026-10-10/EU-trade-commissioner-briefs-media-on-outcomes-of-talks-with-China-1R7JHJBV732/p.html"
+      "title": "Discover music and ancient civilizations in Beijing",
+      "link": "https://news.cgtn.com/news/2026-10-11/Discover-music-and-ancient-civilizations-in-Beijing-1R9GktZXjj2/p.html"
     },
     {
       "id": "n04",
@@ -40,17 +40,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n06",
-      "date": "2026-10-08",
-      "src": "CGTN·Sports",
-      "title": "Changchun 2027 World University Games marks 100-day countdown",
-      "link": "https://news.cgtn.com/news/2026-10-08/Changchun-2027-World-University-Games-marks-100-day-countdown-1R522NvcJaM/p.html"
+      "date": "2026-10-09",
+      "src": "CGTN·China",
+      "title": "Chinese envoy: Japan's remilitarization drive threatens regional peace",
+      "link": "https://news.cgtn.com/news/2026-10-09/Chinese-envoy-Japan-s-remilitarization-drive-threatens-regional-peace-1R6o6GZaYGA/p.html"
     },
     {
       "id": "n07",
       "date": "2026-10-08",
-      "src": "CGTN·China",
-      "title": "How China's grassroots governance helps build 'cities for the people'",
-      "link": "https://news.cgtn.com/news/2026-10-08/How-China-s-grassroots-governance-helps-build-cities-for-the-people--1R4rpKZykG4/p.html"
+      "src": "CGTN·Sports",
+      "title": "Changchun 2027 World University Games marks 100-day countdown",
+      "link": "https://news.cgtn.com/news/2026-10-08/Changchun-2027-World-University-Games-marks-100-day-countdown-1R522NvcJaM/p.html"
     },
     {
       "id": "n08",
@@ -61,31 +61,31 @@ window.CET_CONTENT = {
     },
     {
       "id": "n09",
-      "date": "2026-10-04",
-      "src": "CGTN·Business",
-      "title": "Rising prices, weak spending put Japan's policymakers in tight spot",
-      "link": "https://news.cgtn.com/news/2026-10-04/Rising-prices-weak-spending-put-Japan-s-policymakers-in-tight-spot-1QXHBfcprMs/p.html"
-    },
-    {
-      "id": "n10",
       "date": "2026-10-01",
       "src": "CGTN·Travel",
       "title": "Health Talk | The secret to longevity",
       "link": "https://news.cgtn.com/news/2026-10-01/Health-Talk-The-secret-to-longevity--1QSIcGuue8E/p.html"
     },
     {
-      "id": "n11",
+      "id": "n10",
       "date": "2026-09-30",
       "src": "CGTN·Culture",
       "title": "Many dances, one pulse: Rhythmic China",
       "link": "https://news.cgtn.com/news/2026-09-30/Many-dances-one-pulse-Rhythmic-China-1QRoXF5j1Vm/p.html"
     },
     {
-      "id": "n12",
+      "id": "n11",
       "date": "2026-09-30",
       "src": "CGTN·Business",
-      "title": "National Day holiday spurs demand for pet boarding",
-      "link": "https://news.cgtn.com/news/2026-09-30/National-Day-holiday-spurs-demand-for-pet-boarding-1QRnCjGDCus/p.html"
+      "title": "Explore new destinations and see more of China",
+      "link": "https://news.cgtn.com/news/2026-09-30/Explore-new-destinations-and-see-more-of-China-1QRGj3AOXu0/p.html"
+    },
+    {
+      "id": "n12",
+      "date": "2026-09-28",
+      "src": "CGTN·Business",
+      "title": "Could the next big coffee idea come from China?",
+      "link": "https://news.cgtn.com/news/2026-09-28/Could-the-next-big-coffee-idea-come-from-China--1QOienFs2f6/p.html"
     },
     {
       "id": "n13",
