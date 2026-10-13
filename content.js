@@ -6,44 +6,44 @@ window.CET_CONTENT = {
     {
       "id": "n01",
       "date": "2026-10-12",
+      "src": "CGTN·Culture",
+      "title": "The Long March in Song · Yuguo Band's Ten Farewell",
+      "link": "https://news.cgtn.com/news/2026-10-12/The-Long-March-in-Song-Yuguo-Band-s-Ten-Farewell-1RbjIQaWVLG/p.html"
+    },
+    {
+      "id": "n02",
+      "date": "2026-10-12",
+      "src": "CGTN·Culture",
+      "title": "China's box office passes 31 billion yuan, led by domestic films",
+      "link": "https://news.cgtn.com/news/2026-10-12/China-s-box-office-passes-31-billion-yuan-led-by-domestic-films-1RbgshVWEFi/p.html"
+    },
+    {
+      "id": "n03",
+      "date": "2026-10-12",
       "src": "CGTN·Business",
       "title": "IBLAC 2026: Global biz leaders gather in Shanghai for council meeting",
       "link": "https://news.cgtn.com/news/2026-10-12/IBLAC-2026-Global-biz-leaders-gather-in-Shanghai-for-council-meeting-1RaUJXnSVrO/p.html"
     },
     {
-      "id": "n02",
+      "id": "n04",
       "date": "2026-10-12",
       "src": "CGTN·China",
       "title": "Documentary film screening draws international audiences",
       "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-screening-draws-international-audiences-1Rbc7EDVGG4/p.html"
     },
     {
-      "id": "n03",
+      "id": "n05",
       "date": "2026-10-12",
       "src": "CGTN·China",
       "title": "China's top diplomat to attend CICA summit, visit four countries",
       "link": "https://news.cgtn.com/news/2026-10-12/China-s-top-diplomat-to-attend-CICA-summit-visit-four-countries-1RbxFvQ0Zc4/p.html"
     },
     {
-      "id": "n04",
+      "id": "n06",
       "date": "2026-10-12",
       "src": "CGTN·China",
       "title": "Documentary film Hotline Beijing 2 screened in Chinese capital",
       "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-Hotline-Beijing-2-screened-in-Chinese-capital-1RaXBx0PU1q/p.html"
-    },
-    {
-      "id": "n05",
-      "date": "2026-10-10",
-      "src": "CGTN·Culture",
-      "title": "Peng Liyuan urges development of digital education access for women",
-      "link": "https://news.cgtn.com/news/2026-10-10/Peng-Liyuan-urges-development-of-digital-education-access-for-women-1R7u8ZefbW0/p.html"
-    },
-    {
-      "id": "n06",
-      "date": "2026-10-10",
-      "src": "CGTN·Culture",
-      "title": "The Queen's Sword Ep. 5 | From princess to slave",
-      "link": "https://news.cgtn.com/news/2026-10-10/The-Queen-s-Sword-Ep-5-From-princess-to-slave-1R7BnBFh6mI/p.html"
     },
     {
       "id": "n07",
@@ -61,24 +61,24 @@ window.CET_CONTENT = {
     },
     {
       "id": "n09",
-      "date": "2026-10-05",
-      "src": "CGTN·Sports",
-      "title": "Zhang Yuetong reflects on Asian Games medals and LA 2028 goals",
-      "link": "https://news.cgtn.com/news/2026-10-05/Zhang-Yuetong-reflects-on-Asian-Games-medals-and-LA-2028-goals-1QZz1DLKKNa/p.html"
-    },
-    {
-      "id": "n10",
-      "date": "2026-10-04",
-      "src": "CGTN·Sports",
-      "title": "China reaches 169 Asian Games gold medals, sets new overseas record",
-      "link": "https://news.cgtn.com/news/2026-10-04/China-reaches-169-Asian-Games-gold-medals-sets-new-overseas-record-1QXM1DaxKiQ/p.html"
-    },
-    {
-      "id": "n11",
       "date": "2026-10-04",
       "src": "CGTN·Business",
       "title": "China responds to US criticism of Starbucks' Xinjiang expansion",
       "link": "https://news.cgtn.com/news/2026-10-04/China-responds-to-US-group-s-criticism-of-Starbucks-Xinjiang-expansion-1QYuNGquJEI/p.html"
+    },
+    {
+      "id": "n10",
+      "date": "2026-10-03",
+      "src": "CGTN·Sports",
+      "title": "Africa Watch: WAC will be held in Nairobi - Why it matters for Kenya?",
+      "link": "https://newsaf.cgtn.com/news/2026-10-03/Africa-Watch-WAC-will-be-held-in-Nairobi-Why-it-matters-for-Kenya--1QWipL084hO/p.html"
+    },
+    {
+      "id": "n11",
+      "date": "2026-10-02",
+      "src": "CGTN·Culture",
+      "title": "Fireworks light up Urumqi as ethnic groups celebrate national day",
+      "link": "https://news.cgtn.com/news/2026-10-02/Fireworks-light-up-Urumqi-as-ethnic-groups-celebrate-national-day-1QUK1geHjtC/p.html"
     },
     {
       "id": "n12",
@@ -96,17 +96,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n14",
-      "date": "2026-09-30",
-      "src": "CGTN·Culture",
-      "title": "Connecting the world: 'Hear Every Voice 2026 World Rivers Gala'",
-      "link": "https://news.cgtn.com/news/2026-09-30/Connecting-the-world-Hear-Every-Voice-2026-World-Rivers-Gala--1QRh9D2Iphu/p.html"
+      "date": "2026-10-01",
+      "src": "CGTN·Sports",
+      "title": "China's Li Wenwen completes medal collection with Asian Games gold",
+      "link": "https://news.cgtn.com/news/2026-10-01/China-s-Li-Wenwen-completes-medal-collection-with-Asian-Games-gold-1QSFeOSXjUs/p.html"
     },
     {
       "id": "n15",
-      "date": "2026-09-10",
+      "date": "2026-09-07",
       "src": "CGTN·Sports",
-      "title": "China, Australia seal spots in quarterfinals at FIBA Women's World Cup",
-      "link": "https://news.cgtn.com/news/2026-09-10/China-Australia-seal-spots-in-quarterfinals-at-FIBA-Women-s-World-Cup-1QjQZFbsN9u/p.html"
+      "title": "China defeats Czech Republic in overtime at FIBA Women's World Cup",
+      "link": "https://news.cgtn.com/news/2026-09-07/China-defeats-Czech-Republic-in-overtime-at-FIBA-Women-s-World-Cup-1QeRUI2IUTe/p.html"
     }
   ],
   "readings": [
