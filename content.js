@@ -47,59 +47,59 @@ window.CET_CONTENT = {
     },
     {
       "id": "n07",
-      "date": "2026-10-10",
-      "src": "CGTN·Travel",
-      "title": "From Xinyu to the world: How China's batteries are changing the game",
-      "link": "https://news.cgtn.com/news/2026-10-10/From-Xinyu-to-the-world-How-China-s-batteries-are-changing-the-game-1R7KzQI2bpm/p.html"
-    },
-    {
-      "id": "n08",
-      "date": "2026-10-07",
-      "src": "CGTN·Travel",
-      "title": "China's railways hit the return peak as holidaymakers head home",
-      "link": "https://news.cgtn.com/news/2026-10-07/China-s-railways-hit-the-return-peak-as-holidaymakers-head-home-1R3dtnYPpsc/p.html"
-    },
-    {
-      "id": "n09",
       "date": "2026-10-04",
       "src": "CGTN·Business",
       "title": "China responds to US criticism of Starbucks' Xinjiang expansion",
       "link": "https://news.cgtn.com/news/2026-10-04/China-responds-to-US-group-s-criticism-of-Starbucks-Xinjiang-expansion-1QYuNGquJEI/p.html"
     },
     {
-      "id": "n10",
+      "id": "n08",
       "date": "2026-10-03",
       "src": "CGTN·Sports",
       "title": "Africa Watch: WAC will be held in Nairobi - Why it matters for Kenya?",
       "link": "https://newsaf.cgtn.com/news/2026-10-03/Africa-Watch-WAC-will-be-held-in-Nairobi-Why-it-matters-for-Kenya--1QWipL084hO/p.html"
     },
     {
-      "id": "n11",
+      "id": "n09",
       "date": "2026-10-02",
       "src": "CGTN·Culture",
       "title": "Fireworks light up Urumqi as ethnic groups celebrate national day",
       "link": "https://news.cgtn.com/news/2026-10-02/Fireworks-light-up-Urumqi-as-ethnic-groups-celebrate-national-day-1QUK1geHjtC/p.html"
     },
     {
-      "id": "n12",
-      "date": "2026-10-02",
-      "src": "CGTN·Travel",
-      "title": "China's railway passenger trips hit record single-day high",
-      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
-    },
-    {
-      "id": "n13",
+      "id": "n10",
       "date": "2026-10-02",
       "src": "CGTN·Business",
       "title": "Heads of State head to Egypt for inaugural Alamein Africa Forum",
       "link": "https://newsaf.cgtn.com/news/2026-10-02/Heads-of-State-head-to-Egypt-for-inaugural-Alamein-Africa-Forum-1QV7X8klu0M/p.html"
     },
     {
-      "id": "n14",
+      "id": "n11",
       "date": "2026-10-01",
       "src": "CGTN·Sports",
       "title": "China's Li Wenwen completes medal collection with Asian Games gold",
       "link": "https://news.cgtn.com/news/2026-10-01/China-s-Li-Wenwen-completes-medal-collection-with-Asian-Games-gold-1QSFeOSXjUs/p.html"
+    },
+    {
+      "id": "n12",
+      "date": "2026-10-01",
+      "src": "CGTN·Travel",
+      "title": "People reflect on the Long March spirit at flag-raising ceremony",
+      "link": "https://news.cgtn.com/news/2026-10-01/People-reflect-on-the-Long-March-spirit-at-flag-raising-ceremony-1QSHSf8VDDq/p.html"
+    },
+    {
+      "id": "n13",
+      "date": "2026-09-28",
+      "src": "CGTN·Travel",
+      "title": "The Long March memory: Straw sandals and Xiao Nandou's family craft",
+      "link": "https://news.cgtn.com/news/2026-09-28/The-Long-March-memory-Straw-sandals-and-Xiao-Nandou-s-family-craft-1QMF0hvQVI4/p.html"
+    },
+    {
+      "id": "n14",
+      "date": "2026-09-24",
+      "src": "CGTN·Travel",
+      "title": "Chinese for a Day: The best mooncake | Crossing Paths",
+      "link": "https://news.cgtn.com/news/2026-09-24/Chinese-for-a-Day-The-best-mooncake-Crossing-Paths-1QCvNzmaGha/p.html"
     },
     {
       "id": "n15",
