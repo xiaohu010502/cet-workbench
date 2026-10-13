@@ -5,52 +5,52 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "src": "CGTN·Business",
-      "title": "EU faces mounting pressure amid concerns over winter energy supplies",
-      "link": "https://news.cgtn.com/news/2026-10-11/EU-faces-mounting-pressure-amid-concerns-over-winter-energy-supplies-1R9q9GwCyg8/p.html"
+      "title": "IBLAC 2026: Global biz leaders gather in Shanghai for council meeting",
+      "link": "https://news.cgtn.com/news/2026-10-12/IBLAC-2026-Global-biz-leaders-gather-in-Shanghai-for-council-meeting-1RaUJXnSVrO/p.html"
     },
     {
       "id": "n02",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "src": "CGTN·China",
-      "title": "Taiwan leader's speech exposes him as threat to peace: spokesperson",
-      "link": "https://news.cgtn.com/news/2026-10-11/Taiwan-leader-s-speech-exposes-him-as-threat-to-peace-spokesperson-1R9FbpeiUZG/p.html"
+      "title": "Documentary film screening draws international audiences",
+      "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-screening-draws-international-audiences-1Rbc7EDVGG4/p.html"
     },
     {
       "id": "n03",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "src": "CGTN·China",
-      "title": "Discover music and ancient civilizations in Beijing",
-      "link": "https://news.cgtn.com/news/2026-10-11/Discover-music-and-ancient-civilizations-in-Beijing-1R9GktZXjj2/p.html"
+      "title": "China's top diplomat to attend CICA summit, visit four countries",
+      "link": "https://news.cgtn.com/news/2026-10-12/China-s-top-diplomat-to-attend-CICA-summit-visit-four-countries-1RbxFvQ0Zc4/p.html"
     },
     {
       "id": "n04",
+      "date": "2026-10-12",
+      "src": "CGTN·China",
+      "title": "Documentary film Hotline Beijing 2 screened in Chinese capital",
+      "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-Hotline-Beijing-2-screened-in-Chinese-capital-1RaXBx0PU1q/p.html"
+    },
+    {
+      "id": "n05",
       "date": "2026-10-10",
       "src": "CGTN·Culture",
       "title": "Peng Liyuan urges development of digital education access for women",
       "link": "https://news.cgtn.com/news/2026-10-10/Peng-Liyuan-urges-development-of-digital-education-access-for-women-1R7u8ZefbW0/p.html"
     },
     {
-      "id": "n05",
+      "id": "n06",
       "date": "2026-10-10",
       "src": "CGTN·Culture",
       "title": "The Queen's Sword Ep. 5 | From princess to slave",
       "link": "https://news.cgtn.com/news/2026-10-10/The-Queen-s-Sword-Ep-5-From-princess-to-slave-1R7BnBFh6mI/p.html"
     },
     {
-      "id": "n06",
+      "id": "n07",
       "date": "2026-10-10",
       "src": "CGTN·Travel",
       "title": "From Xinyu to the world: How China's batteries are changing the game",
       "link": "https://news.cgtn.com/news/2026-10-10/From-Xinyu-to-the-world-How-China-s-batteries-are-changing-the-game-1R7KzQI2bpm/p.html"
-    },
-    {
-      "id": "n07",
-      "date": "2026-10-09",
-      "src": "CGTN·China",
-      "title": "Chinese envoy: Japan's remilitarization drive threatens regional peace",
-      "link": "https://news.cgtn.com/news/2026-10-09/Chinese-envoy-Japan-s-remilitarization-drive-threatens-regional-peace-1R6o6GZaYGA/p.html"
     },
     {
       "id": "n08",
@@ -75,31 +75,31 @@ window.CET_CONTENT = {
     },
     {
       "id": "n11",
+      "date": "2026-10-04",
+      "src": "CGTN·Business",
+      "title": "China responds to US criticism of Starbucks' Xinjiang expansion",
+      "link": "https://news.cgtn.com/news/2026-10-04/China-responds-to-US-group-s-criticism-of-Starbucks-Xinjiang-expansion-1QYuNGquJEI/p.html"
+    },
+    {
+      "id": "n12",
       "date": "2026-10-02",
       "src": "CGTN·Travel",
       "title": "China's railway passenger trips hit record single-day high",
       "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
     },
     {
-      "id": "n12",
+      "id": "n13",
+      "date": "2026-10-02",
+      "src": "CGTN·Business",
+      "title": "Heads of State head to Egypt for inaugural Alamein Africa Forum",
+      "link": "https://newsaf.cgtn.com/news/2026-10-02/Heads-of-State-head-to-Egypt-for-inaugural-Alamein-Africa-Forum-1QV7X8klu0M/p.html"
+    },
+    {
+      "id": "n14",
       "date": "2026-09-30",
       "src": "CGTN·Culture",
       "title": "Connecting the world: 'Hear Every Voice 2026 World Rivers Gala'",
       "link": "https://news.cgtn.com/news/2026-09-30/Connecting-the-world-Hear-Every-Voice-2026-World-Rivers-Gala--1QRh9D2Iphu/p.html"
-    },
-    {
-      "id": "n13",
-      "date": "2026-09-30",
-      "src": "CGTN·Business",
-      "title": "Explore new destinations and see more of China",
-      "link": "https://news.cgtn.com/news/2026-09-30/Explore-new-destinations-and-see-more-of-China-1QRGj3AOXu0/p.html"
-    },
-    {
-      "id": "n14",
-      "date": "2026-09-28",
-      "src": "CGTN·Business",
-      "title": "Could the next big coffee idea come from China?",
-      "link": "https://news.cgtn.com/news/2026-09-28/Could-the-next-big-coffee-idea-come-from-China--1QOienFs2f6/p.html"
     },
     {
       "id": "n15",
