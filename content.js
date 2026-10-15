@@ -33,31 +33,31 @@ window.CET_CONTENT = {
     },
     {
       "id": "n05",
-      "date": "2026-10-10",
+      "date": "2026-10-12",
       "src": "CGTN·Culture",
-      "title": "How China uses digital tech to empower women globally",
-      "link": "https://news.cgtn.com/news/2026-10-10/How-China-uses-digital-tech-to-empower-women-globally-1R7KuZ2GTMk/p.html"
+      "title": "The long march in song: from farewell to a new voice",
+      "link": "https://news.cgtn.com/news/2026-10-12/The-long-march-in-song-from-farewell-to-a-new-voice-1Rbj73L5bBS/p.html"
     },
     {
       "id": "n06",
-      "date": "2026-10-09",
+      "date": "2026-10-12",
       "src": "CGTN·Culture",
-      "title": "Night tour of Longmen: One step, a thousand years",
-      "link": "https://news.cgtn.com/news/2026-10-09/Night-tour-of-Longmen-One-step-a-thousand-years-1R6kNNSdADC/p.html"
+      "title": "A journey in Beijing through history, culture and music",
+      "link": "https://news.cgtn.com/news/2026-10-12/A-journey-in-Beijing-through-history-culture-and-music-1Rbk3zHp2I8/p.html"
     },
     {
       "id": "n07",
+      "date": "2026-10-07",
+      "src": "CGTN·Culture",
+      "title": "Atlanta zoo to debut new pandas and habitat",
+      "link": "https://newsus.cgtn.com/news/2026-10-07/Atlanta-zoo-to-debut-new-pandas-and-habitat--1R2e8bQYiNq/p.html"
+    },
+    {
+      "id": "n08",
       "date": "2026-10-06",
       "src": "CGTN·Business",
       "title": "What's new in China's urban renewal plan?",
       "link": "https://news.cgtn.com/news/2026-10-06/What-s-new-in-China-s-urban-renewal-plan--1R1CoEzbHuU/p.html"
-    },
-    {
-      "id": "n08",
-      "date": "2026-10-04",
-      "src": "CGTN·Sports",
-      "title": "China reaches 169 Asian Games gold medals, sets new overseas record",
-      "link": "https://news.cgtn.com/news/2026-10-04/China-reaches-169-Asian-Games-gold-medals-sets-new-overseas-record-1QXM1DaxKiQ/p.html"
     },
     {
       "id": "n09",
@@ -68,10 +68,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n10",
-      "date": "2026-10-03",
-      "src": "CGTN·Culture",
-      "title": "'China Haul' trend highlights China's growing global appeal",
-      "link": "https://news.cgtn.com/news/2026-10-03/-China-Haul-trend-highlights-China-s-growing-global-appeal-1QWEIDCf9sc/p.html"
+      "date": "2026-10-01",
+      "src": "CGTN·Sports",
+      "title": "Lian Junjie wins China's 100th diving gold in history of Asian Games",
+      "link": "https://news.cgtn.com/news/2026-10-01/Lian-Junjie-wins-China-s-100th-diving-gold-in-history-of-Asian-Games-1QSFI9HqR7W/p.html"
     },
     {
       "id": "n11",
@@ -82,17 +82,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n12",
-      "date": "2026-09-30",
-      "src": "CGTN·Sports",
-      "title": "Exclusive: ATP CEO eyes change as China Open celebrates 20th edition",
-      "link": "https://news.cgtn.com/news/2026-09-30/Exclusive-ATP-CEO-eyes-change-as-China-Open-celebrates-20th-edition-1QRdYHLOXII/p.html"
-    },
-    {
-      "id": "n13",
       "date": "2026-09-28",
       "src": "CGTN·Travel",
       "title": "The Long March memory: Straw sandals and Xiao Nandou's family craft",
       "link": "https://news.cgtn.com/news/2026-09-28/The-Long-March-memory-Straw-sandals-and-Xiao-Nandou-s-family-craft-1QMF0hvQVI4/p.html"
+    },
+    {
+      "id": "n13",
+      "date": "2026-09-27",
+      "src": "CGTN·Sports",
+      "title": "Asian Games | China wins 100th gold; 36-year-old record falls",
+      "link": "https://news.cgtn.com/news/2026-09-27/Asian-Games-China-wins-100th-gold-36-year-old-record-falls-1QManwC9zUc/p.html"
     },
     {
       "id": "n14",
@@ -103,10 +103,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n15",
-      "date": "2026-09-19",
+      "date": "2026-09-15",
       "src": "CGTN·Sports",
-      "title": "2026 Asian Games open with Team China ready to shine",
-      "link": "https://news.cgtn.com/news/2026-09-19/2026-Asian-Games-open-with-Team-China-ready-to-shine-1QzdXd49gL6/p.html"
+      "title": "China routs defending champion Philippines to finish top in Group C",
+      "link": "https://news.cgtn.com/news/2026-09-15/China-routs-defending-champion-Philippines-to-finish-top-in-Group-C-1Qs9WzgueGI/p.html"
     }
   ],
   "readings": [
