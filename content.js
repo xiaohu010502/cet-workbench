@@ -26,38 +26,38 @@ window.CET_CONTENT = {
     },
     {
       "id": "n04",
+      "date": "2026-10-15",
+      "src": "CGTN·Travel",
+      "title": "OIV Congress debuts in Asia, exploring Ningxia wine and tea culture",
+      "link": "https://news.cgtn.com/news/2026-10-15/OIV-Congress-debuts-in-Asia-exploring-Ningxia-wine-and-tea-culture-1Rg9k8WDCmI/p.html"
+    },
+    {
+      "id": "n05",
+      "date": "2026-10-15",
+      "src": "CGTN·Travel",
+      "title": "Fall turns pink! A dreamy seasonal spectacle",
+      "link": "https://news.cgtn.com/news/2026-10-15/Fall-turns-pink-A-dreamy-seasonal-spectacle-1Rg4bloo3Xa/p.html"
+    },
+    {
+      "id": "n06",
       "date": "2026-10-13",
       "src": "CGTN·Business",
       "title": "Chinese vice premier meets with Apple executive chairman",
       "link": "https://news.cgtn.com/news/2026-10-13/Chinese-vice-premier-meets-with-Apple-executive-chairman-1RcoeYcFN04/p.html"
     },
     {
-      "id": "n05",
+      "id": "n07",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Listening to the people, building trust",
       "link": "https://news.cgtn.com/news/2026-10-12/Listening-to-the-people-building-trust-1RbmdZwTBnO/p.html"
     },
     {
-      "id": "n06",
+      "id": "n08",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Documentary film screening draws international audience",
       "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-screening-draws-international-audience-1Rbmk9K3QnS/p.html"
-    },
-    {
-      "id": "n07",
-      "date": "2026-10-12",
-      "src": "CGTN·Travel",
-      "title": "The Ming dynasty, still alive",
-      "link": "https://news.cgtn.com/news/2026-10-12/The-Ming-dynasty-still-alive-1RaPGiXSlZC/p.html"
-    },
-    {
-      "id": "n08",
-      "date": "2026-10-08",
-      "src": "CGTN·Travel",
-      "title": "Admire exquisite Ming-era Buddhist statues at Beijing's Zhihua Temple",
-      "link": "https://news.cgtn.com/news/2026-10-08/Admire-exquisite-Ming-era-Buddhist-statues-at-Beijing-s-Zhihua-Temple-1R4HhDrPFi8/p.html"
     },
     {
       "id": "n09",
@@ -82,10 +82,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n12",
-      "date": "2026-10-05",
+      "date": "2026-10-02",
       "src": "CGTN·Travel",
-      "title": "Richer, immersive experiences fuel China's holiday consumption",
-      "link": "https://news.cgtn.com/news/2026-10-05/Richer-immersive-experiences-fuel-China-s-holiday-consumption--1QZEqF34WJ2/p.html"
+      "title": "China's railway passenger trips hit record single-day high",
+      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
     },
     {
       "id": "n13",
