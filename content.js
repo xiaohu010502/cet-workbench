@@ -6,72 +6,72 @@ window.CET_CONTENT = {
     {
       "id": "n01",
       "date": "2026-10-16",
+      "src": "CGTN·Travel",
+      "title": "When torches light up the Wumeng Mountains",
+      "link": "https://news.cgtn.com/news/2026-10-16/When-torches-light-up-the-Wumeng-Mountains-1RaXGfS2Xrq/p.html"
+    },
+    {
+      "id": "n02",
+      "date": "2026-10-16",
       "src": "CGTN·China",
       "title": "Foreign ministers of Djibouti, Republic of Congo to visit China",
       "link": "https://news.cgtn.com/news/2026-10-16/Foreign-ministers-of-Djibouti-Republic-of-Congo-to-visit-China-1Ri2FvJGZuE/p.html"
     },
     {
-      "id": "n02",
+      "id": "n03",
       "date": "2026-10-16",
       "src": "CGTN·China",
       "title": "Foreign diplomats explore Ningxia's specialty industries",
       "link": "https://news.cgtn.com/news/2026-10-16/Foreign-diplomats-explore-Ningxia-s-specialty-industries-1RhVzlSvQL6/p.html"
     },
     {
-      "id": "n03",
+      "id": "n04",
       "date": "2026-10-16",
       "src": "CGTN·China",
       "title": "How AI is redefining precision farming in China",
       "link": "https://news.cgtn.com/news/2026-10-16/How-AI-is-redefining-precision-farming-in-China-1RhsBvUDm12/p.html"
     },
     {
-      "id": "n04",
+      "id": "n05",
       "date": "2026-10-13",
       "src": "CGTN·Business",
       "title": "Chinese vice premier meets with Apple executive chairman",
       "link": "https://news.cgtn.com/news/2026-10-13/Chinese-vice-premier-meets-with-Apple-executive-chairman-1RcoeYcFN04/p.html"
     },
     {
-      "id": "n05",
+      "id": "n06",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Listening to the people, building trust",
       "link": "https://news.cgtn.com/news/2026-10-12/Listening-to-the-people-building-trust-1RbmdZwTBnO/p.html"
     },
     {
-      "id": "n06",
+      "id": "n07",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Documentary film screening draws international audience",
       "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-screening-draws-international-audience-1Rbmk9K3QnS/p.html"
     },
     {
-      "id": "n07",
-      "date": "2026-10-08",
+      "id": "n08",
+      "date": "2026-10-12",
       "src": "CGTN·Travel",
-      "title": "Taicang South Garden: Private garden of a Ming Dynasty chief minister",
-      "link": "https://news.cgtn.com/news/2026-10-08/Taicang-South-Garden-Private-garden-of-a-Ming-Dynasty-chief-minister-1R4AVhoQW8E/p.html"
+      "title": "The Ming dynasty, still alive",
+      "link": "https://news.cgtn.com/news/2026-10-12/The-Ming-dynasty-still-alive-1RaPGiXSlZC/p.html"
     },
     {
-      "id": "n08",
+      "id": "n09",
       "date": "2026-10-08",
       "src": "CGTN·Business",
       "title": "IEA backs faster release of 100 million barrels as fuel prices climb",
       "link": "https://news.cgtn.com/news/2026-10-08/IEA-backs-faster-release-of-100-million-barrels-as-fuel-prices-climb-1R4j38DGLg4/p.html"
     },
     {
-      "id": "n09",
+      "id": "n10",
       "date": "2026-10-07",
       "src": "CGTN·Culture",
       "title": "The Drum and Bell Towers and the rhythms of Old Beijing",
       "link": "https://news.cgtn.com/news/2026-10-07/The-Drum-and-Bell-Towers-and-the-rhythms-of-Old-Beijing-1R2Wid9nnhe/p.html"
-    },
-    {
-      "id": "n10",
-      "date": "2026-10-07",
-      "src": "CGTN·Travel",
-      "title": "Overseas tourists embrace immersive China travel during holiday season",
-      "link": "https://news.cgtn.com/news/2026-10-07/Overseas-tourists-embrace-immersive-China-travel-during-holiday-season-1R31AZxISsg/p.html"
     },
     {
       "id": "n11",
@@ -82,10 +82,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n12",
-      "date": "2026-10-04",
+      "date": "2026-10-02",
       "src": "CGTN·Travel",
-      "title": "Beyond the tourist trail: China's holiday travel takes new turns",
-      "link": "https://news.cgtn.com/news/2026-10-04/Beyond-the-tourist-trail-China-s-holiday-travel-takes-new-turns-1QY8eiWyPTi/p.html"
+      "title": "China's railway passenger trips hit record single-day high",
+      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
     },
     {
       "id": "n13",
