@@ -26,66 +26,66 @@ window.CET_CONTENT = {
     },
     {
       "id": "n04",
-      "date": "2026-10-15",
-      "src": "CGTN·Travel",
-      "title": "OIV Congress debuts in Asia, exploring Ningxia wine and tea culture",
-      "link": "https://news.cgtn.com/news/2026-10-15/OIV-Congress-debuts-in-Asia-exploring-Ningxia-wine-and-tea-culture-1Rg9k8WDCmI/p.html"
-    },
-    {
-      "id": "n05",
-      "date": "2026-10-15",
-      "src": "CGTN·Travel",
-      "title": "Fall turns pink! A dreamy seasonal spectacle",
-      "link": "https://news.cgtn.com/news/2026-10-15/Fall-turns-pink-A-dreamy-seasonal-spectacle-1Rg4bloo3Xa/p.html"
-    },
-    {
-      "id": "n06",
       "date": "2026-10-13",
       "src": "CGTN·Business",
       "title": "Chinese vice premier meets with Apple executive chairman",
       "link": "https://news.cgtn.com/news/2026-10-13/Chinese-vice-premier-meets-with-Apple-executive-chairman-1RcoeYcFN04/p.html"
     },
     {
-      "id": "n07",
+      "id": "n05",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Listening to the people, building trust",
       "link": "https://news.cgtn.com/news/2026-10-12/Listening-to-the-people-building-trust-1RbmdZwTBnO/p.html"
     },
     {
-      "id": "n08",
+      "id": "n06",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Documentary film screening draws international audience",
       "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-screening-draws-international-audience-1Rbmk9K3QnS/p.html"
     },
     {
-      "id": "n09",
+      "id": "n07",
+      "date": "2026-10-12",
+      "src": "CGTN·Travel",
+      "title": "Night at Yingtianmen",
+      "link": "https://news.cgtn.com/news/2026-10-12/Night-at-Yingtianmen-1RboZYOnTZS/p.html"
+    },
+    {
+      "id": "n08",
       "date": "2026-10-08",
       "src": "CGTN·Business",
       "title": "IEA backs faster release of 100 million barrels as fuel prices climb",
       "link": "https://news.cgtn.com/news/2026-10-08/IEA-backs-faster-release-of-100-million-barrels-as-fuel-prices-climb-1R4j38DGLg4/p.html"
     },
     {
-      "id": "n10",
+      "id": "n09",
       "date": "2026-10-07",
       "src": "CGTN·Culture",
       "title": "The Drum and Bell Towers and the rhythms of Old Beijing",
       "link": "https://news.cgtn.com/news/2026-10-07/The-Drum-and-Bell-Towers-and-the-rhythms-of-Old-Beijing-1R2Wid9nnhe/p.html"
     },
     {
-      "id": "n11",
+      "id": "n10",
       "date": "2026-10-06",
       "src": "CGTN·Business",
       "title": "What's new in China's urban renewal plan?",
       "link": "https://news.cgtn.com/news/2026-10-06/What-s-new-in-China-s-urban-renewal-plan--1R1CoEzbHuU/p.html"
     },
     {
-      "id": "n12",
-      "date": "2026-10-02",
+      "id": "n11",
+      "date": "2026-10-05",
       "src": "CGTN·Travel",
-      "title": "China's railway passenger trips hit record single-day high",
-      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
+      "title": "Richer, immersive experiences fuel China's holiday consumption",
+      "link": "https://news.cgtn.com/news/2026-10-05/Richer-immersive-experiences-fuel-China-s-holiday-consumption--1QZEqF34WJ2/p.html"
+    },
+    {
+      "id": "n12",
+      "date": "2026-10-03",
+      "src": "CGTN·Travel",
+      "title": "The whole world knows China is on holiday",
+      "link": "https://news.cgtn.com/news/2026-10-03/The-whole-world-knows-China-is-on-holiday-1QWdX8yiGmQ/p.html"
     },
     {
       "id": "n13",
