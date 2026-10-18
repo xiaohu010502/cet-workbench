@@ -5,31 +5,31 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "src": "CGTN·China",
-      "title": "Foreign ministers of Djibouti, Republic of Congo to visit China",
-      "link": "https://news.cgtn.com/news/2026-10-16/Foreign-ministers-of-Djibouti-Republic-of-Congo-to-visit-China-1Ri2FvJGZuE/p.html"
+      "title": "China's outdoor sports industry reaches 3.17 trillion yuan",
+      "link": "https://news.cgtn.com/news/2026-10-17/China-s-outdoor-sports-industry-reaches-3-17-trillion-yuan-1RjebFQrlHW/p.html"
     },
     {
       "id": "n02",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "src": "CGTN·China",
-      "title": "Foreign diplomats explore Ningxia's specialty industries",
-      "link": "https://news.cgtn.com/news/2026-10-16/Foreign-diplomats-explore-Ningxia-s-specialty-industries-1RhVzlSvQL6/p.html"
+      "title": "Jane Eyre finds herself on the Chinese musical stage",
+      "link": "https://news.cgtn.com/news/2026-10-17/Jane-Eyre-finds-herself-on-the-Chinese-musical-stage-1RiuM91EUQo/p.html"
     },
     {
       "id": "n03",
-      "date": "2026-10-16",
-      "src": "CGTN·China",
-      "title": "How AI is redefining precision farming in China",
-      "link": "https://news.cgtn.com/news/2026-10-16/How-AI-is-redefining-precision-farming-in-China-1RhsBvUDm12/p.html"
+      "date": "2026-10-15",
+      "src": "CGTN·Business",
+      "title": "Canton Fair at 70: How China brings certainty to global trade",
+      "link": "https://news.cgtn.com/news/2026-10-15/Canton-Fair-at-70-How-China-brings-certainty-to-global-trade-1Rf1uSvT8DS/p.html"
     },
     {
       "id": "n04",
-      "date": "2026-10-13",
-      "src": "CGTN·Business",
-      "title": "Chinese vice premier meets with Apple executive chairman",
-      "link": "https://news.cgtn.com/news/2026-10-13/Chinese-vice-premier-meets-with-Apple-executive-chairman-1RcoeYcFN04/p.html"
+      "date": "2026-10-15",
+      "src": "CGTN·China",
+      "title": "Xi highlights China's commitment to opening up as Canton Fair opens",
+      "link": "https://news.cgtn.com/news/2026-10-15/Xi-highlights-China-s-commitment-to-opening-up-as-Canton-Fair-opens-1RghUMtX4ac/p.html"
     },
     {
       "id": "n05",
@@ -47,24 +47,24 @@ window.CET_CONTENT = {
     },
     {
       "id": "n07",
-      "date": "2026-10-12",
+      "date": "2026-10-11",
       "src": "CGTN·Travel",
-      "title": "Night at Yingtianmen",
-      "link": "https://news.cgtn.com/news/2026-10-12/Night-at-Yingtianmen-1RboZYOnTZS/p.html"
+      "title": "Autumn colors and snow-capped peaks boost rural tourism in Xizang",
+      "link": "https://news.cgtn.com/news/2026-10-11/Autumn-colors-and-snow-capped-peaks-boost-rural-tourism-in-Xizang-1R9AOsiYxeo/p.html"
     },
     {
       "id": "n08",
-      "date": "2026-10-12",
+      "date": "2026-10-09",
       "src": "CGTN·Travel",
-      "title": "Guizhou’s waterfalls: Where the mountains roar",
-      "link": "https://news.cgtn.com/news/2026-10-12/Guizhou-s-waterfalls-Where-the-mountains-roar-1RaTe1O1ak8/p.html"
+      "title": "Macao draws record National Day crowds",
+      "link": "https://news.cgtn.com/news/2026-10-09/Macao-draws-record-National-Day-crowds-1R6lurnnz0s/p.html"
     },
     {
       "id": "n09",
       "date": "2026-10-08",
       "src": "CGTN·Business",
-      "title": "IEA backs faster release of 100 million barrels as fuel prices climb",
-      "link": "https://news.cgtn.com/news/2026-10-08/IEA-backs-faster-release-of-100-million-barrels-as-fuel-prices-climb-1R4j38DGLg4/p.html"
+      "title": "PBOC: China committed to market-driven exchange rate",
+      "link": "https://news.cgtn.com/news/2026-10-08/PBOC-China-committed-to-market-driven-exchange-rate-1R4SMyVnqx2/p.html"
     },
     {
       "id": "n10",
@@ -75,31 +75,31 @@ window.CET_CONTENT = {
     },
     {
       "id": "n11",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "src": "CGTN·Business",
-      "title": "What's new in China's urban renewal plan?",
-      "link": "https://news.cgtn.com/news/2026-10-06/What-s-new-in-China-s-urban-renewal-plan--1R1CoEzbHuU/p.html"
+      "title": "Hong Kong retains position as world's freest economy, report finds",
+      "link": "https://news.cgtn.com/news/2026-10-07/Hong-Kong-retains-position-as-world-s-freest-economy-report-finds-1R2q2CZHCxO/p.html"
     },
     {
       "id": "n12",
+      "date": "2026-10-05",
+      "src": "CGTN·Travel",
+      "title": "Chinese rice farm stuns holiday travelers with field-wide artworks",
+      "link": "https://news.cgtn.com/news/2026-10-05/Chinese-rice-farm-stuns-holiday-travelers-with-field-wide-artworks-1QZumFMTXqw/p.html"
+    },
+    {
+      "id": "n13",
       "date": "2026-09-28",
       "src": "CGTN·Sports",
       "title": "Zimbabwe beats Uganda to win Rugby Africa Sevens title",
       "link": "https://newsaf.cgtn.com/news/2026-09-28/Zimbabwe-beats-Uganda-to-win-Rugby-Africa-Sevens-title-1QO8hDL8KrK/p.html"
     },
     {
-      "id": "n13",
+      "id": "n14",
       "date": "2026-09-27",
       "src": "CGTN·Sports",
       "title": "Exclusive: Mutaz Essa Barshim eyes his fifth Asian Games and beyond",
       "link": "https://news.cgtn.com/news/2026-09-27/Exclusive-Mutaz-Essa-Barshim-eyes-his-fifth-Asian-Games-and-beyond-1QM7HWZgw4U/p.html"
-    },
-    {
-      "id": "n14",
-      "date": "2026-09-25",
-      "src": "CGTN·Travel",
-      "title": "China braces for surge in travel ahead of the upcoming holidays",
-      "link": "https://news.cgtn.com/news/2026-09-25/China-braces-for-surge-in-travel-ahead-of-the-upcoming-holidays-1QHpMuDHUdy/p.html"
     },
     {
       "id": "n15",
