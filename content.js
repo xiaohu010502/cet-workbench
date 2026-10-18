@@ -47,17 +47,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n07",
-      "date": "2026-10-11",
+      "date": "2026-10-09",
       "src": "CGTN·Travel",
-      "title": "Autumn colors and snow-capped peaks boost rural tourism in Xizang",
-      "link": "https://news.cgtn.com/news/2026-10-11/Autumn-colors-and-snow-capped-peaks-boost-rural-tourism-in-Xizang-1R9AOsiYxeo/p.html"
+      "title": "Hong Kong SAR draws 1.6 mln visitor arrivals during Nat'l Day holiday",
+      "link": "https://news.cgtn.com/news/2026-10-09/Hong-Kong-SAR-draws-1-6-mln-visitor-arrivals-during-Nat-l-Day-holiday-1R5MnOHzSkU/p.html"
     },
     {
       "id": "n08",
       "date": "2026-10-09",
       "src": "CGTN·Travel",
-      "title": "Macao draws record National Day crowds",
-      "link": "https://news.cgtn.com/news/2026-10-09/Macao-draws-record-National-Day-crowds-1R6lurnnz0s/p.html"
+      "title": "China sees service consumption growth during National Day holiday",
+      "link": "https://news.cgtn.com/news/2026-10-09/China-sees-service-consumption-growth-during-National-Day-holiday-1R5UNomUhVe/p.html"
     },
     {
       "id": "n09",
@@ -82,10 +82,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n12",
-      "date": "2026-10-05",
+      "date": "2026-10-04",
       "src": "CGTN·Travel",
-      "title": "Chinese rice farm stuns holiday travelers with field-wide artworks",
-      "link": "https://news.cgtn.com/news/2026-10-05/Chinese-rice-farm-stuns-holiday-travelers-with-field-wide-artworks-1QZumFMTXqw/p.html"
+      "title": "Beyond the tourist trail: China's holiday travel takes new turns",
+      "link": "https://news.cgtn.com/news/2026-10-04/Beyond-the-tourist-trail-China-s-holiday-travel-takes-new-turns-1QY8eiWyPTi/p.html"
     },
     {
       "id": "n13",
