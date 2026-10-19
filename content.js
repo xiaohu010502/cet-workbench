@@ -47,59 +47,59 @@ window.CET_CONTENT = {
     },
     {
       "id": "n07",
+      "date": "2026-10-09",
+      "src": "CGTN·Travel",
+      "title": "China sees service consumption growth during National Day holiday",
+      "link": "https://news.cgtn.com/news/2026-10-09/China-sees-service-consumption-growth-during-National-Day-holiday-1R5UNomUhVe/p.html"
+    },
+    {
+      "id": "n08",
       "date": "2026-10-08",
       "src": "CGTN·Culture",
       "title": "Crafting heritage: Art trio reveals the ideas behind their creations",
       "link": "https://news.cgtn.com/news/2026-10-08/Crafting-heritage-Art-trio-reveals-the-ideas-behind-their-creations-1R4E08JKc1O/p.html"
     },
     {
-      "id": "n08",
+      "id": "n09",
+      "date": "2026-10-08",
+      "src": "CGTN·Travel",
+      "title": "Misty Jinxi: The timeless charm of a Jiangnan water town",
+      "link": "https://news.cgtn.com/news/2026-10-08/Misty-Jinxi-The-timeless-charm-of-a-Jiangnan-water-town-1R4AEPTFi80/p.html"
+    },
+    {
+      "id": "n10",
       "date": "2026-10-07",
       "src": "CGTN·Business",
       "title": "China's countryside is having a moment",
       "link": "https://news.cgtn.com/news/2026-10-07/China-s-countryside-is-having-a-moment-1R3dxaUJxbW/p.html"
     },
     {
-      "id": "n09",
+      "id": "n11",
       "date": "2026-10-04",
       "src": "CGTN·Culture",
       "title": "'China in the Classics' kicks off its new season",
       "link": "https://news.cgtn.com/news/2026-10-04/-China-in-the-Classics-kicks-off-its-new-season--1QY6T0FcfZe/p.html"
     },
     {
-      "id": "n10",
+      "id": "n12",
+      "date": "2026-10-03",
+      "src": "CGTN·Travel",
+      "title": "The whole world knows China is on holiday",
+      "link": "https://news.cgtn.com/news/2026-10-03/The-whole-world-knows-China-is-on-holiday-1QWdX8yiGmQ/p.html"
+    },
+    {
+      "id": "n13",
       "date": "2026-09-29",
       "src": "CGTN·Sports",
       "title": "IOC launches Trustworthy AI Framework",
       "link": "https://news.cgtn.com/news/2026-09-29/IOC-launches-Trustworthy-AI-Framework-1QPAzDjp3fa/p.html"
     },
     {
-      "id": "n11",
+      "id": "n14",
       "date": "2026-09-29",
       "src": "CGTN·Sports",
       "title": "China’s young Asian Games squad makes a splash: Launchpad for LA 28?",
       "link": "https://news.cgtn.com/news/2026-09-29/China-s-young-Asian-Games-squad-makes-a-splash-Launchpad-for-LA-28--1QPCQFhQzuw/p.html"
-    },
-    {
-      "id": "n12",
-      "date": "2026-09-28",
-      "src": "CGTN·Travel",
-      "title": "China's civil aviation sector prepares for National Day travel rush",
-      "link": "https://news.cgtn.com/news/2026-09-28/China-s-civil-aviation-sector-prepares-for-National-Day-travel-rush-1QObVVBNidG/p.html"
-    },
-    {
-      "id": "n13",
-      "date": "2026-09-28",
-      "src": "CGTN·Travel",
-      "title": "How about decorating your desk with Confucius figurines?",
-      "link": "https://news.cgtn.com/news/2026-09-28/How-about-decorating-your-desk-with-Confucius-figurines--1QOkJ26fVio/p.html"
-    },
-    {
-      "id": "n14",
-      "date": "2026-09-24",
-      "src": "CGTN·Travel",
-      "title": "Market Days With Movies light up grassland tourism in Ordos",
-      "link": "https://news.cgtn.com/news/2026-09-24/Market-Days-With-Movies-light-up-grassland-tourism-in-Ordos-1QH2PhB7cys/p.html"
     },
     {
       "id": "n15",
