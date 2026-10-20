@@ -33,73 +33,73 @@ window.CET_CONTENT = {
     },
     {
       "id": "n05",
+      "date": "2026-10-17",
+      "src": "CGTN·Travel",
+      "title": "Behind the masks: A spirit that endures",
+      "link": "https://news.cgtn.com/news/2026-10-17/Behind-the-masks-A-spirit-that-endures-1RaQmYpXrFK/p.html"
+    },
+    {
+      "id": "n06",
       "date": "2026-10-15",
       "src": "CGTN·Business",
       "title": "China's FDI stock ranks second globally at 26.8 trillion yuan",
       "link": "https://news.cgtn.com/news/2026-10-15/China-s-FDI-equity-stock-ranks-second-globally-at-26-8-trillion-yuan-1RgkTTptk8U/p.html"
     },
     {
-      "id": "n06",
+      "id": "n07",
       "date": "2026-10-15",
       "src": "CGTN·Business",
       "title": "Hot US inflation, rising AI costs spark global chip stock rout",
       "link": "https://news.cgtn.com/news/2026-10-15/Hot-US-inflation-rising-AI-costs-spark-global-chip-stock-rout-1RgbacuNxwA/p.html"
     },
     {
-      "id": "n07",
+      "id": "n08",
       "date": "2026-10-13",
       "src": "CGTN·Culture",
       "title": "Foreign diplomats embrace China's livestream commerce",
       "link": "https://news.cgtn.com/news/2026-10-13/Foreign-diplomats-embrace-China-s-livestream-commerce-1RbBlwFJYxG/p.html"
     },
     {
-      "id": "n08",
+      "id": "n09",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Documentary film screening draws international audience",
       "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-screening-draws-international-audience-1Rbmk9K3QnS/p.html"
     },
     {
-      "id": "n09",
-      "date": "2026-10-09",
-      "src": "CGTN·Travel",
-      "title": "China sees service consumption growth during National Day holiday",
-      "link": "https://news.cgtn.com/news/2026-10-09/China-sees-service-consumption-growth-during-National-Day-holiday-1R5UNomUhVe/p.html"
-    },
-    {
       "id": "n10",
-      "date": "2026-10-08",
-      "src": "CGTN·Travel",
-      "title": "Misty Jinxi: The timeless charm of a Jiangnan water town",
-      "link": "https://news.cgtn.com/news/2026-10-08/Misty-Jinxi-The-timeless-charm-of-a-Jiangnan-water-town-1R4AEPTFi80/p.html"
-    },
-    {
-      "id": "n11",
       "date": "2026-10-07",
       "src": "CGTN·Culture",
       "title": "Domestic hits push China's National Day box office past 1 billion yuan",
       "link": "https://news.cgtn.com/news/2026-10-07/Domestic-hits-push-China-s-National-Day-box-office-past-1-billion-yuan-1R2TXOZRxug/p.html"
     },
     {
-      "id": "n12",
-      "date": "2026-10-03",
-      "src": "CGTN·Travel",
-      "title": "The whole world knows China is on holiday",
-      "link": "https://news.cgtn.com/news/2026-10-03/The-whole-world-knows-China-is-on-holiday-1QWdX8yiGmQ/p.html"
-    },
-    {
-      "id": "n13",
+      "id": "n11",
       "date": "2026-09-27",
       "src": "CGTN·Sports",
       "title": "Su Wen breaks 36-year triple jump record for first Asian Games gold",
       "link": "https://news.cgtn.com/news/2026-09-27/Su-Wen-breaks-36-year-triple-jump-record-for-first-Asian-Games-gold-1QM5vmDkiqs/p.html"
     },
     {
-      "id": "n14",
+      "id": "n12",
       "date": "2026-09-25",
       "src": "CGTN·Sports",
       "title": "NBA G League United's visits to China strengthen basketball exchanges",
       "link": "https://news.cgtn.com/news/2026-09-25/NBA-G-League-United-s-visits-to-China-strengthen-basketball-exchanges-1QILJoPQTAs/p.html"
+    },
+    {
+      "id": "n13",
+      "date": "2026-09-24",
+      "src": "CGTN·Travel",
+      "title": "China's Green Code EP2 is out now: Growing Green",
+      "link": "https://news.cgtn.com/news/2026-09-24/China-s-Green-Code-EP2-is-out-now-Growing-Green-1QH6vMAimyY/p.html"
+    },
+    {
+      "id": "n14",
+      "date": "2026-09-24",
+      "src": "CGTN·Travel",
+      "title": "Chinese for a Day: Noodles and vinegar Coke | Crossing Paths",
+      "link": "https://news.cgtn.com/news/2026-09-24/Chinese-for-a-Day-Noodles-and-vinegar-Coke-Crossing-Paths--1QCwoGk2eNW/p.html"
     },
     {
       "id": "n15",
