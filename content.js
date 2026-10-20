@@ -41,51 +41,51 @@ window.CET_CONTENT = {
     {
       "id": "n06",
       "date": "2026-10-15",
+      "src": "CGTN·Culture",
+      "title": "'The Long March: A Road Without End' set for global release",
+      "link": "https://news.cgtn.com/news/2026-10-15/-The-Long-March-A-Road-Without-End-set-for-global-release-1Rgdagq927K/p.html"
+    },
+    {
+      "id": "n07",
+      "date": "2026-10-15",
       "src": "CGTN·Business",
       "title": "China's FDI stock ranks second globally at 26.8 trillion yuan",
       "link": "https://news.cgtn.com/news/2026-10-15/China-s-FDI-equity-stock-ranks-second-globally-at-26-8-trillion-yuan-1RgkTTptk8U/p.html"
     },
     {
-      "id": "n07",
+      "id": "n08",
       "date": "2026-10-15",
       "src": "CGTN·Business",
       "title": "Hot US inflation, rising AI costs spark global chip stock rout",
       "link": "https://news.cgtn.com/news/2026-10-15/Hot-US-inflation-rising-AI-costs-spark-global-chip-stock-rout-1RgbacuNxwA/p.html"
     },
     {
-      "id": "n08",
-      "date": "2026-10-13",
-      "src": "CGTN·Culture",
-      "title": "Foreign diplomats embrace China's livestream commerce",
-      "link": "https://news.cgtn.com/news/2026-10-13/Foreign-diplomats-embrace-China-s-livestream-commerce-1RbBlwFJYxG/p.html"
-    },
-    {
       "id": "n09",
-      "date": "2026-10-12",
+      "date": "2026-10-10",
       "src": "CGTN·Culture",
-      "title": "Documentary film screening draws international audience",
-      "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-screening-draws-international-audience-1Rbmk9K3QnS/p.html"
+      "title": "Beijing Music Festival opens with Mozart extravaganza",
+      "link": "https://news.cgtn.com/news/2026-10-10/Beijing-Music-Festival-opens-with-Mozart-extravaganza-1R7SHhV8pfa/p.html"
     },
     {
       "id": "n10",
-      "date": "2026-10-07",
+      "date": "2026-10-06",
       "src": "CGTN·Culture",
-      "title": "Domestic hits push China's National Day box office past 1 billion yuan",
-      "link": "https://news.cgtn.com/news/2026-10-07/Domestic-hits-push-China-s-National-Day-box-office-past-1-billion-yuan-1R2TXOZRxug/p.html"
+      "title": "Chaka Salt Lake welcomes National Day holiday crowds",
+      "link": "https://news.cgtn.com/news/2026-10-06/Chaka-Salt-Lake-welcomes-National-Day-holiday-crowds-1R1iq1uWzBe/p.html"
     },
     {
       "id": "n11",
-      "date": "2026-09-27",
+      "date": "2026-10-05",
       "src": "CGTN·Sports",
-      "title": "Su Wen breaks 36-year triple jump record for first Asian Games gold",
-      "link": "https://news.cgtn.com/news/2026-09-27/Su-Wen-breaks-36-year-triple-jump-record-for-first-Asian-Games-gold-1QM5vmDkiqs/p.html"
+      "title": "WADA president visits Kenya amid doping concerns",
+      "link": "https://newsaf.cgtn.com/news/2026-10-05/WADA-president-visits-Kenya-amid-doping-concerns-1QZTZOklxg4/p.html"
     },
     {
       "id": "n12",
-      "date": "2026-09-25",
+      "date": "2026-09-29",
       "src": "CGTN·Sports",
-      "title": "NBA G League United's visits to China strengthen basketball exchanges",
-      "link": "https://news.cgtn.com/news/2026-09-25/NBA-G-League-United-s-visits-to-China-strengthen-basketball-exchanges-1QILJoPQTAs/p.html"
+      "title": "IOC launches Trustworthy AI Framework",
+      "link": "https://news.cgtn.com/news/2026-09-29/IOC-launches-Trustworthy-AI-Framework-1QPAzDjp3fa/p.html"
     },
     {
       "id": "n13",
@@ -103,10 +103,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n15",
-      "date": "2026-09-12",
+      "date": "2026-09-16",
       "src": "CGTN·Sports",
-      "title": "Chen Xingtong survives Hana Goda for WTT Champions Macao quarterfinals",
-      "link": "https://news.cgtn.com/news/2026-09-12/Chen-Xingtong-survives-Hana-Goda-for-WTT-Champions-Macao-quarterfinals-1QnahUlRkbu/p.html"
+      "title": "Football star James Rodríguez ends 15-year Colombia career at age 35",
+      "link": "https://news.cgtn.com/news/2026-09-16/Football-star-James-Rodr-guez-ends-15-year-Colombia-career-at-age-35-1QtU8p9h6Ks/p.html"
     }
   ],
   "readings": [
