@@ -5,80 +5,80 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
-      "date": "2026-10-18",
-      "src": "CGTN·Business",
-      "title": "Ulanqab steps up building green computing hub",
-      "link": "https://news.cgtn.com/news/2026-10-18/Ulanqab-steps-up-building-green-computing-hub-1RlwbIludXy/p.html"
+      "date": "2026-10-20",
+      "src": "CGTN·China",
+      "title": "UN biodiversity conference begins formal sessions in Armenia",
+      "link": "https://news.cgtn.com/news/2026-10-20/UN-biodiversity-conference-begins-formal-sessions-in-Armenia-1Ro3iUxLEjK/p.html"
     },
     {
       "id": "n02",
-      "date": "2026-10-18",
-      "src": "CGTN·China",
-      "title": "Painted in autumn: Echoes of Tang poetry along Beijing's Liangma River",
-      "link": "https://news.cgtn.com/news/2026-10-18/Painted-in-autumn-Echoes-of-Tang-poetry-along-Beijing-s-Liangma-River-1QUBxTeLFT2/p.html"
+      "date": "2026-10-19",
+      "src": "CGTN·Business",
+      "title": "CGTN Poll: China's financial opening-up eases global governance woes",
+      "link": "https://news.cgtn.com/news/2026-10-19/CGTN-Poll-China-s-financial-opening-up-eases-global-governance-woes-1Rn3xmNyYX6/p.html"
     },
     {
       "id": "n03",
-      "date": "2026-10-17",
+      "date": "2026-10-19",
       "src": "CGTN·China",
-      "title": "Chinese FM meets Israeli president",
-      "link": "https://news.cgtn.com/news/2026-10-17/Chinese-FM-meets-Israeli-president-1RibaPyuRHO/p.html"
+      "title": "CGTN launches immersive multilingual experience on the Long March",
+      "link": "https://news.cgtn.com/news/2026-10-19/CGTN-launches-immersive-multilingual-experience-on-the-Long-March-1RmZwnqlA4w/p.html"
     },
     {
       "id": "n04",
-      "date": "2026-10-17",
+      "date": "2026-10-19",
       "src": "CGTN·China",
-      "title": "China to expand hydrogen use through pilots in five city clusters",
-      "link": "https://news.cgtn.com/news/2026-10-17/China-to-expand-hydrogen-use-through-pilots-in-five-city-clusters-1Rj5WUwPNo4/p.html"
+      "title": "Stunning! First snow hits Xinjiang's Tianchi Lake",
+      "link": "https://news.cgtn.com/news/2026-10-19/Stunning-First-snow-hits-Xinjiang-s-Tianchi-Lake-1RmExISwbIc/p.html"
     },
     {
       "id": "n05",
+      "date": "2026-10-15",
+      "src": "CGTN·Business",
+      "title": "China's FDI stock ranks second globally at 26.8 trillion yuan",
+      "link": "https://news.cgtn.com/news/2026-10-15/China-s-FDI-equity-stock-ranks-second-globally-at-26-8-trillion-yuan-1RgkTTptk8U/p.html"
+    },
+    {
+      "id": "n06",
+      "date": "2026-10-15",
+      "src": "CGTN·Business",
+      "title": "Hot US inflation, rising AI costs spark global chip stock rout",
+      "link": "https://news.cgtn.com/news/2026-10-15/Hot-US-inflation-rising-AI-costs-spark-global-chip-stock-rout-1RgbacuNxwA/p.html"
+    },
+    {
+      "id": "n07",
       "date": "2026-10-13",
       "src": "CGTN·Culture",
       "title": "Foreign diplomats embrace China's livestream commerce",
       "link": "https://news.cgtn.com/news/2026-10-13/Foreign-diplomats-embrace-China-s-livestream-commerce-1RbBlwFJYxG/p.html"
     },
     {
-      "id": "n06",
+      "id": "n08",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Documentary film screening draws international audience",
       "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-screening-draws-international-audience-1Rbmk9K3QnS/p.html"
     },
     {
-      "id": "n07",
-      "date": "2026-10-12",
-      "src": "CGTN·Business",
-      "title": "China, EU reach multiple consensus outcomes on auto trade",
-      "link": "https://news.cgtn.com/news/2026-10-12/China-EU-reach-multiple-consensus-outcomes-on-auto-trade-1RberZFzuG4/p.html"
-    },
-    {
-      "id": "n08",
+      "id": "n09",
       "date": "2026-10-09",
       "src": "CGTN·Travel",
       "title": "China sees service consumption growth during National Day holiday",
       "link": "https://news.cgtn.com/news/2026-10-09/China-sees-service-consumption-growth-during-National-Day-holiday-1R5UNomUhVe/p.html"
     },
     {
-      "id": "n09",
+      "id": "n10",
       "date": "2026-10-08",
       "src": "CGTN·Travel",
       "title": "Misty Jinxi: The timeless charm of a Jiangnan water town",
       "link": "https://news.cgtn.com/news/2026-10-08/Misty-Jinxi-The-timeless-charm-of-a-Jiangnan-water-town-1R4AEPTFi80/p.html"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "date": "2026-10-07",
       "src": "CGTN·Culture",
       "title": "Domestic hits push China's National Day box office past 1 billion yuan",
       "link": "https://news.cgtn.com/news/2026-10-07/Domestic-hits-push-China-s-National-Day-box-office-past-1-billion-yuan-1R2TXOZRxug/p.html"
-    },
-    {
-      "id": "n11",
-      "date": "2026-10-07",
-      "src": "CGTN·Business",
-      "title": "China's countryside is having a moment",
-      "link": "https://news.cgtn.com/news/2026-10-07/China-s-countryside-is-having-a-moment-1R3dxaUJxbW/p.html"
     },
     {
       "id": "n12",
