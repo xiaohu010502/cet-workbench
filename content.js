@@ -6,37 +6,37 @@ window.CET_CONTENT = {
     {
       "id": "n01",
       "date": "2026-10-20",
+      "src": "CGTN·Travel",
+      "title": "Chasing autumn colors in Beijing",
+      "link": "https://news.cgtn.com/news/2026-10-20/Chasing-autumn-colors-in-Beijing-1Roxzg2otVu/p.html"
+    },
+    {
+      "id": "n02",
+      "date": "2026-10-20",
       "src": "CGTN·Business",
       "title": "AI reshapes global economy, bringing both opportunities and challenges",
       "link": "https://news.cgtn.com/news/2026-10-20/AI-reshapes-global-economy-bringing-both-opportunities-and-challenges-1RouBzvvfos/p.html"
     },
     {
-      "id": "n02",
+      "id": "n03",
       "date": "2026-10-20",
       "src": "CGTN·China",
       "title": "Chinese central bank to employ 3-part AI strategy, says governor",
       "link": "https://news.cgtn.com/news/2026-10-20/Chinese-central-bank-to-employ-3-part-AI-strategy-says-governor-1Rp01zM009O/p.html"
     },
     {
-      "id": "n03",
+      "id": "n04",
       "date": "2026-10-20",
       "src": "CGTN·China",
       "title": "Chasing autumn colors in Beijing",
       "link": "https://news.cgtn.com/news/2026-10-20/Chasing-autumn-colors-in-Beijing-1Roxzg2otVu/p.html"
     },
     {
-      "id": "n04",
+      "id": "n05",
       "date": "2026-10-20",
       "src": "CGTN·China",
       "title": "Xi calls for high-quality growth with high-level protection",
       "link": "https://news.cgtn.com/news/2026-10-20/Xi-calls-for-high-quality-growth-with-high-level-protection-1Rn16Yk0t7q/p.html"
-    },
-    {
-      "id": "n05",
-      "date": "2026-10-17",
-      "src": "CGTN·Travel",
-      "title": "Behind the masks: A spirit that endures",
-      "link": "https://news.cgtn.com/news/2026-10-17/Behind-the-masks-A-spirit-that-endures-1RaQmYpXrFK/p.html"
     },
     {
       "id": "n06",
@@ -55,51 +55,51 @@ window.CET_CONTENT = {
     {
       "id": "n08",
       "date": "2026-10-12",
+      "src": "CGTN·Travel",
+      "title": "The Ming dynasty, still alive",
+      "link": "https://news.cgtn.com/news/2026-10-12/The-Ming-dynasty-still-alive-1RaPGiXSlZC/p.html"
+    },
+    {
+      "id": "n09",
+      "date": "2026-10-12",
       "src": "CGTN·Business",
       "title": "China, EU reach multiple consensus outcomes on auto trade",
       "link": "https://news.cgtn.com/news/2026-10-12/China-EU-reach-multiple-consensus-outcomes-on-auto-trade-1RberZFzuG4/p.html"
     },
     {
-      "id": "n09",
+      "id": "n10",
       "date": "2026-10-10",
       "src": "CGTN·Culture",
       "title": "Beijing Music Festival opens with Mozart extravaganza",
       "link": "https://news.cgtn.com/news/2026-10-10/Beijing-Music-Festival-opens-with-Mozart-extravaganza-1R7SHhV8pfa/p.html"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "date": "2026-10-06",
       "src": "CGTN·Culture",
       "title": "Chaka Salt Lake welcomes National Day holiday crowds",
       "link": "https://news.cgtn.com/news/2026-10-06/Chaka-Salt-Lake-welcomes-National-Day-holiday-crowds-1R1iq1uWzBe/p.html"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "date": "2026-10-05",
       "src": "CGTN·Sports",
       "title": "WADA president visits Kenya amid doping concerns",
       "link": "https://newsaf.cgtn.com/news/2026-10-05/WADA-president-visits-Kenya-amid-doping-concerns-1QZTZOklxg4/p.html"
     },
     {
-      "id": "n12",
+      "id": "n13",
+      "date": "2026-10-03",
+      "src": "CGTN·Travel",
+      "title": "'China Haul' trend highlights China's growing global appeal",
+      "link": "https://news.cgtn.com/news/2026-10-03/-China-Haul-trend-highlights-China-s-growing-global-appeal-1QWEIDCf9sc/p.html"
+    },
+    {
+      "id": "n14",
       "date": "2026-09-29",
       "src": "CGTN·Sports",
       "title": "IOC launches Trustworthy AI Framework",
       "link": "https://news.cgtn.com/news/2026-09-29/IOC-launches-Trustworthy-AI-Framework-1QPAzDjp3fa/p.html"
-    },
-    {
-      "id": "n13",
-      "date": "2026-09-24",
-      "src": "CGTN·Travel",
-      "title": "China's Green Code EP2 is out now: Growing Green",
-      "link": "https://news.cgtn.com/news/2026-09-24/China-s-Green-Code-EP2-is-out-now-Growing-Green-1QH6vMAimyY/p.html"
-    },
-    {
-      "id": "n14",
-      "date": "2026-09-24",
-      "src": "CGTN·Travel",
-      "title": "Chinese for a Day: Noodles and vinegar Coke | Crossing Paths",
-      "link": "https://news.cgtn.com/news/2026-09-24/Chinese-for-a-Day-Noodles-and-vinegar-Coke-Crossing-Paths--1QCwoGk2eNW/p.html"
     },
     {
       "id": "n15",
