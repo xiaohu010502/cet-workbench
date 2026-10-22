@@ -33,24 +33,24 @@ window.CET_CONTENT = {
     },
     {
       "id": "n05",
-      "date": "2026-10-20",
-      "src": "CGTN·Travel",
-      "title": "Chasing autumn colors in Beijing",
-      "link": "https://news.cgtn.com/news/2026-10-20/Chasing-autumn-colors-in-Beijing-1Roxzg2otVu/p.html"
-    },
-    {
-      "id": "n06",
       "date": "2026-10-19",
       "src": "CGTN·Sports",
       "title": "Fifth Asian Para Games open in Aichi-Nagoya with nearly 3,000 athletes",
       "link": "https://news.cgtn.com/news/2026-10-19/Fifth-Asian-Para-Games-open-in-Aichi-Nagoya-with-nearly-3-000-athletes-1RmxTuya5j2/p.html"
     },
     {
-      "id": "n07",
+      "id": "n06",
       "date": "2026-10-19",
       "src": "CGTN·Business",
       "title": "China-EU hybrid car understanding: What it means for automakers",
       "link": "https://news.cgtn.com/news/2026-10-19/China-EU-hybrid-car-understanding-What-it-means-for-automakers-1RmGy714HAc/p.html"
+    },
+    {
+      "id": "n07",
+      "date": "2026-10-17",
+      "src": "CGTN·Travel",
+      "title": "Poll on Japanese PM Sanae Takaichi's offering to Yasukuni Shrine",
+      "link": "https://news.cgtn.com/news/2026-10-17/Poll-on-Japanese-PM-Sanae-Takaichi-s-offering-to-Yasukuni-Shrine-1RjDDngddBu/p.html"
     },
     {
       "id": "n08",
@@ -75,31 +75,31 @@ window.CET_CONTENT = {
     },
     {
       "id": "n11",
-      "date": "2026-10-12",
-      "src": "CGTN·Travel",
-      "title": "The Ming dynasty, still alive",
-      "link": "https://news.cgtn.com/news/2026-10-12/The-Ming-dynasty-still-alive-1RaPGiXSlZC/p.html"
-    },
-    {
-      "id": "n12",
       "date": "2026-10-08",
       "src": "CGTN·Culture",
       "title": "Canadian Anne Carson wins 2026 Nobel Prize in Literature",
       "link": "https://news.cgtn.com/news/2026-10-08/news-1R4UMOJTbVK/p.html"
     },
     {
-      "id": "n13",
+      "id": "n12",
       "date": "2026-10-03",
       "src": "CGTN·Sports",
       "title": "Beyond the Medal Table: Asian Games, Esports, Asia's sporting powers",
       "link": "https://news.cgtn.com/news/2026-10-03/Beyond-the-Medal-Table-Asian-Games-Esports-Asia-s-sporting-powers-1QVVqv8fpmw/p.html"
     },
     {
-      "id": "n14",
-      "date": "2026-10-03",
+      "id": "n13",
+      "date": "2026-10-02",
       "src": "CGTN·Travel",
-      "title": "'China Haul' trend highlights China's growing global appeal",
-      "link": "https://news.cgtn.com/news/2026-10-03/-China-Haul-trend-highlights-China-s-growing-global-appeal-1QWEIDCf9sc/p.html"
+      "title": "China's railway passenger trips hit record single-day high",
+      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
+    },
+    {
+      "id": "n14",
+      "date": "2026-09-25",
+      "src": "CGTN·Travel",
+      "title": "2026 Beijing Animation Festival opens",
+      "link": "https://news.cgtn.com/news/2026-09-25/2026-Beijing-Animation-Festival-opens-1QJ5Ny85IqI/p.html"
     },
     {
       "id": "n15",
