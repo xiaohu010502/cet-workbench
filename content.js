@@ -6,51 +6,51 @@ window.CET_CONTENT = {
     {
       "id": "n01",
       "date": "2026-10-22",
+      "src": "CGTN·Travel",
+      "title": "Documentary brings Yunnan’s Asian elephant stories to global screens",
+      "link": "https://news.cgtn.com/news/2026-10-22/Documentary-brings-Yunnan-s-Asian-elephant-stories-to-global-screens-1RrULxCWA5a/p.html"
+    },
+    {
+      "id": "n02",
+      "date": "2026-10-22",
       "src": "CGTN·China",
       "title": "Thriving Amur tigers reflect conservation efforts in northeast China",
       "link": "https://news.cgtn.com/news/2026-10-22/Thriving-Amur-tigers-reflect-conservation-efforts-in-northeast-China-1RrQ7LD9yH6/p.html"
     },
     {
-      "id": "n02",
+      "id": "n03",
       "date": "2026-10-21",
       "src": "CGTN·Culture",
       "title": "Yunnan snub-nosed monkeys enjoy bamboo feast in southwest China",
       "link": "https://news.cgtn.com/news/2026-10-21/Yunnan-snub-nosed-monkeys-enjoy-bamboo-feast-in-southwest-China-1RqhLqn9w1q/p.html"
     },
     {
-      "id": "n03",
+      "id": "n04",
       "date": "2026-10-20",
       "src": "CGTN·Business",
       "title": "AI reshapes global economy, bringing both opportunities and challenges",
       "link": "https://news.cgtn.com/news/2026-10-20/AI-reshapes-global-economy-bringing-both-opportunities-and-challenges-1RouBzvvfos/p.html"
     },
     {
-      "id": "n04",
+      "id": "n05",
       "date": "2026-10-20",
       "src": "CGTN·China",
       "title": "China establishes new state-owned enterprise focused on data",
       "link": "https://news.cgtn.com/news/2026-10-20/China-establishes-new-state-owned-enterprise-focused-on-data-1RoS8QSf1Ze/p.html"
     },
     {
-      "id": "n05",
+      "id": "n06",
       "date": "2026-10-20",
       "src": "CGTN·China",
       "title": "Chinese Embassy in UK urges citizens to be vigilant over border checks",
       "link": "https://news.cgtn.com/news/2026-10-20/Chinese-Embassy-in-UK-urges-citizens-to-be-vigilant-over-border-checks-1RoD8L8mANy/p.html"
     },
     {
-      "id": "n06",
+      "id": "n07",
       "date": "2026-10-17",
       "src": "CGTN·Sports",
       "title": "How Zheng Qinwen transformed her game and mindset in two months",
       "link": "https://news.cgtn.com/news/2026-10-17/How-Zheng-Qinwen-transformed-her-game-and-mindset-in-two-months-1RjbdSFXKwg/p.html"
-    },
-    {
-      "id": "n07",
-      "date": "2026-10-17",
-      "src": "CGTN·Travel",
-      "title": "Poll on Japanese PM Sanae Takaichi's offering to Yasukuni Shrine",
-      "link": "https://news.cgtn.com/news/2026-10-17/Poll-on-Japanese-PM-Sanae-Takaichi-s-offering-to-Yasukuni-Shrine-1RjDDngddBu/p.html"
     },
     {
       "id": "n08",
@@ -75,31 +75,31 @@ window.CET_CONTENT = {
     },
     {
       "id": "n11",
+      "date": "2026-10-10",
+      "src": "CGTN·Travel",
+      "title": "A historic capital reborn, a heritage reawakened",
+      "link": "https://news.cgtn.com/news/2026-10-10/A-historic-capital-reborn-a-heritage-reawakened-1R7ZMkTsUQU/p.html"
+    },
+    {
+      "id": "n12",
       "date": "2026-10-09",
       "src": "CGTN·Culture",
       "title": "Symposium held to study Xi's works on culture",
       "link": "https://news.cgtn.com/news/2026-10-09/Symposium-held-to-study-Xi-s-works-on-culture-1R6zQjPACHe/p.html"
     },
     {
-      "id": "n12",
+      "id": "n13",
+      "date": "2026-10-03",
+      "src": "CGTN·Travel",
+      "title": "AI and new ideas reshape China's animation industry",
+      "link": "https://news.cgtn.com/news/2026-10-03/AI-and-new-ideas-reshape-China-s-animation-industry-1QWjkl4kEBG/p.html"
+    },
+    {
+      "id": "n14",
       "date": "2026-10-02",
       "src": "CGTN·Sports",
       "title": "Xie Zhenye backs China's young sprinters to shine on world stage",
       "link": "https://news.cgtn.com/news/2026-10-02/Xie-Zhenye-backs-China-s-young-sprinters-to-shine-on-world-stage-1QUkbCV8cDe/p.html"
-    },
-    {
-      "id": "n13",
-      "date": "2026-10-02",
-      "src": "CGTN·Travel",
-      "title": "China's railway passenger trips hit record single-day high",
-      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
-    },
-    {
-      "id": "n14",
-      "date": "2026-09-25",
-      "src": "CGTN·Travel",
-      "title": "2026 Beijing Animation Festival opens",
-      "link": "https://news.cgtn.com/news/2026-09-25/2026-Beijing-Animation-Festival-opens-1QJ5Ny85IqI/p.html"
     },
     {
       "id": "n15",
