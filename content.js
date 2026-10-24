@@ -27,16 +27,16 @@ window.CET_CONTENT = {
     {
       "id": "n04",
       "date": "2026-10-22",
-      "src": "CGTN·Travel",
-      "title": "Documentary brings Yunnan’s Asian elephant stories to global screens",
-      "link": "https://news.cgtn.com/news/2026-10-22/Documentary-brings-Yunnan-s-Asian-elephant-stories-to-global-screens-1RrULxCWA5a/p.html"
-    },
-    {
-      "id": "n05",
-      "date": "2026-10-22",
       "src": "CGTN·China",
       "title": "Chinese FM meets Djibouti's counterpart",
       "link": "https://news.cgtn.com/news/2026-10-22/Chinese-FM-meets-Djibouti-s-counterpart-1RrjSMlD7t6/p.html"
+    },
+    {
+      "id": "n05",
+      "date": "2026-10-21",
+      "src": "CGTN·Travel",
+      "title": "Where water leaves its mark: Bouyei tradition in Guizhou",
+      "link": "https://news.cgtn.com/news/2026-10-21/Where-water-leaves-its-mark-Bouyei-tradition-in-Guizhou-1RluiIMbWrC/p.html"
     },
     {
       "id": "n06",
@@ -75,24 +75,24 @@ window.CET_CONTENT = {
     },
     {
       "id": "n11",
-      "date": "2026-10-10",
-      "src": "CGTN·Travel",
-      "title": "A historic capital reborn, a heritage reawakened",
-      "link": "https://news.cgtn.com/news/2026-10-10/A-historic-capital-reborn-a-heritage-reawakened-1R7ZMkTsUQU/p.html"
-    },
-    {
-      "id": "n12",
       "date": "2026-10-09",
       "src": "CGTN·Culture",
       "title": "Spring/Summer 2027 Shanghai Fashion Week kicks off",
       "link": "https://news.cgtn.com/news/2026-10-09/Spring-Summer-2027-Shanghai-Fashion-Week-kicks-off--1R6bkJ10QTK/p.html"
     },
     {
-      "id": "n13",
-      "date": "2026-10-03",
+      "id": "n12",
+      "date": "2026-10-02",
       "src": "CGTN·Travel",
-      "title": "AI and new ideas reshape China's animation industry",
-      "link": "https://news.cgtn.com/news/2026-10-03/AI-and-new-ideas-reshape-China-s-animation-industry-1QWjkl4kEBG/p.html"
+      "title": "A glimpse of autumn in rural China",
+      "link": "https://news.cgtn.com/news/2026-10-02/A-glimpse-of-autumn-in-rural-China-1QUMJk2kovu/p.html"
+    },
+    {
+      "id": "n13",
+      "date": "2026-10-02",
+      "src": "CGTN·Travel",
+      "title": "China's railway passenger trips hit record single-day high",
+      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
     },
     {
       "id": "n14",
