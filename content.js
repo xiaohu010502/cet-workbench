@@ -5,80 +5,80 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
+      "date": "2026-10-24",
+      "src": "CGTN·Business",
+      "title": "China-Europe freight train trips on eastern corridor hit record high",
+      "link": "https://news.cgtn.com/news/2026-10-24/China-Europe-freight-train-trips-on-eastern-corridor-hit-record-high-1RuVWtuSDFC/p.html"
+    },
+    {
+      "id": "n02",
+      "date": "2026-10-24",
+      "src": "CGTN·China",
+      "title": "Kimi K3.1 Pro: an open-weight model within 3 points of the frontier",
+      "link": "https://news.cgtn.com/news/2026-10-24/Kimi-K3-1-Pro-an-open-weight-model-within-3-points-of-the-frontier-1Rvpycrxw2s/p.html"
+    },
+    {
+      "id": "n03",
       "date": "2026-10-23",
       "src": "CGTN·Culture",
       "title": "Wind chants at the Altar: A father-son musical dialogue",
       "link": "https://news.cgtn.com/news/2026-10-23/Wind-chants-at-the-Altar-A-father-son-musical-dialogue-1RtuU3udvmo/p.html"
     },
     {
-      "id": "n02",
-      "date": "2026-10-23",
-      "src": "CGTN·Business",
-      "title": "What happens after people are lifted out of poverty in China?",
-      "link": "https://news.cgtn.com/news/2026-10-23/What-happens-after-people-are-lifted-out-of-poverty-in-China--1RtIwXf9XEs/p.html"
-    },
-    {
-      "id": "n03",
-      "date": "2026-10-23",
-      "src": "CGTN·China",
-      "title": "Ethiopian expert calls for dialogue, cooperation on global governance",
-      "link": "https://news.cgtn.com/news/2026-10-23/Ethiopian-expert-calls-for-dialogue-cooperation-on-global-governance-1RtUTGl1ANa/p.html"
-    },
-    {
       "id": "n04",
-      "date": "2026-10-23",
-      "src": "CGTN·China",
-      "title": "Rescue efforts underway after M7.0 quake hits southwest China's Xizang",
-      "link": "https://news.cgtn.com/news/2026-10-23/Rescue-efforts-underway-after-M7-0-quake-hits-southwest-China-s-Xizang-1Rt7k6aFoY0/p.html"
+      "date": "2026-10-22",
+      "src": "CGTN·Business",
+      "title": "China outlines progress in high-quality trade &amp; investment development",
+      "link": "https://news.cgtn.com/news/2026-10-22/China-outlines-progress-in-high-quality-trade-investment-development-1Rs36sgVNiE/p.html"
     },
     {
       "id": "n05",
       "date": "2026-10-22",
       "src": "CGTN·China",
-      "title": "Chinese FM meets Djibouti's counterpart",
-      "link": "https://news.cgtn.com/news/2026-10-22/Chinese-FM-meets-Djibouti-s-counterpart-1RrjSMlD7t6/p.html"
+      "title": "What does 'Half a Quilt' tell us about China's new Long March?",
+      "link": "https://news.cgtn.com/news/2026-10-22/What-does-Half-a-Quilt-tell-us-about-China-s-new-Long-March--1Rs8bRay2Hu/p.html"
     },
     {
       "id": "n06",
+      "date": "2026-10-22",
+      "src": "CGTN·China",
+      "title": "A Long March of her own: Growing roses at Jiajin Mountain",
+      "link": "https://news.cgtn.com/news/2026-10-22/A-Long-March-of-her-own-Growing-roses-at-Jiajin-Mountain-1RqAMLgYgDe/p.html"
+    },
+    {
+      "id": "n07",
       "date": "2026-10-21",
       "src": "CGTN·Travel",
       "title": "Where water leaves its mark: Bouyei tradition in Guizhou",
       "link": "https://news.cgtn.com/news/2026-10-21/Where-water-leaves-its-mark-Bouyei-tradition-in-Guizhou-1RluiIMbWrC/p.html"
     },
     {
-      "id": "n07",
+      "id": "n08",
       "date": "2026-10-18",
       "src": "CGTN·Sports",
       "title": "Li,Yan named China's flagbearers for Asian Para Games opening ceremony",
       "link": "https://news.cgtn.com/news/2026-10-18/Li-Yan-named-China-s-flagbearers-for-Asian-Para-Games-opening-ceremony-1RkVyZsIc5q/p.html"
     },
     {
-      "id": "n08",
+      "id": "n09",
       "date": "2026-10-18",
       "src": "CGTN·Culture",
       "title": "2026 Yangtze River Delta International Youth Film Festival opens",
       "link": "https://news.cgtn.com/news/2026-10-18/2026-Yangtze-River-Delta-International-Youth-Film-Festival-opens-1Rld9kPWbOo/p.html"
     },
     {
-      "id": "n09",
+      "id": "n10",
       "date": "2026-10-18",
       "src": "CGTN·Culture",
       "title": "Chinese artists tell Xiongan's story through high-tech theater",
       "link": "https://news.cgtn.com/news/2026-10-18/Chinese-artists-tell-Xiongan-s-story-through-high-tech-theater-1Rk7R9XYmWI/p.html"
     },
     {
-      "id": "n10",
-      "date": "2026-10-17",
-      "src": "CGTN·Business",
-      "title": "Angola's fuel subsidies spending projected to hit $4 billion in 2026",
-      "link": "https://newsaf.cgtn.com/news/2026-10-17/Angola-s-fuel-subsidies-spending-projected-to-hit-4-billion-in-2026-1RjSf12bUWI/p.html"
-    },
-    {
       "id": "n11",
-      "date": "2026-10-15",
+      "date": "2026-10-13",
       "src": "CGTN·Business",
-      "title": "Hot US inflation, rising AI costs spark global chip stock rout",
-      "link": "https://news.cgtn.com/news/2026-10-15/Hot-US-inflation-rising-AI-costs-spark-global-chip-stock-rout-1RgbacuNxwA/p.html"
+      "title": "Think tank expert: China offers the world an alternative",
+      "link": "https://news.cgtn.com/news/2026-10-13/Think-tank-expert-China-offers-the-world-an-alternative-1Rd495ovJle/p.html"
     },
     {
       "id": "n12",
