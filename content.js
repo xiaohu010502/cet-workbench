@@ -19,59 +19,59 @@ window.CET_CONTENT = {
     },
     {
       "id": "n03",
-      "date": "2026-10-23",
-      "src": "CGTN·Culture",
-      "title": "Wind chants at the Altar: A father-son musical dialogue",
-      "link": "https://news.cgtn.com/news/2026-10-23/Wind-chants-at-the-Altar-A-father-son-musical-dialogue-1RtuU3udvmo/p.html"
-    },
-    {
-      "id": "n04",
       "date": "2026-10-22",
       "src": "CGTN·Travel",
       "title": "Kenya launches $160 million initiative to fund wildlife conservation",
       "link": "https://news.cgtn.com/news/2026-10-22/Kenya-launches-160-million-initiative-to-fund-wildlife-conservation-1Rs6WIyhQbK/p.html"
     },
     {
-      "id": "n05",
+      "id": "n04",
       "date": "2026-10-22",
       "src": "CGTN·Business",
       "title": "China outlines progress in high-quality trade &amp; investment development",
       "link": "https://news.cgtn.com/news/2026-10-22/China-outlines-progress-in-high-quality-trade-investment-development-1Rs36sgVNiE/p.html"
     },
     {
-      "id": "n06",
+      "id": "n05",
       "date": "2026-10-22",
       "src": "CGTN·China",
       "title": "What does 'Half a Quilt' tell us about China's new Long March?",
       "link": "https://news.cgtn.com/news/2026-10-22/What-does-Half-a-Quilt-tell-us-about-China-s-new-Long-March--1Rs8bRay2Hu/p.html"
     },
     {
-      "id": "n07",
+      "id": "n06",
       "date": "2026-10-22",
       "src": "CGTN·China",
       "title": "A Long March of her own: Growing roses at Jiajin Mountain",
       "link": "https://news.cgtn.com/news/2026-10-22/A-Long-March-of-her-own-Growing-roses-at-Jiajin-Mountain-1RqAMLgYgDe/p.html"
     },
     {
+      "id": "n07",
+      "date": "2026-10-20",
+      "src": "CGTN·Culture",
+      "title": "Who's learning Mandarin? 210 million learners, celebrity kids and more",
+      "link": "https://news.cgtn.com/news/2026-10-20/Who-s-learning-Mandarin-200-million-learners-celebrity-kids-and-more-1RoQsZO3Hgc/p.html"
+    },
+    {
       "id": "n08",
-      "date": "2026-10-18",
-      "src": "CGTN·Sports",
-      "title": "Li,Yan named China's flagbearers for Asian Para Games opening ceremony",
-      "link": "https://news.cgtn.com/news/2026-10-18/Li-Yan-named-China-s-flagbearers-for-Asian-Para-Games-opening-ceremony-1RkVyZsIc5q/p.html"
+      "date": "2026-10-14",
+      "src": "CGTN·Culture",
+      "title": "The Long March in paint: Retracing the journey through art",
+      "link": "https://news.cgtn.com/news/2026-10-14/The-Long-March-in-paint-Retracing-the-journey-through-art-1ReljFspTFu/p.html"
     },
     {
       "id": "n09",
-      "date": "2026-10-18",
-      "src": "CGTN·Culture",
-      "title": "2026 Yangtze River Delta International Youth Film Festival opens",
-      "link": "https://news.cgtn.com/news/2026-10-18/2026-Yangtze-River-Delta-International-Youth-Film-Festival-opens-1Rld9kPWbOo/p.html"
+      "date": "2026-10-13",
+      "src": "CGTN·Sports",
+      "title": "CBA unveils 2026-27 schedule as promotion and relegation returns",
+      "link": "https://news.cgtn.com/news/2026-10-13/CBA-unveils-2026-27-schedule-as-promotion-and-relegation-returns-1RcA2ofJTtm/p.html"
     },
     {
       "id": "n10",
-      "date": "2026-10-18",
+      "date": "2026-10-13",
       "src": "CGTN·Culture",
-      "title": "Chinese artists tell Xiongan's story through high-tech theater",
-      "link": "https://news.cgtn.com/news/2026-10-18/Chinese-artists-tell-Xiongan-s-story-through-high-tech-theater-1Rk7R9XYmWI/p.html"
+      "title": "'Fabulous Beasts' comic brings Chinese mythical creatures to life",
+      "link": "https://news.cgtn.com/news/2026-10-13/-Fabulous-Beasts-comic-brings-Chinese-mythical-creatures-to-life-1RcYjgBk3ew/p.html"
     },
     {
       "id": "n11",
@@ -96,17 +96,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n14",
-      "date": "2026-09-30",
+      "date": "2026-09-25",
       "src": "CGTN·Sports",
-      "title": "China closes athletics with three golds at Asian Games",
-      "link": "https://news.cgtn.com/news/2026-09-30/China-closes-athletics-with-three-golds-at-Asian-Games-1QR6uHtLDlm/p.html"
+      "title": "NBA G League United's visits to China strengthen basketball exchanges",
+      "link": "https://news.cgtn.com/news/2026-09-25/NBA-G-League-United-s-visits-to-China-strengthen-basketball-exchanges-1QILJoPQTAs/p.html"
     },
     {
       "id": "n15",
-      "date": "2026-09-30",
+      "date": "2026-09-25",
       "src": "CGTN·Sports",
-      "title": "China's Wei &amp; Jiang reflect on winning badminton gold at Asian Games",
-      "link": "https://news.cgtn.com/news/2026-09-30/China-s-Wei-Jiang-reflect-on-winning-badminton-gold-at-Asian-Games-1QR5Tr8hZio/p.html"
+      "title": "China bags four swimming golds, keeps women's table tennis team title",
+      "link": "https://news.cgtn.com/news/2026-09-25/China-bags-four-swimming-golds-keeps-women-s-table-tennis-team-title-1QIJjbJXb44/p.html"
     }
   ],
   "readings": [
