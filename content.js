@@ -27,30 +27,30 @@ window.CET_CONTENT = {
     {
       "id": "n04",
       "date": "2026-10-22",
+      "src": "CGTN·Travel",
+      "title": "Kenya launches $160 million initiative to fund wildlife conservation",
+      "link": "https://news.cgtn.com/news/2026-10-22/Kenya-launches-160-million-initiative-to-fund-wildlife-conservation-1Rs6WIyhQbK/p.html"
+    },
+    {
+      "id": "n05",
+      "date": "2026-10-22",
       "src": "CGTN·Business",
       "title": "China outlines progress in high-quality trade &amp; investment development",
       "link": "https://news.cgtn.com/news/2026-10-22/China-outlines-progress-in-high-quality-trade-investment-development-1Rs36sgVNiE/p.html"
     },
     {
-      "id": "n05",
+      "id": "n06",
       "date": "2026-10-22",
       "src": "CGTN·China",
       "title": "What does 'Half a Quilt' tell us about China's new Long March?",
       "link": "https://news.cgtn.com/news/2026-10-22/What-does-Half-a-Quilt-tell-us-about-China-s-new-Long-March--1Rs8bRay2Hu/p.html"
     },
     {
-      "id": "n06",
+      "id": "n07",
       "date": "2026-10-22",
       "src": "CGTN·China",
       "title": "A Long March of her own: Growing roses at Jiajin Mountain",
       "link": "https://news.cgtn.com/news/2026-10-22/A-Long-March-of-her-own-Growing-roses-at-Jiajin-Mountain-1RqAMLgYgDe/p.html"
-    },
-    {
-      "id": "n07",
-      "date": "2026-10-21",
-      "src": "CGTN·Travel",
-      "title": "Where water leaves its mark: Bouyei tradition in Guizhou",
-      "link": "https://news.cgtn.com/news/2026-10-21/Where-water-leaves-its-mark-Bouyei-tradition-in-Guizhou-1RluiIMbWrC/p.html"
     },
     {
       "id": "n08",
@@ -82,17 +82,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n12",
-      "date": "2026-10-02",
+      "date": "2026-10-12",
       "src": "CGTN·Travel",
-      "title": "A glimpse of autumn in rural China",
-      "link": "https://news.cgtn.com/news/2026-10-02/A-glimpse-of-autumn-in-rural-China-1QUMJk2kovu/p.html"
+      "title": "The Ming dynasty, still alive",
+      "link": "https://news.cgtn.com/news/2026-10-12/The-Ming-dynasty-still-alive-1RaPGiXSlZC/p.html"
     },
     {
       "id": "n13",
-      "date": "2026-10-02",
+      "date": "2026-10-11",
       "src": "CGTN·Travel",
-      "title": "China's railway passenger trips hit record single-day high",
-      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
+      "title": "Autumn colors and snow-capped peaks boost rural tourism in Xizang",
+      "link": "https://news.cgtn.com/news/2026-10-11/Autumn-colors-and-snow-capped-peaks-boost-rural-tourism-in-Xizang-1R9AOsiYxeo/p.html"
     },
     {
       "id": "n14",
