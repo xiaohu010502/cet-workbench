@@ -33,17 +33,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n05",
-      "date": "2026-10-22",
-      "src": "CGTN·Travel",
-      "title": "Kenya launches $160 million initiative to fund wildlife conservation",
-      "link": "https://news.cgtn.com/news/2026-10-22/Kenya-launches-160-million-initiative-to-fund-wildlife-conservation-1Rs6WIyhQbK/p.html"
-    },
-    {
-      "id": "n06",
       "date": "2026-10-20",
       "src": "CGTN·Culture",
       "title": "Who's learning Mandarin? 210 million learners, celebrity kids and more",
       "link": "https://news.cgtn.com/news/2026-10-20/Who-s-learning-Mandarin-200-million-learners-celebrity-kids-and-more-1RoQsZO3Hgc/p.html"
+    },
+    {
+      "id": "n06",
+      "date": "2026-10-19",
+      "src": "CGTN·Travel",
+      "title": "Good omens in Anhui architecture",
+      "link": "https://news.cgtn.com/news/2026-10-19/Good-omens-in-Anhui-architecture-1RkbuPU2ECs/p.html"
     },
     {
       "id": "n07",
@@ -82,17 +82,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n12",
-      "date": "2026-10-12",
+      "date": "2026-10-06",
       "src": "CGTN·Travel",
-      "title": "The Ming dynasty, still alive",
-      "link": "https://news.cgtn.com/news/2026-10-12/The-Ming-dynasty-still-alive-1RaPGiXSlZC/p.html"
+      "title": "Bronze statue and twin pagodas reveal Hainan’s hidden cultural depth",
+      "link": "https://news.cgtn.com/news/2026-10-06/Bronze-statue-and-twin-pagodas-reveal-Hainan-s-hidden-cultural-depth-1R1kzWvP7KE/p.html"
     },
     {
       "id": "n13",
-      "date": "2026-10-11",
+      "date": "2026-10-05",
       "src": "CGTN·Travel",
-      "title": "Autumn colors and snow-capped peaks boost rural tourism in Xizang",
-      "link": "https://news.cgtn.com/news/2026-10-11/Autumn-colors-and-snow-capped-peaks-boost-rural-tourism-in-Xizang-1R9AOsiYxeo/p.html"
+      "title": "Tourists enjoy desert fun in Kashi during National Day holiday",
+      "link": "https://news.cgtn.com/news/2026-10-05/Tourists-enjoy-desert-fun-in-Kashi-during-National-Day-holiday-1QZHSnOvq5q/p.html"
     },
     {
       "id": "n14",
