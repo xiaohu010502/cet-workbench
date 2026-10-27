@@ -33,59 +33,59 @@ window.CET_CONTENT = {
     },
     {
       "id": "n05",
-      "date": "2026-10-23",
-      "src": "CGTN·Culture",
-      "title": "Beijing's central axis: Yandaixiejie Street and Wanning Bridge",
-      "link": "https://news.cgtn.com/news/2026-10-23/Beijing-s-central-axis-Yandaixiejie-Street-and-Wanning-Bridge-1RtBYQSjscw/p.html"
-    },
-    {
-      "id": "n06",
       "date": "2026-10-22",
       "src": "CGTN·Business",
       "title": "China upgrades digital yuan to expand payments, smart contracts",
       "link": "https://news.cgtn.com/news/2026-10-22/China-upgrades-digital-yuan-to-expand-payments-smart-contracts-1RrVufoO9Bm/p.html"
     },
     {
+      "id": "n06",
+      "date": "2026-10-15",
+      "src": "CGTN·Culture",
+      "title": "Grasslands in N China's Inner Mongolia ablaze with autumn hues",
+      "link": "https://news.cgtn.com/news/2026-10-15/Grasslands-in-N-China-s-Inner-Mongolia-ablaze-with-autumn-hues-1RfQJmHipC8/p.html"
+    },
+    {
       "id": "n07",
-      "date": "2026-10-18",
-      "src": "CGTN·Sports",
-      "title": "Zverev, Medvedev ousted with Spanish duo to clash for Shanghai title",
-      "link": "https://news.cgtn.com/news/2026-10-18/Zverev-Medvedev-ousted-with-Spanish-duo-to-clash-for-Shanghai-title-1RkV2SW3mpi/p.html"
+      "date": "2026-10-14",
+      "src": "CGTN·Culture",
+      "title": "Creative program: This Is Kung Fu",
+      "link": "https://news.cgtn.com/news/2026-10-14/Creative-program-This-Is-Kung-Fu-1ReGVtLpBVm/p.html"
     },
     {
       "id": "n08",
-      "date": "2026-10-18",
+      "date": "2026-10-14",
       "src": "CGTN·Culture",
-      "title": "2026 Yangtze River Delta International Youth Film Festival opens",
-      "link": "https://news.cgtn.com/news/2026-10-18/2026-Yangtze-River-Delta-International-Youth-Film-Festival-opens-1Rld9kPWbOo/p.html"
+      "title": "The Long March in paint: Retracing the journey through art",
+      "link": "https://news.cgtn.com/news/2026-10-14/The-Long-March-in-paint-Retracing-the-journey-through-art-1ReljFspTFu/p.html"
     },
     {
       "id": "n09",
-      "date": "2026-10-16",
-      "src": "CGTN·Culture",
-      "title": "Retracing the Long March through screen stories",
-      "link": "https://news.cgtn.com/news/2026-10-16/Retracing-the-Long-March-through-screen-stories-1RhQtYKsLw4/p.html"
-    },
-    {
-      "id": "n10",
       "date": "2026-10-14",
       "src": "CGTN·Travel",
       "title": "VR recreates historical scene of Red Army's capture of Luding Bridge",
       "link": "https://news.cgtn.com/news/2026-10-14/VR-recreates-historical-scene-of-Red-Army-s-capture-of-Luding-Bridge--1ReE9eOzYiI/p.html"
     },
     {
-      "id": "n11",
+      "id": "n10",
       "date": "2026-10-14",
       "src": "CGTN·Business",
       "title": "Wall Street firms tie bonuses, promotions to AI skills, survey finds",
       "link": "https://news.cgtn.com/news/2026-10-14/Wall-Street-firms-tie-bonuses-promotions-to-AI-skills-survey-finds-1ReXdxQoa88/p.html"
     },
     {
-      "id": "n12",
+      "id": "n11",
       "date": "2026-10-14",
       "src": "CGTN·Business",
       "title": "Premier Li calls on cooperation in global industrial and supply chains",
       "link": "https://news.cgtn.com/news/2026-10-14/Premier-Li-calls-on-cooperation-in-global-industrial-and-supply-chains-1ReSzCVW8us/p.html"
+    },
+    {
+      "id": "n12",
+      "date": "2026-10-13",
+      "src": "CGTN·Sports",
+      "title": "Alcaraz exits Shanghai Masters in straight-sets loss",
+      "link": "https://news.cgtn.com/news/2026-10-13/Alcaraz-exits-Shanghai-Masters-in-straight-sets-loss-1RcAQwKYvQI/p.html"
     },
     {
       "id": "n13",
@@ -96,17 +96,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n14",
-      "date": "2026-09-30",
+      "date": "2026-09-25",
       "src": "CGTN·Sports",
-      "title": "China closes athletics with three golds at Asian Games",
-      "link": "https://news.cgtn.com/news/2026-09-30/China-closes-athletics-with-three-golds-at-Asian-Games-1QR6uHtLDlm/p.html"
+      "title": "NBA G League United's visits to China strengthen basketball exchanges",
+      "link": "https://news.cgtn.com/news/2026-09-25/NBA-G-League-United-s-visits-to-China-strengthen-basketball-exchanges-1QILJoPQTAs/p.html"
     },
     {
       "id": "n15",
-      "date": "2026-09-29",
+      "date": "2026-09-24",
       "src": "CGTN·Sports",
-      "title": "IOC launches Trustworthy AI Framework",
-      "link": "https://news.cgtn.com/news/2026-09-29/IOC-launches-Trustworthy-AI-Framework-1QPAzDjp3fa/p.html"
+      "title": "Tong Xin retains Asian Games Taijiquan and Taijijian titles",
+      "link": "https://news.cgtn.com/news/2026-09-24/Tong-Xin-retains-Asian-Games-Taijiquan-and-Taijijian-titles-1QHgpAskTza/p.html"
     }
   ],
   "readings": [
