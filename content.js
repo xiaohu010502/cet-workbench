@@ -13,37 +13,37 @@ window.CET_CONTENT = {
     {
       "id": "n02",
       "date": "2026-10-24",
+      "src": "CGTN·Travel",
+      "title": "Discover the She Culture in Anhui",
+      "link": "https://news.cgtn.com/news/2026-10-24/Discover-the-She-Culture-in-Anhui-1RrPT7aOyyc/p.html"
+    },
+    {
+      "id": "n03",
+      "date": "2026-10-24",
       "src": "CGTN·China",
       "title": "Xi sends message to 2026 Global Governance Forum",
       "link": "https://news.cgtn.com/news/2026-10-24/Xi-sends-message-to-2026-Global-Governance-Forum--1Rvb9SMO6yY/p.html"
     },
     {
-      "id": "n03",
+      "id": "n04",
       "date": "2026-10-24",
       "src": "CGTN·China",
       "title": "Courtyard meetings give villagers a say in local spending",
       "link": "https://news.cgtn.com/news/2026-10-24/Courtyard-meetings-give-villagers-a-say-in-local-spending-1RuUft5HG9i/p.html"
     },
     {
-      "id": "n04",
+      "id": "n05",
       "date": "2026-10-23",
       "src": "CGTN·Culture",
       "title": "Beijing's central axis: Yandaixiejie Street and Wanning Bridge",
       "link": "https://news.cgtn.com/news/2026-10-23/Beijing-s-central-axis-Yandaixiejie-Street-and-Wanning-Bridge-1RtBYQSjscw/p.html"
     },
     {
-      "id": "n05",
+      "id": "n06",
       "date": "2026-10-22",
       "src": "CGTN·Business",
       "title": "China upgrades digital yuan to expand payments, smart contracts",
       "link": "https://news.cgtn.com/news/2026-10-22/China-upgrades-digital-yuan-to-expand-payments-smart-contracts-1RrVufoO9Bm/p.html"
-    },
-    {
-      "id": "n06",
-      "date": "2026-10-19",
-      "src": "CGTN·Travel",
-      "title": "Good omens in Anhui architecture",
-      "link": "https://news.cgtn.com/news/2026-10-19/Good-omens-in-Anhui-architecture-1RkbuPU2ECs/p.html"
     },
     {
       "id": "n07",
@@ -69,30 +69,30 @@ window.CET_CONTENT = {
     {
       "id": "n10",
       "date": "2026-10-14",
+      "src": "CGTN·Travel",
+      "title": "VR recreates historical scene of Red Army's capture of Luding Bridge",
+      "link": "https://news.cgtn.com/news/2026-10-14/VR-recreates-historical-scene-of-Red-Army-s-capture-of-Luding-Bridge--1ReE9eOzYiI/p.html"
+    },
+    {
+      "id": "n11",
+      "date": "2026-10-14",
       "src": "CGTN·Business",
       "title": "Wall Street firms tie bonuses, promotions to AI skills, survey finds",
       "link": "https://news.cgtn.com/news/2026-10-14/Wall-Street-firms-tie-bonuses-promotions-to-AI-skills-survey-finds-1ReXdxQoa88/p.html"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "date": "2026-10-14",
       "src": "CGTN·Business",
       "title": "Premier Li calls on cooperation in global industrial and supply chains",
       "link": "https://news.cgtn.com/news/2026-10-14/Premier-Li-calls-on-cooperation-in-global-industrial-and-supply-chains-1ReSzCVW8us/p.html"
     },
     {
-      "id": "n12",
-      "date": "2026-10-06",
-      "src": "CGTN·Travel",
-      "title": "Bronze statue and twin pagodas reveal Hainan’s hidden cultural depth",
-      "link": "https://news.cgtn.com/news/2026-10-06/Bronze-statue-and-twin-pagodas-reveal-Hainan-s-hidden-cultural-depth-1R1kzWvP7KE/p.html"
-    },
-    {
       "id": "n13",
-      "date": "2026-10-05",
+      "date": "2026-10-12",
       "src": "CGTN·Travel",
-      "title": "Tourists enjoy desert fun in Kashi during National Day holiday",
-      "link": "https://news.cgtn.com/news/2026-10-05/Tourists-enjoy-desert-fun-in-Kashi-during-National-Day-holiday-1QZHSnOvq5q/p.html"
+      "title": "A journey in Beijing through history, culture and music",
+      "link": "https://news.cgtn.com/news/2026-10-12/A-journey-in-Beijing-through-history-culture-and-music-1Rbk3zHp2I8/p.html"
     },
     {
       "id": "n14",
