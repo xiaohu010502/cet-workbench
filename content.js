@@ -5,80 +5,80 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "src": "CGTN·China",
-      "title": "Hong Kong to host 94th Interpol General Assembly",
-      "link": "https://news.cgtn.com/news/2026-10-26/Hong-Kong-to-host-94th-Interpol-General-Assembly-1RysNMAV16g/p.html"
+      "title": "Belt and Road Green Innovation Conference 2026 opens in Hong Kong",
+      "link": "https://news.cgtn.com/news/2026-10-27/Belt-and-Road-Green-Innovation-Conference-2026-opens-in-Hong-Kong-1RA1Aq6V2Te/p.html"
     },
     {
       "id": "n02",
+      "date": "2026-10-25",
+      "src": "CGTN·China",
+      "title": "How does the CPC address the challenges of long-term governance?",
+      "link": "https://news.cgtn.com/news/2026-10-25/How-does-the-CPC-address-the-challenges-of-long-term-governance--1RwKRbIgByg/p.html"
+    },
+    {
+      "id": "n03",
       "date": "2026-10-24",
       "src": "CGTN·Travel",
       "title": "Discover the She Culture in Anhui",
       "link": "https://news.cgtn.com/news/2026-10-24/Discover-the-She-Culture-in-Anhui-1RrPT7aOyyc/p.html"
     },
     {
-      "id": "n03",
-      "date": "2026-10-24",
-      "src": "CGTN·China",
-      "title": "Xi sends message to 2026 Global Governance Forum",
-      "link": "https://news.cgtn.com/news/2026-10-24/Xi-sends-message-to-2026-Global-Governance-Forum--1Rvb9SMO6yY/p.html"
-    },
-    {
       "id": "n04",
       "date": "2026-10-24",
       "src": "CGTN·China",
-      "title": "Courtyard meetings give villagers a say in local spending",
-      "link": "https://news.cgtn.com/news/2026-10-24/Courtyard-meetings-give-villagers-a-say-in-local-spending-1RuUft5HG9i/p.html"
+      "title": "Tracing the vision: Preserving Culture",
+      "link": "https://news.cgtn.com/news/2026-10-24/Tracing-the-vision-Preserving-Culture-1RtS8yT4PCM/p.html"
     },
     {
       "id": "n05",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "src": "CGTN·Business",
-      "title": "China upgrades digital yuan to expand payments, smart contracts",
-      "link": "https://news.cgtn.com/news/2026-10-22/China-upgrades-digital-yuan-to-expand-payments-smart-contracts-1RrVufoO9Bm/p.html"
+      "title": "What happens after people are lifted out of poverty in China?",
+      "link": "https://news.cgtn.com/news/2026-10-23/What-happens-after-people-are-lifted-out-of-poverty-in-China--1RtIwXf9XEs/p.html"
     },
     {
       "id": "n06",
+      "date": "2026-10-17",
+      "src": "CGTN·Business",
+      "title": "Discover China's latest tech at the Canton Fair",
+      "link": "https://news.cgtn.com/news/2026-10-17/Discover-China-s-latest-tech-at-the-Canton-Fair-1RjwLucHHSo/p.html"
+    },
+    {
+      "id": "n07",
+      "date": "2026-10-16",
+      "src": "CGTN·Business",
+      "title": "BizDataDive: China steps up talent training and skills development",
+      "link": "https://news.cgtn.com/news/2026-10-16/BizDataDive-China-steps-up-talent-training-and-skills-development-1Ri1b7U2rAc/p.html"
+    },
+    {
+      "id": "n08",
       "date": "2026-10-15",
       "src": "CGTN·Culture",
       "title": "Grasslands in N China's Inner Mongolia ablaze with autumn hues",
       "link": "https://news.cgtn.com/news/2026-10-15/Grasslands-in-N-China-s-Inner-Mongolia-ablaze-with-autumn-hues-1RfQJmHipC8/p.html"
     },
     {
-      "id": "n07",
+      "id": "n09",
       "date": "2026-10-14",
       "src": "CGTN·Culture",
       "title": "Creative program: This Is Kung Fu",
       "link": "https://news.cgtn.com/news/2026-10-14/Creative-program-This-Is-Kung-Fu-1ReGVtLpBVm/p.html"
     },
     {
-      "id": "n08",
+      "id": "n10",
       "date": "2026-10-14",
       "src": "CGTN·Culture",
       "title": "The Long March in paint: Retracing the journey through art",
       "link": "https://news.cgtn.com/news/2026-10-14/The-Long-March-in-paint-Retracing-the-journey-through-art-1ReljFspTFu/p.html"
     },
     {
-      "id": "n09",
+      "id": "n11",
       "date": "2026-10-14",
       "src": "CGTN·Travel",
       "title": "VR recreates historical scene of Red Army's capture of Luding Bridge",
       "link": "https://news.cgtn.com/news/2026-10-14/VR-recreates-historical-scene-of-Red-Army-s-capture-of-Luding-Bridge--1ReE9eOzYiI/p.html"
-    },
-    {
-      "id": "n10",
-      "date": "2026-10-14",
-      "src": "CGTN·Business",
-      "title": "Wall Street firms tie bonuses, promotions to AI skills, survey finds",
-      "link": "https://news.cgtn.com/news/2026-10-14/Wall-Street-firms-tie-bonuses-promotions-to-AI-skills-survey-finds-1ReXdxQoa88/p.html"
-    },
-    {
-      "id": "n11",
-      "date": "2026-10-14",
-      "src": "CGTN·Business",
-      "title": "Premier Li calls on cooperation in global industrial and supply chains",
-      "link": "https://news.cgtn.com/news/2026-10-14/Premier-Li-calls-on-cooperation-in-global-industrial-and-supply-chains-1ReSzCVW8us/p.html"
     },
     {
       "id": "n12",
