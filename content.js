@@ -20,23 +20,23 @@ window.CET_CONTENT = {
     {
       "id": "n03",
       "date": "2026-10-24",
-      "src": "CGTN·Travel",
-      "title": "Discover the She Culture in Anhui",
-      "link": "https://news.cgtn.com/news/2026-10-24/Discover-the-She-Culture-in-Anhui-1RrPT7aOyyc/p.html"
-    },
-    {
-      "id": "n04",
-      "date": "2026-10-24",
       "src": "CGTN·China",
       "title": "Tracing the vision: Preserving Culture",
       "link": "https://news.cgtn.com/news/2026-10-24/Tracing-the-vision-Preserving-Culture-1RtS8yT4PCM/p.html"
     },
     {
-      "id": "n05",
+      "id": "n04",
       "date": "2026-10-23",
       "src": "CGTN·Business",
       "title": "What happens after people are lifted out of poverty in China?",
       "link": "https://news.cgtn.com/news/2026-10-23/What-happens-after-people-are-lifted-out-of-poverty-in-China--1RtIwXf9XEs/p.html"
+    },
+    {
+      "id": "n05",
+      "date": "2026-10-17",
+      "src": "CGTN·Travel",
+      "title": "Whoosh at three: 18 million passengers and a changing Java",
+      "link": "https://news.cgtn.com/news/2026-10-17/Whoosh-at-three-18-million-passengers-and-a-changing-Java-1RjfRq57amI/p.html"
     },
     {
       "id": "n06",
@@ -75,24 +75,24 @@ window.CET_CONTENT = {
     },
     {
       "id": "n11",
-      "date": "2026-10-14",
-      "src": "CGTN·Travel",
-      "title": "VR recreates historical scene of Red Army's capture of Luding Bridge",
-      "link": "https://news.cgtn.com/news/2026-10-14/VR-recreates-historical-scene-of-Red-Army-s-capture-of-Luding-Bridge--1ReE9eOzYiI/p.html"
-    },
-    {
-      "id": "n12",
       "date": "2026-10-13",
       "src": "CGTN·Sports",
       "title": "Alcaraz exits Shanghai Masters in straight-sets loss",
       "link": "https://news.cgtn.com/news/2026-10-13/Alcaraz-exits-Shanghai-Masters-in-straight-sets-loss-1RcAQwKYvQI/p.html"
     },
     {
-      "id": "n13",
-      "date": "2026-10-12",
+      "id": "n12",
+      "date": "2026-10-07",
       "src": "CGTN·Travel",
-      "title": "A journey in Beijing through history, culture and music",
-      "link": "https://news.cgtn.com/news/2026-10-12/A-journey-in-Beijing-through-history-culture-and-music-1Rbk3zHp2I8/p.html"
+      "title": "Two lighthouses and a salt field: Standing watch by the coast",
+      "link": "https://news.cgtn.com/news/2026-10-07/Two-lighthouses-and-a-salt-field-Standing-watch-by-the-coast-1R2Soj08Yfe/p.html"
+    },
+    {
+      "id": "n13",
+      "date": "2026-10-06",
+      "src": "CGTN·Travel",
+      "title": "Chaka Salt Lake welcomes National Day holiday crowds",
+      "link": "https://news.cgtn.com/news/2026-10-06/Chaka-Salt-Lake-welcomes-National-Day-holiday-crowds-1R1iq1uWzBe/p.html"
     },
     {
       "id": "n14",
