@@ -26,24 +26,24 @@ window.CET_CONTENT = {
     },
     {
       "id": "n04",
+      "date": "2026-10-24",
+      "src": "CGTN·Travel",
+      "title": "Wuhu Port: A moving link for made-in-China cars going global",
+      "link": "https://news.cgtn.com/news/2026-10-24/Wuhu-Port-A-moving-link-for-made-in-China-cars-going-global-1RrQfCuCOQM/p.html"
+    },
+    {
+      "id": "n05",
       "date": "2026-10-22",
       "src": "CGTN·Culture",
       "title": "Rare photographs offer visual records of Chinese Red Army's Long March",
       "link": "https://news.cgtn.com/news/2026-10-22/Rare-photographs-offer-visual-records-of-Chinese-Red-Army-s-Long-March-1RrGsvE7E52/p.html"
     },
     {
-      "id": "n05",
+      "id": "n06",
       "date": "2026-10-20",
       "src": "CGTN·Business",
       "title": "Chinese central bank to employ 3-part AI strategy, says governor",
       "link": "https://news.cgtn.com/news/2026-10-20/Chinese-central-bank-to-employ-3-part-AI-strategy-says-governor-1Rp01zM009O/p.html"
-    },
-    {
-      "id": "n06",
-      "date": "2026-10-17",
-      "src": "CGTN·Travel",
-      "title": "Whoosh at three: 18 million passengers and a changing Java",
-      "link": "https://news.cgtn.com/news/2026-10-17/Whoosh-at-three-18-million-passengers-and-a-changing-Java-1RjfRq57amI/p.html"
     },
     {
       "id": "n07",
@@ -75,24 +75,24 @@ window.CET_CONTENT = {
     },
     {
       "id": "n11",
+      "date": "2026-10-14",
+      "src": "CGTN·Travel",
+      "title": "VR recreates historical scene of Red Army's capture of Luding Bridge",
+      "link": "https://news.cgtn.com/news/2026-10-14/VR-recreates-historical-scene-of-Red-Army-s-capture-of-Luding-Bridge--1ReE9eOzYiI/p.html"
+    },
+    {
+      "id": "n12",
       "date": "2026-10-12",
       "src": "CGTN·Sports",
       "title": "China Open draws record crowds, Zheng Qinwen makes history in Beijing",
       "link": "https://news.cgtn.com/news/2026-10-12/China-Open-draws-record-crowds-Zheng-Qinwen-makes-history-in-Beijing-1RaUH1tyWju/p.html"
     },
     {
-      "id": "n12",
-      "date": "2026-10-07",
-      "src": "CGTN·Travel",
-      "title": "Two lighthouses and a salt field: Standing watch by the coast",
-      "link": "https://news.cgtn.com/news/2026-10-07/Two-lighthouses-and-a-salt-field-Standing-watch-by-the-coast-1R2Soj08Yfe/p.html"
-    },
-    {
       "id": "n13",
-      "date": "2026-10-06",
+      "date": "2026-10-08",
       "src": "CGTN·Travel",
-      "title": "Chaka Salt Lake welcomes National Day holiday crowds",
-      "link": "https://news.cgtn.com/news/2026-10-06/Chaka-Salt-Lake-welcomes-National-Day-holiday-crowds-1R1iq1uWzBe/p.html"
+      "title": "China sees 2.14 bln cross-regional trips during National Day holiday",
+      "link": "https://news.cgtn.com/news/2026-10-08/China-sees-2-14-bln-cross-regional-trips-during-National-Day-holiday-1R4nJs4kcsE/p.html"
     },
     {
       "id": "n14",
