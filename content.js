@@ -13,30 +13,30 @@ window.CET_CONTENT = {
     {
       "id": "n02",
       "date": "2026-10-30",
-      "src": "CGTN·Culture",
-      "title": "Beyond the stage: Young musicians make a difference",
-      "link": "https://news.cgtn.com/news/2026-10-30/Beyond-the-stage-Young-musicians-make-a-difference-1RERz2Rx7aM/p.html"
-    },
-    {
-      "id": "n03",
-      "date": "2026-10-30",
       "src": "CGTN·China",
       "title": "Golden autumn transforms desert-edge landscape in NW China",
       "link": "https://news.cgtn.com/news/2026-10-30/Golden-autumn-transforms-desert-edge-landscape-in-NW-China-1RF9L9v5Whi/p.html"
     },
     {
-      "id": "n04",
+      "id": "n03",
       "date": "2026-10-30",
       "src": "CGTN·China",
       "title": "PLA conducts combat readiness patrols around China's Huangyan Dao",
       "link": "https://news.cgtn.com/news/2026-10-30/PLA-conducts-combat-readiness-patrols-around-China-s-Huangyan-Dao-1RFrfA3bv4Q/p.html"
     },
     {
-      "id": "n05",
+      "id": "n04",
       "date": "2026-10-28",
       "src": "CGTN·Sports",
       "title": "China says it takes note of Mbappe's apology over China remarks",
       "link": "https://news.cgtn.com/news/2026-10-28/China-says-it-takes-note-of-Mbappe-s-apology-over-China-remarks-1RBUuLd1e9O/p.html"
+    },
+    {
+      "id": "n05",
+      "date": "2026-10-28",
+      "src": "CGTN·Culture",
+      "title": "Chinese small manufactured goods, a highlight at Canton Fair",
+      "link": "https://news.cgtn.com/news/2026-10-28/Chinese-small-manufactured-goods-a-highlight-at-Canton-Fair-1RBVDNEbNde/p.html"
     },
     {
       "id": "n06",
@@ -68,10 +68,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n10",
-      "date": "2026-10-21",
+      "date": "2026-10-20",
       "src": "CGTN·Culture",
-      "title": "BMF walk capturing: Beijing's raw sonic notes",
-      "link": "https://news.cgtn.com/news/2026-10-21/BMF-walk-capturing-Beijing-s-raw-sonic-notes-1RqiXryUY5q/p.html"
+      "title": "Chasing autumn colors in Beijing",
+      "link": "https://news.cgtn.com/news/2026-10-20/Chasing-autumn-colors-in-Beijing-1Roxzg2otVu/p.html"
     },
     {
       "id": "n11",
@@ -82,10 +82,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n12",
-      "date": "2026-10-16",
+      "date": "2026-10-15",
       "src": "CGTN·Culture",
-      "title": "A lifetime of care: The doctor who never left a remote Chinese county",
-      "link": "https://news.cgtn.com/news/2026-10-16/A-lifetime-of-care-The-doctor-who-never-left-a-remote-Chinese-county-1RhGgBBJwqI/p.html"
+      "title": "'The Long March: A Road Without End' set for global release",
+      "link": "https://news.cgtn.com/news/2026-10-15/-The-Long-March-A-Road-Without-End-set-for-global-release-1Rgdagq927K/p.html"
     },
     {
       "id": "n13",
