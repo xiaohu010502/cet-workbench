@@ -6,51 +6,51 @@ window.CET_CONTENT = {
     {
       "id": "n01",
       "date": "2026-10-31",
-      "src": "CGTN·Business",
-      "title": "Hainan's digital reporting system streamlines grassroots governance",
-      "link": "https://news.cgtn.com/news/2026-10-31/Hainan-s-digital-reporting-system-streamlines-grassroots-governance-1RFtRmFlg3u/p.html"
+      "src": "CGTN·China",
+      "title": "Gang Aoping: HKSAR govt. responded to Tai Po fire with accountability",
+      "link": "https://news.cgtn.com/news/2026-10-31/Gang-Aoping-HKSAR-govt-responded-to-Tai-Po-fire-with-accountability-1RGwhgNB7A4/p.html"
     },
     {
       "id": "n02",
-      "date": "2026-10-30",
-      "src": "CGTN·China",
-      "title": "Golden autumn transforms desert-edge landscape in NW China",
-      "link": "https://news.cgtn.com/news/2026-10-30/Golden-autumn-transforms-desert-edge-landscape-in-NW-China-1RF9L9v5Whi/p.html"
+      "date": "2026-10-29",
+      "src": "CGTN·Business",
+      "title": "El Nino returns: How will it disrupt global coal supplies?",
+      "link": "https://news.cgtn.com/news/2026-10-29/El-Nino-returns-How-will-it-disrupt-global-coal-supplies--1RDCWl5K09i/p.html"
     },
     {
       "id": "n03",
-      "date": "2026-10-30",
+      "date": "2026-10-29",
       "src": "CGTN·China",
-      "title": "PLA conducts combat readiness patrols around China's Huangyan Dao",
-      "link": "https://news.cgtn.com/news/2026-10-30/PLA-conducts-combat-readiness-patrols-around-China-s-Huangyan-Dao-1RFrfA3bv4Q/p.html"
+      "title": "Austrian buyer says Canton Fair is all about reliability and trust",
+      "link": "https://news.cgtn.com/news/2026-10-29/Austrian-buyer-says-Canton-Fair-is-all-about-reliability-and-trust-1RDCcKb9BVS/p.html"
     },
     {
       "id": "n04",
+      "date": "2026-10-29",
+      "src": "CGTN·China",
+      "title": "The new global pact to save the ocean",
+      "link": "https://news.cgtn.com/news/2026-10-29/The-new-global-pact-to-save-the-ocean-1RDBnji1ZGE/p.html"
+    },
+    {
+      "id": "n05",
       "date": "2026-10-28",
       "src": "CGTN·Sports",
       "title": "China says it takes note of Mbappe's apology over China remarks",
       "link": "https://news.cgtn.com/news/2026-10-28/China-says-it-takes-note-of-Mbappe-s-apology-over-China-remarks-1RBUuLd1e9O/p.html"
     },
     {
-      "id": "n05",
+      "id": "n06",
       "date": "2026-10-28",
       "src": "CGTN·Culture",
       "title": "Chinese small manufactured goods, a highlight at Canton Fair",
       "link": "https://news.cgtn.com/news/2026-10-28/Chinese-small-manufactured-goods-a-highlight-at-Canton-Fair-1RBVDNEbNde/p.html"
     },
     {
-      "id": "n06",
+      "id": "n07",
       "date": "2026-10-28",
       "src": "CGTN·Travel",
       "title": "Southern Anhui: A perfect picture of ancient village life",
       "link": "https://news.cgtn.com/news/2026-10-28/Southern-Anhui-A-Perfect-Picture-of-Ancient-Village-Life-1RyJSoEU3Ha/p.html"
-    },
-    {
-      "id": "n07",
-      "date": "2026-10-28",
-      "src": "CGTN·China",
-      "title": "Former Chinese Vice Premier Liu Yandong passes away at 81",
-      "link": "https://news.cgtn.com/news/2026-10-28/Former-Chinese-Vice-Premier-Liu-Yandong-passes-away-at-81-1RC2EQshrgY/p.html"
     },
     {
       "id": "n08",
@@ -61,10 +61,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n09",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "src": "CGTN·Business",
-      "title": "China is in a good position to develop its pension framework",
-      "link": "https://news.cgtn.com/news/2026-10-22/China-is-in-a-good-position-to-develop-its-pension-framework-1Rs0j8boH3G/p.html"
+      "title": "Eurasia Group economist: China's new growth drivers taking shape",
+      "link": "https://news.cgtn.com/news/2026-10-23/Eurasia-Group-economist-China-s-new-growth-drivers-taking-shape-1RtlRm0mi6Q/p.html"
     },
     {
       "id": "n10",
@@ -77,8 +77,8 @@ window.CET_CONTENT = {
       "id": "n11",
       "date": "2026-10-20",
       "src": "CGTN·Business",
-      "title": "What does China's next economic chapter mean for the world?",
-      "link": "https://news.cgtn.com/news/2026-10-20/What-does-China-s-next-economic-chapter-mean-for-the-world--1RooegF0cIo/p.html"
+      "title": "China's economic transformation gains momentum",
+      "link": "https://news.cgtn.com/news/2026-10-20/China-s-economic-transformation-gains-momentum-1RowU8b9Q7m/p.html"
     },
     {
       "id": "n12",
