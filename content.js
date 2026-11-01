@@ -34,30 +34,30 @@ window.CET_CONTENT = {
     {
       "id": "n05",
       "date": "2026-10-28",
-      "src": "CGTN·Sports",
-      "title": "China says it takes note of Mbappe's apology over China remarks",
-      "link": "https://news.cgtn.com/news/2026-10-28/China-says-it-takes-note-of-Mbappe-s-apology-over-China-remarks-1RBUuLd1e9O/p.html"
+      "src": "CGTN·Culture",
+      "title": "Australia returns two cultural relics to China",
+      "link": "https://news.cgtn.com/news/2026-10-28/Australia-returns-two-cultural-relics-to-China-1RBBuEhs9Vu/p.html"
     },
     {
       "id": "n06",
-      "date": "2026-10-28",
-      "src": "CGTN·Culture",
-      "title": "Chinese small manufactured goods, a highlight at Canton Fair",
-      "link": "https://news.cgtn.com/news/2026-10-28/Chinese-small-manufactured-goods-a-highlight-at-Canton-Fair-1RBVDNEbNde/p.html"
+      "date": "2026-10-25",
+      "src": "CGTN·Sports",
+      "title": "2026 Baoji Marathon kicks off, drawing runners from all walks of life",
+      "link": "https://news.cgtn.com/news/2026-10-25/2026-Baoji-Marathon-kicks-off-drawing-runners-from-all-walks-of-life-1Rxee9hoZ6E/p.html"
     },
     {
       "id": "n07",
-      "date": "2026-10-28",
+      "date": "2026-10-25",
       "src": "CGTN·Travel",
-      "title": "Southern Anhui: A perfect picture of ancient village life",
-      "link": "https://news.cgtn.com/news/2026-10-28/Southern-Anhui-A-Perfect-Picture-of-Ancient-Village-Life-1RyJSoEU3Ha/p.html"
+      "title": "Tracing the Vision: The Ecology of Prosperity",
+      "link": "https://news.cgtn.com/news/2026-10-25/Tracing-the-Vision-The-Ecology-of-Prosperity-1RtTikfpx3q/p.html"
     },
     {
       "id": "n08",
       "date": "2026-10-24",
-      "src": "CGTN·Travel",
-      "title": "Meet the Yangtze Finless Porpoise",
-      "link": "https://news.cgtn.com/news/2026-10-24/Meet-the-Yangtze-Finless-Porpoise-1RmUXyIKRaM/p.html"
+      "src": "CGTN·Culture",
+      "title": "Avoiding suspicion: An ancient lesson for modern governance",
+      "link": "https://news.cgtn.com/news/2026-10-24/Avoiding-suspicion-An-ancient-lesson-for-modern-governance-1RuUb8LWzYc/p.html"
     },
     {
       "id": "n09",
@@ -69,44 +69,44 @@ window.CET_CONTENT = {
     {
       "id": "n10",
       "date": "2026-10-20",
-      "src": "CGTN·Culture",
-      "title": "Chasing autumn colors in Beijing",
-      "link": "https://news.cgtn.com/news/2026-10-20/Chasing-autumn-colors-in-Beijing-1Roxzg2otVu/p.html"
-    },
-    {
-      "id": "n11",
-      "date": "2026-10-20",
       "src": "CGTN·Business",
       "title": "China's economic transformation gains momentum",
       "link": "https://news.cgtn.com/news/2026-10-20/China-s-economic-transformation-gains-momentum-1RowU8b9Q7m/p.html"
     },
     {
+      "id": "n11",
+      "date": "2026-10-19",
+      "src": "CGTN·Travel",
+      "title": "Golden autumn transforms desert poplar forests in Inner Mongolia",
+      "link": "https://news.cgtn.com/news/2026-10-19/Golden-autumn-transforms-desert-poplar-forests-in-Inner-Mongolia-1RmPqNqSUHC/p.html"
+    },
+    {
       "id": "n12",
-      "date": "2026-10-15",
+      "date": "2026-10-18",
       "src": "CGTN·Culture",
-      "title": "'The Long March: A Road Without End' set for global release",
-      "link": "https://news.cgtn.com/news/2026-10-15/-The-Long-March-A-Road-Without-End-set-for-global-release-1Rgdagq927K/p.html"
+      "title": "2026 Yangtze River Delta International Youth Film Festival opens",
+      "link": "https://news.cgtn.com/news/2026-10-18/2026-Yangtze-River-Delta-International-Youth-Film-Festival-opens-1Rld9kPWbOo/p.html"
     },
     {
       "id": "n13",
-      "date": "2026-10-15",
-      "src": "CGTN·Travel",
-      "title": "OIV Congress debuts in Asia, exploring Ningxia wine and tea culture",
-      "link": "https://news.cgtn.com/news/2026-10-15/OIV-Congress-debuts-in-Asia-exploring-Ningxia-wine-and-tea-culture-1Rg9k8WDCmI/p.html"
+      "date": "2026-10-17",
+      "src": "CGTN·Sports",
+      "title": "How Zheng Qinwen transformed her game and mindset in two months",
+      "link": "https://news.cgtn.com/news/2026-10-17/How-Zheng-Qinwen-transformed-her-game-and-mindset-in-two-months-1RjbdSFXKwg/p.html"
     },
     {
       "id": "n14",
-      "date": "2026-10-05",
-      "src": "CGTN·Sports",
-      "title": "China tops medal table as Aichi-Nagoya Asian Games close",
-      "link": "https://news.cgtn.com/news/2026-10-05/China-tops-medal-table-as-Aichi-Nagoya-Asian-Games-close-1QZqhuYBgI0/p.html"
+      "date": "2026-10-09",
+      "src": "CGTN·Travel",
+      "title": "Macao draws record National Day crowds",
+      "link": "https://news.cgtn.com/news/2026-10-09/Macao-draws-record-National-Day-crowds-1R6lurnnz0s/p.html"
     },
     {
       "id": "n15",
-      "date": "2026-09-25",
+      "date": "2026-09-27",
       "src": "CGTN·Sports",
-      "title": "Billie Jean King hails global growth of namesake tennis competition",
-      "link": "https://news.cgtn.com/news/2026-09-25/Billie-Jean-King-hails-global-growth-of-namesake-tennis-competition-1QIKGT87qjm/p.html"
+      "title": "Exclusive: Mutaz Essa Barshim eyes his fifth Asian Games and beyond",
+      "link": "https://news.cgtn.com/news/2026-09-27/Exclusive-Mutaz-Essa-Barshim-eyes-his-fifth-Asian-Games-and-beyond-1QM7HWZgw4U/p.html"
     }
   ],
   "readings": [
