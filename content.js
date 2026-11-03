@@ -5,108 +5,108 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
-      "date": "2026-11-01",
-      "src": "CGTN·Business",
-      "title": "US tech stocks hit by earnings shock: Alphabet slides 13%",
-      "link": "https://news.cgtn.com/news/2026-11-01/US-tech-stocks-hit-by-earnings-shock-Alphabet-slides-13--1RIlYIXpPyg/p.html"
+      "date": "2026-11-03",
+      "src": "CGTN·China",
+      "title": "China's central bank to raise forex reserve requirement ratio for financial institutions",
+      "link": "https://news.cgtn.com/news/2026-11-03/China-s-central-bank-to-raise-forex-reserve-requirement-ratio-for-financial-institutions-1RLp2n0i3vy/p.html"
     },
     {
       "id": "n02",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "src": "CGTN·China",
-      "title": "CMSA: Lunar-landing phase of exploration program advancing steadily",
-      "link": "https://news.cgtn.com/news/2026-11-01/CMSA-Lunar-landing-phase-of-exploration-program-advancing-steadily-1RHhZPPs4iA/p.html"
+      "title": "Remembering Israel Epstein and the Spanish edition of China Today",
+      "link": "https://news.cgtn.com/news/2026-11-02/Remembering-Israel-Epstein-and-the-Spanish-edition-of-China-Today-1RK7hjhGfvy/p.html"
     },
     {
       "id": "n03",
-      "date": "2026-11-01",
+      "date": "2026-10-31",
       "src": "CGTN·China",
-      "title": "China drafts stricter rules for Antarctic activities",
-      "link": "https://news.cgtn.com/news/2026-11-01/China-drafts-stricter-rules-for-Antarctic-activities-1RICy9p21gY/p.html"
+      "title": "From Karakoram to Arabian Sea, Ep. 3: A Friendship Across Generations",
+      "link": "https://news.cgtn.com/news/2026-10-31/From-Karakoram-to-Arabian-Sea-Ep-3-A-Friendship-Across-Generations-1RGUKVssuCk/p.html"
     },
     {
       "id": "n04",
-      "date": "2026-10-30",
-      "src": "CGTN·China",
-      "title": "Xi meets Swiss president, calls for closer China-Europe economic ties",
-      "link": "https://news.cgtn.com/news/2026-10-30/Chinese-President-Xi-Jinping-meets-president-of-Swiss-Confederation-1RFaOeSkdTW/p.html"
+      "date": "2026-10-29",
+      "src": "CGTN·Business",
+      "title": "El Nino returns: How will it disrupt global coal supplies?",
+      "link": "https://news.cgtn.com/news/2026-10-29/El-Nino-returns-How-will-it-disrupt-global-coal-supplies--1RDCWl5K09i/p.html"
     },
     {
       "id": "n05",
       "date": "2026-10-28",
-      "src": "CGTN·Travel",
-      "title": "\"The future is here!\" US student explores Shenzhen before APEC 2026",
-      "link": "https://news.cgtn.com/news/2026-10-28/-The-future-is-here-US-student-explores-Shenzhen-before-APEC-2026-1RBONzxowiQ/p.html"
+      "src": "CGTN·Culture",
+      "title": "Social media, China travel fuel global interest in learning Chinese",
+      "link": "https://news.cgtn.com/news/2026-10-28/Social-media-China-travel-fuel-global-interest-in-learning-Chinese-1RBjGURIE5W/p.html"
     },
     {
       "id": "n06",
-      "date": "2026-10-27",
-      "src": "CGTN·Culture",
-      "title": "Art Up Close | Ancient walls, new sounds",
-      "link": "https://news.cgtn.com/news/2026-10-27/Art-Up-Close-Ancient-walls-new-sounds-1RzWrik2tBC/p.html"
+      "date": "2026-10-25",
+      "src": "CGTN·Travel",
+      "title": "A green running team at the 2026 Baoji Marathon",
+      "link": "https://news.cgtn.com/news/2026-10-25/A-green-running-team-at-the-2026-Baoji-Marathon-1RwGMBhaXde/p.html"
     },
     {
       "id": "n07",
-      "date": "2026-10-26",
-      "src": "CGTN·Travel",
-      "title": "Blink and You'll Miss It: Yangtze Finless Porpoises",
-      "link": "https://news.cgtn.com/news/2026-10-26/Blink-and-You-ll-Miss-It-Yangtze-Finless-Porpoises-1RmVlGffDnq/p.html"
+      "date": "2026-10-24",
+      "src": "CGTN·Culture",
+      "title": "The Long March: History that shaped my understanding of China",
+      "link": "https://news.cgtn.com/news/2026-10-24/The-Long-March-History-that-shaped-my-understanding-of-China-1RuWtW16nFm/p.html"
     },
     {
       "id": "n08",
-      "date": "2026-10-26",
+      "date": "2026-10-23",
       "src": "CGTN·Business",
-      "title": "Improving China's business environment to revitalize growth",
-      "link": "https://news.cgtn.com/news/2026-10-26/Improving-China-s-business-environment-to-revitalize-growth-1RyIGRzKN2w/p.html"
+      "title": "China is best bond market of 2026, offers good diversification",
+      "link": "https://news.cgtn.com/news/2026-10-23/China-is-best-bond-market-of-2026-offers-good-diversification--1RtJ1gaCGFW/p.html"
     },
     {
       "id": "n09",
-      "date": "2026-10-24",
-      "src": "CGTN·Sports",
-      "title": "Baoji Marathon draws 31,000 runners, highlights ancient culture",
-      "link": "https://news.cgtn.com/news/2026-10-24/Baoji-Marathon-draws-31-000-runners-highlights-ancient-culture-1RvD06t6jHG/p.html"
+      "date": "2026-10-22",
+      "src": "CGTN·Culture",
+      "title": "Rare photographs offer visual records of Chinese Red Army's Long March",
+      "link": "https://news.cgtn.com/news/2026-10-22/Rare-photographs-offer-visual-records-of-Chinese-Red-Army-s-Long-March-1RrGsvE7E52/p.html"
     },
     {
       "id": "n10",
-      "date": "2026-10-24",
-      "src": "CGTN·Culture",
-      "title": "AI recreates Long March history in anniversary TV gala",
-      "link": "https://news.cgtn.com/news/2026-10-24/AI-recreates-Long-March-history-in-anniversary-TV-gala-1RvjqCDah1u/p.html"
+      "date": "2026-10-20",
+      "src": "CGTN·Sports",
+      "title": "Zhang Zhenlin shines as Shanghai Sharks start CBA season with win",
+      "link": "https://news.cgtn.com/news/2026-10-20/Zhang-Zhenlin-shines-as-Shanghai-Sharks-start-CBA-season-with-win--1RoggfnU84o/p.html"
     },
     {
       "id": "n11",
-      "date": "2026-10-20",
-      "src": "CGTN·Business",
-      "title": "Chinese central bank to employ 3-part AI strategy, says governor",
-      "link": "https://news.cgtn.com/news/2026-10-20/Chinese-central-bank-to-employ-3-part-AI-strategy-says-governor-1Rp01zM009O/p.html"
+      "date": "2026-10-19",
+      "src": "CGTN·Travel",
+      "title": "Bridging horizons: From mountain crossings to modern marvels",
+      "link": "https://news.cgtn.com/news/2026-10-19/Bridging-horizons-From-mountain-crossings-to-modern-marvels-1RlviMtJgdO/p.html"
     },
     {
       "id": "n12",
-      "date": "2026-10-17",
-      "src": "CGTN·Sports",
-      "title": "China's outdoor sports industry reaches 3.17 trillion yuan",
-      "link": "https://news.cgtn.com/news/2026-10-17/China-s-outdoor-sports-industry-reaches-3-17-trillion-yuan-1RjebFQrlHW/p.html"
+      "date": "2026-10-19",
+      "src": "CGTN·Business",
+      "title": "China's economy grows 4.6% as output, demand reinforce each other",
+      "link": "https://news.cgtn.com/news/2026-10-19/China-s-economy-grows-4-6-as-output-demand-reinforce-each-other-1RngAuqXtqU/p.html"
     },
     {
       "id": "n13",
-      "date": "2026-10-15",
-      "src": "CGTN·Culture",
-      "title": "Grassroots Consultation: Beijing salon brings dialogue on governance",
-      "link": "https://news.cgtn.com/news/2026-10-15/Grassroots-Consultation-Beijing-salon-brings-dialogue-on-governance-1RfS0IIgmK4/p.html"
+      "date": "2026-10-17",
+      "src": "CGTN·Travel",
+      "title": "Behind the masks: A spirit that endures",
+      "link": "https://news.cgtn.com/news/2026-10-17/Behind-the-masks-A-spirit-that-endures-1RaQmYpXrFK/p.html"
     },
     {
       "id": "n14",
-      "date": "2026-10-14",
-      "src": "CGTN·Travel",
-      "title": "Beijing through their eyes: A Spanish tourist sketches the Bell Tower",
-      "link": "https://news.cgtn.com/news/2026-10-14/Beijing-through-their-eyes-A-Spanish-tourist-sketches-the-Bell-Tower-1ReDDpwCTlu/p.html"
+      "date": "2026-10-10",
+      "src": "CGTN·Sports",
+      "title": "Zheng Qinwen reaches China Open semifinals with straight-set win",
+      "link": "https://news.cgtn.com/news/2026-10-10/Zheng-Qinwen-reaches-China-Open-semifinals-with-straight-set-win-1R7KP2weY8g/p.html"
     },
     {
       "id": "n15",
-      "date": "2026-09-23",
+      "date": "2026-10-04",
       "src": "CGTN·Sports",
-      "title": "Swimming roundup: China collects four more titles at Asian Games",
-      "link": "https://news.cgtn.com/news/2026-09-23/Swimming-roundup-China-collects-four-more-titles-at-Asian-Games-1QFrx6DxeHS/p.html"
+      "title": "China reaches 169 Asian Games gold medals, sets new overseas record",
+      "link": "https://news.cgtn.com/news/2026-10-04/China-reaches-169-Asian-Games-gold-medals-sets-new-overseas-record-1QXM1DaxKiQ/p.html"
     }
   ],
   "readings": [
