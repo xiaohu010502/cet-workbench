@@ -5,59 +5,59 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "src": "CGTN·China",
-      "title": "China's central bank to raise forex reserve requirement ratio for financial institutions",
-      "link": "https://news.cgtn.com/news/2026-11-03/China-s-central-bank-to-raise-forex-reserve-requirement-ratio-for-financial-institutions-1RLp2n0i3vy/p.html"
+      "title": "UN Peacekeeping Workshop Concludes: Interview with UN Medical Director",
+      "link": "https://news.cgtn.com/news/2026-11-04/UN-Peacekeeping-Workshop-Concludes-Interview-with-UN-Medical-Director-1RMiXETJHZ6/p.html"
     },
     {
       "id": "n02",
-      "date": "2026-11-02",
-      "src": "CGTN·China",
-      "title": "Remembering Israel Epstein and the Spanish edition of China Today",
-      "link": "https://news.cgtn.com/news/2026-11-02/Remembering-Israel-Epstein-and-the-Spanish-edition-of-China-Today-1RK7hjhGfvy/p.html"
+      "date": "2026-11-03",
+      "src": "CGTN·Business",
+      "title": "IMF projects 4.5% growth for sub-Saharan Africa amid rising risks",
+      "link": "https://newsaf.cgtn.com/news/2026-11-03/IMF-projects-4-5-growth-for-sub-Saharan-Africa-amid-rising-risks-1RLVa7aqkQE/p.html"
     },
     {
       "id": "n03",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "src": "CGTN·China",
-      "title": "From Karakoram to Arabian Sea, Ep. 3: A Friendship Across Generations",
-      "link": "https://news.cgtn.com/news/2026-10-31/From-Karakoram-to-Arabian-Sea-Ep-3-A-Friendship-Across-Generations-1RGUKVssuCk/p.html"
+      "title": "Chinese, German auto companies boost cooperation amid industry shift",
+      "link": "https://news.cgtn.com/news/2026-11-01/Chinese-German-auto-companies-boost-cooperation-amid-industry-shift-1RIJ83dHRZe/p.html"
     },
     {
       "id": "n04",
-      "date": "2026-10-29",
-      "src": "CGTN·Business",
-      "title": "El Nino returns: How will it disrupt global coal supplies?",
-      "link": "https://news.cgtn.com/news/2026-10-29/El-Nino-returns-How-will-it-disrupt-global-coal-supplies--1RDCWl5K09i/p.html"
+      "date": "2026-11-01",
+      "src": "CGTN·China",
+      "title": "Political party leaders worldwide praise successful CPC plenum",
+      "link": "https://news.cgtn.com/news/2026-11-01/Political-party-leaders-worldwide-praise-successful-CPC-plenum-1RI1pUIFjag/p.html"
     },
     {
       "id": "n05",
+      "date": "2026-10-31",
+      "src": "CGTN·Business",
+      "title": "Hainan's digital reporting system streamlines grassroots governance",
+      "link": "https://news.cgtn.com/news/2026-10-31/Hainan-s-digital-reporting-system-streamlines-grassroots-governance-1RFtRmFlg3u/p.html"
+    },
+    {
+      "id": "n06",
       "date": "2026-10-28",
       "src": "CGTN·Culture",
       "title": "Social media, China travel fuel global interest in learning Chinese",
       "link": "https://news.cgtn.com/news/2026-10-28/Social-media-China-travel-fuel-global-interest-in-learning-Chinese-1RBjGURIE5W/p.html"
     },
     {
-      "id": "n06",
+      "id": "n07",
       "date": "2026-10-25",
       "src": "CGTN·Travel",
       "title": "A green running team at the 2026 Baoji Marathon",
       "link": "https://news.cgtn.com/news/2026-10-25/A-green-running-team-at-the-2026-Baoji-Marathon-1RwGMBhaXde/p.html"
     },
     {
-      "id": "n07",
+      "id": "n08",
       "date": "2026-10-24",
       "src": "CGTN·Culture",
       "title": "The Long March: History that shaped my understanding of China",
       "link": "https://news.cgtn.com/news/2026-10-24/The-Long-March-History-that-shaped-my-understanding-of-China-1RuWtW16nFm/p.html"
-    },
-    {
-      "id": "n08",
-      "date": "2026-10-23",
-      "src": "CGTN·Business",
-      "title": "China is best bond market of 2026, offers good diversification",
-      "link": "https://news.cgtn.com/news/2026-10-23/China-is-best-bond-market-of-2026-offers-good-diversification--1RtJ1gaCGFW/p.html"
     },
     {
       "id": "n09",
@@ -75,17 +75,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n11",
-      "date": "2026-10-19",
-      "src": "CGTN·Travel",
-      "title": "Bridging horizons: From mountain crossings to modern marvels",
-      "link": "https://news.cgtn.com/news/2026-10-19/Bridging-horizons-From-mountain-crossings-to-modern-marvels-1RlviMtJgdO/p.html"
+      "date": "2026-10-20",
+      "src": "CGTN·Business",
+      "title": "China vows fresh policy measures to support growth: NDRC",
+      "link": "https://news.cgtn.com/news/2026-10-20/China-vows-fresh-policy-measures-to-support-growth-NDRC-1RowyKEGnMk/p.html"
     },
     {
       "id": "n12",
       "date": "2026-10-19",
-      "src": "CGTN·Business",
-      "title": "China's economy grows 4.6% as output, demand reinforce each other",
-      "link": "https://news.cgtn.com/news/2026-10-19/China-s-economy-grows-4-6-as-output-demand-reinforce-each-other-1RngAuqXtqU/p.html"
+      "src": "CGTN·Travel",
+      "title": "Bridging horizons: From mountain crossings to modern marvels",
+      "link": "https://news.cgtn.com/news/2026-10-19/Bridging-horizons-From-mountain-crossings-to-modern-marvels-1RlviMtJgdO/p.html"
     },
     {
       "id": "n13",
