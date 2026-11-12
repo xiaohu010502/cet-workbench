@@ -14,64 +14,64 @@ window.CET_CONTENT = {
       "id": "n02",
       "date": "2026-11-11",
       "src": "CGTN·Travel",
-      "title": "China Popcast: Shenzhen's got global talent",
-      "link": "https://news.cgtn.com/news/2026-11-11/China-Popcast-Shenzhen-s-got-global-talent-1RYLp8T0sTe/p.html"
+      "title": "Hongcun: A village designed around water",
+      "link": "https://news.cgtn.com/news/2026-11-11/Hongcun-A-village-designed-around-water-1RW06ab9ntS/p.html"
     },
     {
       "id": "n03",
       "date": "2026-11-11",
       "src": "CGTN·China",
-      "title": "China hands over remains of US airmen found along WWII Hump Route",
-      "link": "https://news.cgtn.com/news/2026-11-11/China-hands-over-remains-of-US-airmen-found-along-WWII-Hump-Route-1RYylqTxkyc/p.html"
+      "title": "Mainland to share modernization opportunities with Taiwan compatriots",
+      "link": "https://news.cgtn.com/news/2026-11-11/Mainland-to-share-modernization-opportunities-with-Taiwan-compatriots-1RZwdCJOpO0/p.html"
     },
     {
       "id": "n04",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "src": "CGTN·China",
-      "title": "Bert Hofman: APEC can boost trust and confidence in cooperation",
-      "link": "https://news.cgtn.com/news/2026-11-10/Bert-Hofman-APEC-can-boost-trust-and-confidence-in-cooperation-1RX31a6IkqA/p.html"
+      "title": "PLA Air Force unveils its international social media accounts",
+      "link": "https://news.cgtn.com/news/2026-11-11/PLA-Air-Force-unveils-its-international-social-media-accounts-1RZ66A2gpy0/p.html"
     },
     {
       "id": "n05",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "src": "CGTN·China",
-      "title": "95-year-old American's enduring bond with his hometown in NW China",
-      "link": "https://news.cgtn.com/news/2026-11-10/95-year-old-American-s-enduring-bond-with-his-hometown-in-NW-China-1RXarzAMWGc/p.html"
+      "title": "China Popcast: Shenzhen's got global talent",
+      "link": "https://news.cgtn.com/news/2026-11-11/China-Popcast-Shenzhen-s-got-global-talent-1RYLp8T0sTe/p.html"
     },
     {
       "id": "n06",
-      "date": "2026-11-08",
+      "date": "2026-11-07",
       "src": "CGTN·Business",
-      "title": "LEGO Group: CIIE offers a window onto China's consumer market",
-      "link": "https://news.cgtn.com/news/2026-11-08/LEGO-Group-CIIE-offers-a-window-onto-China-s-consumer-market-1RUcqPfM02Q/p.html"
+      "title": "Adidas executive: Made for China, now a global hit",
+      "link": "https://news.cgtn.com/news/2026-11-07/Adidas-executive-Made-for-China-now-a-global-hit-1RSuErlKQYE/p.html"
     },
     {
       "id": "n07",
-      "date": "2026-11-08",
+      "date": "2026-11-07",
       "src": "CGTN·Business",
-      "title": "China's market direction closely aligns with Volkswagen's priorities",
-      "link": "https://news.cgtn.com/news/2026-11-08/China-s-market-direction-closely-aligns-with-Volkswagen-s-priorities-1RU68NmU0Hm/p.html"
+      "title": "UK-China business leader: CIIE connects businesses across China",
+      "link": "https://news.cgtn.com/news/2026-11-07/UK-China-business-leader-CIIE-connects-businesses-across-China-1RSwMsapk2s/p.html"
     },
     {
       "id": "n08",
-      "date": "2026-11-06",
-      "src": "CGTN·Business",
-      "title": "What does the future of money look like in a multipolar world?",
-      "link": "https://news.cgtn.com/news/2026-11-06/What-does-the-future-of-money-look-like-in-a-multipolar-world--1RQJbVxK3G8/p.html"
-    },
-    {
-      "id": "n09",
       "date": "2026-11-05",
       "src": "CGTN·Culture",
       "title": "Dunhuang Expo: First-time visitor wowed by Mogao Caves",
       "link": "https://news.cgtn.com/news/2026-11-05/Dunhuang-Expo-First-time-visitor-wowed-by-Mogao-Caves-1RNKpJ3hvLq/p.html"
     },
     {
-      "id": "n10",
-      "date": "2026-11-04",
+      "id": "n09",
+      "date": "2026-11-05",
       "src": "CGTN·Travel",
-      "title": "Climbing the Great Wall in Mandarin",
-      "link": "https://news.cgtn.com/news/2026-11-04/Climbing-the-Great-Wall-in-Mandarin-1RNjaAGWRsk/p.html"
+      "title": "Mastering the bamboo: Centuries of Huizhou craftsmanship in Hongcun",
+      "link": "https://news.cgtn.com/news/2026-11-05/Mastering-the-bamboo-Centuries-of-Huizhou-craftsmanship-in-Hongcun-1RKdPwFFPgc/p.html"
+    },
+    {
+      "id": "n10",
+      "date": "2026-11-05",
+      "src": "CGTN·Business",
+      "title": "9th China International Import Expo opens in Shanghai",
+      "link": "https://news.cgtn.com/news/2026-11-05/9th-China-International-Import-Expo-opens-in-Shanghai-1ROQYoaVJmw/p.html"
     },
     {
       "id": "n11",
@@ -82,10 +82,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n12",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "src": "CGTN·Travel",
-      "title": "A Perfect Day in Huangshan’s Villages",
-      "link": "https://news.cgtn.com/news/2026-10-25/A-Perfect-Day-in-Huangshan-s-Villages-1RvoQ4eVA0o/p.html"
+      "title": "A Grand Festival Begins at Dusk",
+      "link": "https://news.cgtn.com/news/2026-10-26/A-Grand-Festival-Begins-at-Dusk-1Ryy7nKldrG/p.html"
     },
     {
       "id": "n13",
