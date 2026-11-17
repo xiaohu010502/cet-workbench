@@ -7,78 +7,78 @@ window.CET_CONTENT = {
       "id": "n01",
       "date": "2026-11-16",
       "src": "CGTN·Business",
-      "title": "Brazil's International Coffee Week expected to generate $35 million",
-      "link": "https://newsus.cgtn.com/news/2026-11-16/Brazil-s-International-Coffee-Week-expected-to-generate-35-million-1S6xkqSBmXC/p.html"
+      "title": "What it really takes to run a robot theme park",
+      "link": "https://news.cgtn.com/news/2026-11-16/What-it-really-takes-to-run-a-robot-theme-park-1S7q3FwPFU4/p.html"
     },
     {
       "id": "n02",
       "date": "2026-11-16",
       "src": "CGTN·China",
-      "title": "The Captains Who Shaped a Fishing Tradition",
-      "link": "https://news.cgtn.com/news/2026-11-16/The-Captains-Who-Shaped-a-Fishing-Tradition-1S6cE9TIrzG/p.html"
+      "title": "Eurasian enterprises explore new opportunities in Chongqing",
+      "link": "https://news.cgtn.com/news/2026-11-16/Eurasian-enterprises-explore-new-opportunities-in-Chongqing-1S7Bs3Kitpe/p.html"
     },
     {
       "id": "n03",
+      "date": "2026-11-16",
+      "src": "CGTN·China",
+      "title": "Why we must use antibiotics wisely",
+      "link": "https://news.cgtn.com/news/2026-11-16/Why-we-must-use-antibiotics-wisely-1S7O78aRVf2/p.html"
+    },
+    {
+      "id": "n04",
+      "date": "2026-11-16",
+      "src": "CGTN·China",
+      "title": "Mexican president arrives in Shenzhen for 33rd APEC Economic Leaders' Meeting",
+      "link": "https://news.cgtn.com/news/2026-11-16/Mexican-president-arrives-in-Shenzhen-for-33rd-APEC-Economic-Leaders-Meeting-1S76o1hwDzW/p.html"
+    },
+    {
+      "id": "n05",
       "date": "2026-11-15",
       "src": "CGTN·Culture",
       "title": "Goryeo Buddhist paintings reflect China-Korea artistic ties",
       "link": "https://news.cgtn.com/news/2026-11-15/Goryeo-Buddhist-paintings-reflect-China-Korea-artistic-ties-1S5O0NH9F5u/p.html"
     },
     {
-      "id": "n04",
+      "id": "n06",
       "date": "2026-11-15",
-      "src": "CGTN·China",
-      "title": "Study finds global cryosphere degradation accelerating",
-      "link": "https://news.cgtn.com/news/2026-11-15/Study-finds-global-cryosphere-degradation-accelerating-1S69jKGaeVG/p.html"
+      "src": "CGTN·Travel",
+      "title": "Navigating a Chinese Gym? Master These Essential Workout Terms",
+      "link": "https://news.cgtn.com/news/2026-11-15/Navigating-a-Chinese-Gym-Master-These-Essential-Workout-Terms-1S5jWxtj2Wk/p.html"
     },
     {
-      "id": "n05",
+      "id": "n07",
       "date": "2026-11-14",
       "src": "CGTN·Culture",
       "title": "Fujian holds grand tribute to Mazu, China's beloved sea goddess",
       "link": "https://news.cgtn.com/news/2026-11-14/Fujian-holds-grand-tribute-to-Mazu-China-s-beloved-sea-goddess-1S41yYO4RDW/p.html"
     },
     {
-      "id": "n06",
-      "date": "2026-11-13",
-      "src": "CGTN·Travel",
-      "title": "Hidden salt sinkhole reveals rare geological wonder",
-      "link": "https://news.cgtn.com/news/2026-11-13/Hidden-salt-sinkhole-reveals-rare-geological-wonder-1S2m1JqPn44/p.html"
-    },
-    {
-      "id": "n07",
-      "date": "2026-11-13",
-      "src": "CGTN·Business",
-      "title": "China's trade surplus: A misunderstood narrative",
-      "link": "https://news.cgtn.com/news/2026-11-13/China-s-trade-surplus-A-misunderstood-narrative-1S2hXaeF11C/p.html"
-    },
-    {
       "id": "n08",
-      "date": "2026-11-13",
-      "src": "CGTN·China",
-      "title": "“Twenty Two” to “Five” – Voices That Will Never Fade",
-      "link": "https://news.cgtn.com/news/2026-11-13/-Twenty-Two-to-Five-Voices-That-Will-Never-Fade-1S2sgG2TGhi/p.html"
+      "date": "2026-11-14",
+      "src": "CGTN·Travel",
+      "title": "How to order coffee in Chinese",
+      "link": "https://news.cgtn.com/news/2026-11-14/How-to-order-coffee-in-Chinese-1S48x7qi6is/p.html"
     },
     {
       "id": "n09",
-      "date": "2026-11-12",
-      "src": "CGTN·Travel",
-      "title": "Shenzhen Parks Are Putting My Workout in the Cloud",
-      "link": "https://news.cgtn.com/news/2026-11-12/Shenzhen-Parks-Are-Putting-My-Workout-in-the-Cloud-1S0uG80642A/p.html"
+      "date": "2026-11-14",
+      "src": "CGTN·Business",
+      "title": "Building roads and bridges to foster closer people-to-people bonds",
+      "link": "https://news.cgtn.com/news/2026-11-14/Building-roads-and-bridges-to-foster-closer-people-to-people-bonds--1S3YTPuM7tu/p.html"
     },
     {
       "id": "n10",
+      "date": "2026-11-10",
+      "src": "CGTN·Business",
+      "title": "Bert Hofman: APEC can boost trust and confidence in cooperation",
+      "link": "https://news.cgtn.com/news/2026-11-10/Bert-Hofman-APEC-can-boost-trust-and-confidence-in-cooperation-1RX31a6IkqA/p.html"
+    },
+    {
+      "id": "n11",
       "date": "2026-11-09",
       "src": "CGTN·Sports",
       "title": "Nigeria sweeps 100m golds as Kenya, Senegal and Egypt shine at Dakar",
       "link": "https://newsaf.cgtn.com/news/2026-11-09/Nigeria-sweeps-100m-golds-as-Kenya-Senegal-and-Egypt-shine-at-Dakar-1RVL3t4SGSk/p.html"
-    },
-    {
-      "id": "n11",
-      "date": "2026-11-07",
-      "src": "CGTN·Business",
-      "title": "CIIE 2026: Major names in semiconductor industry deepen links",
-      "link": "https://news.cgtn.com/news/2026-11-07/CIIE-2026-Major-names-in-semiconductor-industry-deepen-links-1RSx6Zb5IuA/p.html"
     },
     {
       "id": "n12",
@@ -89,10 +89,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n13",
-      "date": "2026-11-02",
+      "date": "2026-10-31",
       "src": "CGTN·Travel",
-      "title": "Autumn foliage draws visitors to Beijing's Xiangshan Park",
-      "link": "https://news.cgtn.com/news/2026-11-02/Autumn-foliage-draws-visitors-to-Beijing-s-Xiangshan-Park-1RKbXelEupG/p.html"
+      "title": "Shanghai-Xinjiang cultural week highlights heritage and cuisine",
+      "link": "https://news.cgtn.com/news/2026-10-31/Shanghai-Xinjiang-cultural-week-highlights-heritage-and-cuisine-1RGOmRrHRVC/p.html"
     },
     {
       "id": "n14",
