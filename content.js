@@ -5,108 +5,108 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
-      "date": "2026-11-18",
-      "src": "CGTN·Business",
-      "title": "Anti-corruption: Why it matters to everyone",
-      "link": "https://news.cgtn.com/news/2026-11-18/Anti-corruption-Why-it-matters-to-everyone-1Sax271B5bW/p.html"
+      "date": "2026-11-19",
+      "src": "CGTN·China",
+      "title": "Xi's vision for Asia-Pacific development wins support at APEC meeting",
+      "link": "https://news.cgtn.com/news/2026-11-19/Xi-s-vision-for-Asia-Pacific-development-wins-support-at-APEC-meeting-1Scy00AGorC/p.html"
     },
     {
       "id": "n02",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "src": "CGTN·China",
-      "title": "Xi Jinping's key quotes at APEC CEO Summit in Shenzhen",
-      "link": "https://news.cgtn.com/news/2026-11-18/Xi-Jinping-s-key-quotes-at-APEC-CEO-Summit-in-Shenzhen-1Sb0BfFr3bO/p.html"
+      "title": "The Shenzhen Miracle: From fishing village to global tech hub",
+      "link": "https://news.cgtn.com/news/2026-11-19/The-Shenzhen-Miracle-From-fishing-village-to-global-tech-hub-1ScIA9Zc7V6/p.html"
     },
     {
       "id": "n03",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "src": "CGTN·China",
-      "title": "Full text: Xi Jinping's toast remarks at 33rd APEC's welcome dinner",
-      "link": "https://news.cgtn.com/news/2026-11-18/Full-text-Xi-Jinping-s-toast-remarks-at-33rd-APEC-s-welcome-dinner-1Sbc97wP58Q/p.html"
+      "title": "Xi, Trump conclude meeting in Shenzhen",
+      "link": "https://news.cgtn.com/news/2026-11-19/Xi-Trump-conclude-meeting-in-Shenzhen-1SbT1vQRYIM/p.html"
     },
     {
       "id": "n04",
-      "date": "2026-11-18",
-      "src": "CGTN·China",
-      "title": "Xi, Putin and Trump: What to expect from historic trilateral meeting",
-      "link": "https://news.cgtn.com/news/2026-11-18/Xi-Putin-and-Trump-What-to-expect-from-historic-trilateral-meeting-1Satv5TGiKk/p.html"
+      "date": "2026-11-17",
+      "src": "CGTN·Business",
+      "title": "From Antalya to Shenzhen: China promotes greener cooperation",
+      "link": "https://news.cgtn.com/news/2026-11-17/From-Antalya-to-Shenzhen-China-promotes-greener-cooperation-1S9elOQlQ3u/p.html"
     },
     {
       "id": "n05",
-      "date": "2026-11-16",
+      "date": "2026-11-15",
       "src": "CGTN·Culture",
-      "title": "Brothers in Art: Peking Opera meets Kung Fu | Episode 1",
-      "link": "https://news.cgtn.com/news/2026-11-16/Brothers-in-Art-Peking-Opera-meets-Kung-Fu-Episode-1-1S7QurPJ2RW/p.html"
+      "title": "'Eyes of the GBA' takes global journalists on a Shenzhen city tour",
+      "link": "https://news.cgtn.com/news/2026-11-15/-Eyes-of-the-GBA-takes-global-journalists-on-a-Shenzhen-city-tour-1S5MW8Flr0I/p.html"
     },
     {
       "id": "n06",
-      "date": "2026-11-16",
-      "src": "CGTN·Culture",
-      "title": "Shenzhen International Museum of Art, a window into an open Shenzhen",
-      "link": "https://news.cgtn.com/news/2026-11-16/Shenzhen-International-Museum-of-Art-a-window-into-an-open-Shenzhen--1S7qmUT2TlK/p.html"
+      "date": "2026-11-13",
+      "src": "CGTN·Business",
+      "title": "How Shenzhen is shaping the future of the Asia-Pacific",
+      "link": "https://news.cgtn.com/news/2026-11-13/How-Shenzhen-is-shaping-the-future-of-the-Asia-Pacific-1S2v9t9rFbq/p.html"
     },
     {
       "id": "n07",
-      "date": "2026-11-14",
+      "date": "2026-11-13",
       "src": "CGTN·Business",
-      "title": "China, US pledge to stabilize trade ties in first council meeting",
-      "link": "https://news.cgtn.com/news/2026-11-14/China-US-pledge-to-stabilize-trade-ties-in-first-council-meeting-1S42eJ7XDc4/p.html"
+      "title": "China-Vietnam cooperation: A pharma company's 23-year journey",
+      "link": "https://news.cgtn.com/news/2026-11-13/China-Vietnam-cooperation-A-pharma-company-s-23-year-journey-1S2q1tQtJq8/p.html"
     },
     {
       "id": "n08",
-      "date": "2026-11-14",
-      "src": "CGTN·Business",
-      "title": "APEC Business Advisory Council opened in Shenzhen",
-      "link": "https://news.cgtn.com/news/2026-11-14/APEC-Business-Advisory-Council-opened-in-Shenzhen-1S4fVmAYByg/p.html"
+      "date": "2026-11-12",
+      "src": "CGTN·Travel",
+      "title": "This bus has no driver. We got on anyway.",
+      "link": "https://news.cgtn.com/news/2026-11-12/This-bus-has-no-driver-We-got-on-anyway--1RVxKVFOs80/p.html"
     },
     {
       "id": "n09",
       "date": "2026-11-10",
       "src": "CGTN·Travel",
-      "title": "Every fragment holds a clue",
-      "link": "https://news.cgtn.com/news/2026-11-10/Every-fragment-holds-a-clue-1RVCu0W0Le0/p.html"
+      "title": "Dining Out in Mandarin",
+      "link": "https://news.cgtn.com/news/2026-11-10/Dining-Out-in-Mandarin-1RWgBr5cdgs/p.html"
     },
     {
       "id": "n10",
-      "date": "2026-11-09",
-      "src": "CGTN·Travel",
-      "title": "HKSAR financial chief: Hong Kong strives to bolster high-value tourism",
-      "link": "https://news.cgtn.com/news/2026-11-09/HKSAR-financial-chief-Hong-Kong-strives-to-bolster-high-value-tourism-1RVhOgkOERq/p.html"
+      "date": "2026-11-08",
+      "src": "CGTN·Culture",
+      "title": "From viral TikTok trend to real-life adventure",
+      "link": "https://news.cgtn.com/news/2026-11-08/From-viral-TikTok-trend-to-real-life-adventure-1RSxrV7lY8U/p.html"
     },
     {
       "id": "n11",
-      "date": "2026-11-05",
-      "src": "CGTN·Sports",
-      "title": "Sheng Lihao, Wang Zifei retain title at ISSF World Championships",
-      "link": "https://news.cgtn.com/news/2026-11-05/Sheng-Lihao-Wang-Zifei-retain-title-at-ISSF-World-Championships-1ROJnZ73KlW/p.html"
+      "date": "2026-11-08",
+      "src": "CGTN·Culture",
+      "title": "Chinese intangible cultural heritage expo reimagines tradition",
+      "link": "https://news.cgtn.com/news/2026-11-08/Chinese-intangible-cultural-heritage-expo-reimagines-tradition-1RU2uaGIB3O/p.html"
     },
     {
       "id": "n12",
-      "date": "2026-11-05",
-      "src": "CGTN·Culture",
-      "title": "TV Drama 'I See You' begins filming in Ningbo",
-      "link": "https://news.cgtn.com/news/2026-11-05/TV-Drama-I-See-You-begins-filming-in-Ningbo-1RP5wJkXDm8/p.html"
+      "date": "2026-11-07",
+      "src": "CGTN·Sports",
+      "title": "Two races, two golds in one day for China's Chang Mohan at Dakar 2026",
+      "link": "https://news.cgtn.com/news/2026-11-07/Two-races-two-golds-in-one-day-for-China-s-Chang-Mohan-at-Dakar-2026-1RS7olCiWXu/p.html"
     },
     {
       "id": "n13",
-      "date": "2026-11-01",
-      "src": "CGTN·Sports",
-      "title": "Dakar 2026 Youth Olympics opens in historic first for Africa",
-      "link": "https://news.cgtn.com/news/2026-11-01/Dakar-2026-Youth-Olympics-opens-in-historic-first-for-Africa-1RI7RVnWsDu/p.html"
+      "date": "2026-10-31",
+      "src": "CGTN·Travel",
+      "title": "Autumn in Beijing, with more than leaves on the agenda",
+      "link": "https://news.cgtn.com/news/2026-10-31/Autumn-in-Beijing-with-more-than-leaves-on-the-agenda-1RGuPL0YI6s/p.html"
     },
     {
       "id": "n14",
-      "date": "2026-10-28",
-      "src": "CGTN·Travel",
-      "title": "\"The future is here!\" US student explores Shenzhen before APEC 2026",
-      "link": "https://news.cgtn.com/news/2026-10-28/-The-future-is-here-US-student-explores-Shenzhen-before-APEC-2026-1RBONzxowiQ/p.html"
+      "date": "2026-10-30",
+      "src": "CGTN·Sports",
+      "title": "Xi's special envoy to attend 4th Youth Olympic Games opening",
+      "link": "https://news.cgtn.com/news/2026-10-30/Xi-s-special-envoy-to-attend-4th-Youth-Olympic-Games-opening-1RFelwev0sg/p.html"
     },
     {
       "id": "n15",
-      "date": "2026-10-03",
+      "date": "2026-10-05",
       "src": "CGTN·Sports",
-      "title": "China finishes Asian Games campaign with 169 golds",
-      "link": "https://news.cgtn.com/news/2026-10-03/China-finishes-Asian-Games-campaign-with-169-golds-1QWG7lGV9BK/p.html"
+      "title": "China tops medal table as Aichi-Nagoya Asian Games close",
+      "link": "https://news.cgtn.com/news/2026-10-05/China-tops-medal-table-as-Aichi-Nagoya-Asian-Games-close-1QZqhuYBgI0/p.html"
     }
   ],
   "readings": [
