@@ -7,29 +7,29 @@ window.CET_CONTENT = {
       "id": "n01",
       "date": "2026-11-20",
       "src": "CGTN·China",
-      "title": "China-ASEAN Legal Cooperation Forum opens in SW China's Chongqing",
-      "link": "https://news.cgtn.com/news/2026-11-20/China-ASEAN-Legal-Cooperation-Forum-opens-in-SW-China-s-Chongqing-1Se9NMXzERO/p.html"
+      "title": "Mark Carney’s Asian tour aims to diversify Canada’s trading partners",
+      "link": "https://newsus.cgtn.com/news/2026-11-20/Mark-Carney-s-Asian-tour-aims-to-diversify-Canada-s-trading-partners-1SduhsHbaA8/p.html"
     },
     {
       "id": "n02",
       "date": "2026-11-20",
       "src": "CGTN·China",
-      "title": "APEC leaders' spouses visit cultural exhibition in Shenzhen",
-      "link": "https://news.cgtn.com/news/2026-11-20/APEC-leaders-spouses-visit-cultural-exhibition-in-Shenzhen-1SeaH01tZcY/p.html"
+      "title": "Tariff disputes on hold, but unresolved as APEC meeting gets underway",
+      "link": "https://newsus.cgtn.com/news/2026-11-20/Tariff-disputes-on-hold-but-unresolved-as-APEC-meeting-gets-underway-1SduogRwLKg/p.html"
     },
     {
       "id": "n03",
-      "date": "2026-11-20",
+      "date": "2026-11-19",
       "src": "CGTN·China",
-      "title": "President Xi Jinping meets Thai PM Anutin Charnvirakul in Shenzhen",
-      "link": "https://news.cgtn.com/news/2026-11-20/Xi-Jinping-meets-Thai-PM-in-Shenzhen-1SdJCTBlE7C/p.html"
+      "title": "John Lee outlines five key takeaways from HK's APEC participation",
+      "link": "https://news.cgtn.com/news/2026-11-19/John-Lee-outlines-five-key-takeaways-from-HK-s-APEC-participation-1ScC9zhA6xq/p.html"
     },
     {
       "id": "n04",
-      "date": "2026-11-18",
+      "date": "2026-11-17",
       "src": "CGTN·Business",
-      "title": "China, Canada sign terms of reference for financial working group",
-      "link": "https://news.cgtn.com/news/2026-11-18/China-Canada-sign-terms-of-reference-for-financial-working-group-1SaY85CdcHe/p.html"
+      "title": "BYD: APEC guests amazed by Shenzhen's remarkable transformation",
+      "link": "https://news.cgtn.com/news/2026-11-17/BYD-APEC-guests-amazed-by-Shenzhen-s-remarkable-transformation-1S9lGbq0pP2/p.html"
     },
     {
       "id": "n05",
@@ -40,24 +40,24 @@ window.CET_CONTENT = {
     },
     {
       "id": "n06",
-      "date": "2026-11-14",
-      "src": "CGTN·Business",
-      "title": "Ex-World Bank official: APEC's key outcome — stronger mutual trust",
-      "link": "https://news.cgtn.com/news/2026-11-14/Ex-World-Bank-official-APEC-s-key-outcome-stronger-mutual-trust-1S481V3n22A/p.html"
-    },
-    {
-      "id": "n07",
-      "date": "2026-11-14",
-      "src": "CGTN·Business",
-      "title": "China, Thailand eye higher-level cooperation in digital, green sectors",
-      "link": "https://news.cgtn.com/news/2026-11-14/China-Thailand-eye-higher-level-cooperation-in-digital-green-sectors-1S4nYHxKgtW/p.html"
-    },
-    {
-      "id": "n08",
       "date": "2026-11-13",
       "src": "CGTN·Culture",
       "title": "Inside Shenzhen's waste-to-energy incineration plant",
       "link": "https://news.cgtn.com/news/2026-11-13/Inside-Shenzhen-s-waste-to-energy-incineration-plant-1S2bbYHD8EU/p.html"
+    },
+    {
+      "id": "n07",
+      "date": "2026-11-13",
+      "src": "CGTN·Business",
+      "title": "IKEA: Beyond consumer market, China is an innovation hub",
+      "link": "https://news.cgtn.com/news/2026-11-13/IKEA-Beyond-consumer-market-China-is-an-innovation-hub-1RQTPQEECf6/p.html"
+    },
+    {
+      "id": "n08",
+      "date": "2026-11-13",
+      "src": "CGTN·Business",
+      "title": "How Shenzhen is shaping the future of the Asia-Pacific",
+      "link": "https://news.cgtn.com/news/2026-11-13/How-Shenzhen-is-shaping-the-future-of-the-Asia-Pacific-1S2v9t9rFbq/p.html"
     },
     {
       "id": "n09",
