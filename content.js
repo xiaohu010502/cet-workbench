@@ -27,23 +27,23 @@ window.CET_CONTENT = {
     {
       "id": "n04",
       "date": "2026-11-17",
+      "src": "CGTN·Culture",
+      "title": "Goryeo Buddhist art revives centuries of China-Korea cultural ties",
+      "link": "https://news.cgtn.com/news/2026-11-17/Goryeo-Buddhist-art-revives-centuries-of-China-Korea-cultural-ties-1S979JPSKg8/p.html"
+    },
+    {
+      "id": "n05",
+      "date": "2026-11-17",
       "src": "CGTN·Business",
       "title": "BYD: APEC guests amazed by Shenzhen's remarkable transformation",
       "link": "https://news.cgtn.com/news/2026-11-17/BYD-APEC-guests-amazed-by-Shenzhen-s-remarkable-transformation-1S9lGbq0pP2/p.html"
     },
     {
-      "id": "n05",
-      "date": "2026-11-16",
-      "src": "CGTN·Culture",
-      "title": "Shenzhen International Museum of Art, a window into an open Shenzhen",
-      "link": "https://news.cgtn.com/news/2026-11-16/Shenzhen-International-Museum-of-Art-a-window-into-an-open-Shenzhen--1S7qmUT2TlK/p.html"
-    },
-    {
       "id": "n06",
-      "date": "2026-11-13",
+      "date": "2026-11-15",
       "src": "CGTN·Culture",
-      "title": "Inside Shenzhen's waste-to-energy incineration plant",
-      "link": "https://news.cgtn.com/news/2026-11-13/Inside-Shenzhen-s-waste-to-energy-incineration-plant-1S2bbYHD8EU/p.html"
+      "title": "Inside Suzhou: Where history meets modern charm",
+      "link": "https://news.cgtn.com/news/2026-11-15/Inside-Suzhou-Where-history-meets-modern-charm-1S5O7vPnWQE/p.html"
     },
     {
       "id": "n07",
@@ -61,52 +61,52 @@ window.CET_CONTENT = {
     },
     {
       "id": "n09",
-      "date": "2026-11-09",
+      "date": "2026-11-11",
       "src": "CGTN·Travel",
-      "title": "HKSAR financial chief: Hong Kong strives to bolster high-value tourism",
-      "link": "https://news.cgtn.com/news/2026-11-09/HKSAR-financial-chief-Hong-Kong-strives-to-bolster-high-value-tourism-1RVhOgkOERq/p.html"
+      "title": "Hongcun village: An open-air art studio",
+      "link": "https://news.cgtn.com/news/2026-11-11/Hongcun-village-An-open-air-art-studio-1RW10IZ0FZ6/p.html"
     },
     {
       "id": "n10",
-      "date": "2026-11-06",
-      "src": "CGTN·Culture",
-      "title": "Let's play video games in class",
-      "link": "https://news.cgtn.com/news/2026-11-06/Let-s-play-video-games-in-class-1RQJv7lGy8E/p.html"
+      "date": "2026-11-10",
+      "src": "CGTN·Travel",
+      "title": "We spent a day in a robot store",
+      "link": "https://news.cgtn.com/news/2026-11-10/We-spent-a-day-in-a-robot-store-1RVwIS64s1i/p.html"
     },
     {
       "id": "n11",
-      "date": "2026-11-06",
-      "src": "CGTN·Travel",
-      "title": "How a Yangtze sanctuary protects an entire ecosystem",
-      "link": "https://news.cgtn.com/news/2026-11-06/How-a-Yangtze-sanctuary-protects-an-entire-ecosystem-1RQWqmiV1FS/p.html"
+      "date": "2026-11-08",
+      "src": "CGTN·Culture",
+      "title": "From viral TikTok trend to real-life adventure",
+      "link": "https://news.cgtn.com/news/2026-11-08/From-viral-TikTok-trend-to-real-life-adventure-1RSxrV7lY8U/p.html"
     },
     {
       "id": "n12",
-      "date": "2026-11-02",
+      "date": "2026-10-31",
       "src": "CGTN·Travel",
-      "title": "The secret symbolism of Huizhou horse-head gables",
-      "link": "https://news.cgtn.com/news/2026-11-02/The-secret-symbolism-of-Huizhou-horse-head-gables-1RDDkI8uXfy/p.html"
+      "title": "Autumn in Beijing, with more than leaves on the agenda",
+      "link": "https://news.cgtn.com/news/2026-10-31/Autumn-in-Beijing-with-more-than-leaves-on-the-agenda-1RGuPL0YI6s/p.html"
     },
     {
       "id": "n13",
-      "date": "2026-11-01",
+      "date": "2026-10-30",
       "src": "CGTN·Sports",
-      "title": "Dakar 2026 Youth Olympics opens in historic first for Africa",
-      "link": "https://news.cgtn.com/news/2026-11-01/Dakar-2026-Youth-Olympics-opens-in-historic-first-for-Africa-1RI7RVnWsDu/p.html"
+      "title": "Xi's special envoy to attend 4th Youth Olympic Games opening",
+      "link": "https://news.cgtn.com/news/2026-10-30/Xi-s-special-envoy-to-attend-4th-Youth-Olympic-Games-opening-1RFelwev0sg/p.html"
     },
     {
       "id": "n14",
-      "date": "2026-10-26",
+      "date": "2026-10-29",
       "src": "CGTN·Sports",
-      "title": "Chen Yi crowned in women's singles at table tennis Asian Championships",
-      "link": "https://news.cgtn.com/news/2026-10-26/Chen-Yi-crowned-in-women-s-singles-at-table-tennis-Asian-Championships-1RydnRZWy7C/p.html"
+      "title": "Hong Kexin claims gold for China at World Wrestling Championships",
+      "link": "https://news.cgtn.com/news/2026-10-29/Hong-Kexin-claims-gold-for-China-at-World-Wrestling-Championships-1RDbGrrMclG/p.html"
     },
     {
       "id": "n15",
-      "date": "2026-10-05",
+      "date": "2026-10-03",
       "src": "CGTN·Sports",
-      "title": "WADA president visits Kenya amid doping concerns",
-      "link": "https://newsaf.cgtn.com/news/2026-10-05/WADA-president-visits-Kenya-amid-doping-concerns-1QZTZOklxg4/p.html"
+      "title": "Tegla Loroupe welcomes OCA Refugee Team, urges stronger sporting ties",
+      "link": "https://news.cgtn.com/news/2026-10-03/Tegla-Loroupe-welcomes-OCA-Refugee-Team-urges-stronger-sporting-ties-1QVUOSN8MrC/p.html"
     }
   ],
   "readings": [
