@@ -5,66 +5,66 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
-      "date": "2026-11-23",
-      "src": "CGTN·China",
-      "title": "Chinese envoys step up peace efforts in Middle East, Horn of Africa",
-      "link": "https://news.cgtn.com/news/2026-11-23/Chinese-envoys-step-up-peace-efforts-in-Middle-East-Horn-of-Africa-1SiPdVqBN1C/p.html"
+      "date": "2026-11-25",
+      "src": "CGTN·Business",
+      "title": "Mexico's strawberry growers struggle amid US dumping claims",
+      "link": "https://newsus.cgtn.com/news/2026-11-25/Mexico-s-strawberry-growers-struggle-amid-US-dumping-claims-1Slxg0EFqWk/p.html"
     },
     {
       "id": "n02",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "src": "CGTN·China",
-      "title": "How Kunqu finds new life at Beijing's Zhengyici Theater",
-      "link": "https://news.cgtn.com/news/2026-11-23/How-Kunqu-finds-new-life-at-Beijing-s-Zhengyici-Theater-1SiL8kP53wI/p.html"
+      "title": "Zhao scores twice to keep China's U17 World Cup hopes alive",
+      "link": "https://news.cgtn.com/news/2026-11-24/Zhao-scores-twice-to-keep-China-s-U17-World-Cup-hopes-alive-1Skg2oGAL16/p.html"
     },
     {
       "id": "n03",
-      "date": "2026-11-21",
+      "date": "2026-11-24",
       "src": "CGTN·China",
-      "title": "TV drama 'River of No Return' begins promotional tour in Nanjing",
-      "link": "https://news.cgtn.com/news/2026-11-21/TV-drama-River-of-No-Return-begins-promotional-tour-in-Nanjing-1SfHH8wvLoI/p.html"
+      "title": "China to extend its longest spaceflight record with a year-long stay",
+      "link": "https://news.cgtn.com/news/2026-11-24/China-to-extend-its-longest-spaceflight-record-with-a-year-long-stay-1SkQIkIG7Sw/p.html"
     },
     {
       "id": "n04",
-      "date": "2026-11-17",
-      "src": "CGTN·Business",
-      "title": "BYD: APEC guests amazed by Shenzhen's remarkable transformation",
-      "link": "https://news.cgtn.com/news/2026-11-17/BYD-APEC-guests-amazed-by-Shenzhen-s-remarkable-transformation-1S9lGbq0pP2/p.html"
+      "date": "2026-11-22",
+      "src": "CGTN·China",
+      "title": "Why the China-ASEAN relation matters",
+      "link": "https://news.cgtn.com/news/2026-11-22/Why-the-China-ASEAN-relation-matters-1Shbu0B5R16/p.html"
     },
     {
       "id": "n05",
+      "date": "2026-11-17",
+      "src": "CGTN·Business",
+      "title": "Ambassador Xie Feng urges stronger ties at US-China Hong Kong Forum",
+      "link": "https://newsus.cgtn.com/news/2026-11-17/Ambassador-Xie-Feng-urges-stronger-ties-at-US-China-Hong-Kong-Forum-1S8qQUbHVw4/p.html"
+    },
+    {
+      "id": "n06",
       "date": "2026-11-16",
       "src": "CGTN·Culture",
       "title": "Documentaries on Xi's cultural vision premiere across APEC economies",
       "link": "https://news.cgtn.com/news/2026-11-16/Documentaries-on-Xi-s-cultural-vision-premiere-across-APEC-economies-1S6ZqY7Bbq0/p.html"
     },
     {
-      "id": "n06",
+      "id": "n07",
       "date": "2026-11-15",
       "src": "CGTN·Culture",
       "title": "Inside Suzhou: Where history meets modern charm",
       "link": "https://news.cgtn.com/news/2026-11-15/Inside-Suzhou-Where-history-meets-modern-charm-1S5O7vPnWQE/p.html"
     },
     {
-      "id": "n07",
-      "date": "2026-11-13",
-      "src": "CGTN·Culture",
-      "title": "From the wild to the human heart: Films for this winter",
-      "link": "https://news.cgtn.com/news/2026-11-13/From-the-wild-to-the-human-heart-Films-for-this-winter-1S2qiIAvfjy/p.html"
-    },
-    {
       "id": "n08",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "src": "CGTN·Business",
-      "title": "WEF field trip: How two Chinese cities are greening industry",
-      "link": "https://news.cgtn.com/news/2026-11-13/WEF-field-trip-How-two-Chinese-cities-are-greening-industry-1S2dzp04CTm/p.html"
+      "title": "Peruvian captain's \"Water Bus\" transforms river travel",
+      "link": "https://news.cgtn.com/news/2026-11-14/Peruvian-captain-s-Water-Bus-transforms-river-travel-1S492exDgje/p.html"
     },
     {
       "id": "n09",
       "date": "2026-11-13",
-      "src": "CGTN·Business",
-      "title": "How Shenzhen is shaping the future of the Asia-Pacific",
-      "link": "https://news.cgtn.com/news/2026-11-13/How-Shenzhen-is-shaping-the-future-of-the-Asia-Pacific-1S2v9t9rFbq/p.html"
+      "src": "CGTN·Culture",
+      "title": "From the wild to the human heart: Films for this winter",
+      "link": "https://news.cgtn.com/news/2026-11-13/From-the-wild-to-the-human-heart-Films-for-this-winter-1S2qiIAvfjy/p.html"
     },
     {
       "id": "n10",
