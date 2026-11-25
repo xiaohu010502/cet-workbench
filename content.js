@@ -1,7 +1,7 @@
 // 四六级备考工作台 · 每日内容包
 // news 由每日自动化真实抓取 CGTN RSS（多个频道，链接已逐条验证 200）；readings/listenings/dialogues 为 AI 原创改写（四六级难度）
 window.CET_CONTENT = {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
 "news": [
     {
       "id": "n01",
@@ -42,15 +42,15 @@ window.CET_CONTENT = {
       "id": "n06",
       "date": "2026-11-16",
       "src": "CGTN·Culture",
-      "title": "Documentaries on Xi's cultural vision premiere across APEC economies",
-      "link": "https://news.cgtn.com/news/2026-11-16/Documentaries-on-Xi-s-cultural-vision-premiere-across-APEC-economies-1S6ZqY7Bbq0/p.html"
+      "title": "Where snow meets azure: The enchanting heart-shaped lake of Xizang",
+      "link": "https://news.cgtn.com/news/2026-11-16/Where-snow-meets-azure-The-enchanting-heart-shaped-lake-of-Xizang-1S7qFIrq9Lq/p.html"
     },
     {
       "id": "n07",
       "date": "2026-11-15",
       "src": "CGTN·Culture",
-      "title": "Inside Suzhou: Where history meets modern charm",
-      "link": "https://news.cgtn.com/news/2026-11-15/Inside-Suzhou-Where-history-meets-modern-charm-1S5O7vPnWQE/p.html"
+      "title": "Carved in bone: The enduring beauty of China's earliest writing",
+      "link": "https://news.cgtn.com/news/2026-11-15/Carved-in-bone-The-enduring-beauty-of-China-s-earliest-writing-1S5E9SkOKKQ/p.html"
     },
     {
       "id": "n08",
@@ -61,52 +61,52 @@ window.CET_CONTENT = {
     },
     {
       "id": "n09",
-      "date": "2026-11-13",
+      "date": "2026-11-12",
       "src": "CGTN·Culture",
-      "title": "From the wild to the human heart: Films for this winter",
-      "link": "https://news.cgtn.com/news/2026-11-13/From-the-wild-to-the-human-heart-Films-for-this-winter-1S2qiIAvfjy/p.html"
+      "title": "Guizhou cili tea blends tradition with innovation at Beijing tea expo",
+      "link": "https://news.cgtn.com/news/2026-11-12/Guizhou-cili-tea-blends-tradition-with-innovation-at-Beijing-tea-expo-1S0CfhnPZ3q/p.html"
     },
     {
       "id": "n10",
-      "date": "2026-11-09",
+      "date": "2026-11-06",
       "src": "CGTN·Travel",
-      "title": "The quiet detail of Sanxingdui jade",
-      "link": "https://news.cgtn.com/news/2026-11-09/The-quiet-detail-of-Sanxingdui-jade-1RVDL6lJcL6/p.html"
+      "title": "Military attaché moved by stories of China's female Red Army soldiers",
+      "link": "https://news.cgtn.com/news/2026-11-06/Military-attach-moved-by-stories-of-China-s-female-Red-Army-soldiers-1RQCZT8Y9tm/p.html"
     },
     {
       "id": "n11",
-      "date": "2026-11-09",
+      "date": "2026-11-05",
       "src": "CGTN·Travel",
-      "title": "What was in his hands?",
-      "link": "https://news.cgtn.com/news/2026-11-09/What-was-in-his-hands--1RVDZurzPYk/p.html"
+      "title": "Respect and tolerance in online discourse under discussion in Wuzhen",
+      "link": "https://news.cgtn.com/news/2026-11-05/Respect-and-tolerance-in-online-discourse-under-discussion-in-Wuzhen-1ROUGYfl5M4/p.html"
     },
     {
       "id": "n12",
-      "date": "2026-11-07",
+      "date": "2026-11-04",
       "src": "CGTN·Travel",
-      "title": "A taste of Shantou: Fresh seafood rice rolls",
-      "link": "https://news.cgtn.com/news/2026-11-07/A-taste-of-Shantou-Fresh-seafood-rice-rolls-1RSqvl5A8Du/p.html"
+      "title": "What does Beijing look like in golden autumn?",
+      "link": "https://news.cgtn.com/news/2026-11-04/What-does-Beijing-look-like-in-golden-autumn--1RNv2wTOKqs/p.html"
     },
     {
       "id": "n13",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "src": "CGTN·Sports",
-      "title": "Aichi-Nagoya bids farewell to Asian Para Games in closing ceremony",
-      "link": "https://news.cgtn.com/news/2026-10-25/Aichi-Nagoya-bids-farewell-to-Asian-Para-Games-in-closing-ceremony-1Rwv6rZYcGk/p.html"
+      "title": "Zou Jingyuan wins parallel bars gold as gymnastics worlds conclude",
+      "link": "https://news.cgtn.com/news/2026-10-26/Zou-Jingyuan-wins-parallel-bars-gold-as-gymnastics-worlds-conclude-1Ryd2B15SBG/p.html"
     },
     {
       "id": "n14",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "src": "CGTN·Sports",
-      "title": "Fifth Asian Para Games open in Aichi-Nagoya with nearly 3,000 athletes",
-      "link": "https://news.cgtn.com/news/2026-10-19/Fifth-Asian-Para-Games-open-in-Aichi-Nagoya-with-nearly-3-000-athletes-1RmxTuya5j2/p.html"
+      "title": "Zhang Zhenlin shines as Shanghai Sharks start CBA season with win",
+      "link": "https://news.cgtn.com/news/2026-10-20/Zhang-Zhenlin-shines-as-Shanghai-Sharks-start-CBA-season-with-win--1RoggfnU84o/p.html"
     },
     {
       "id": "n15",
       "date": "2026-10-16",
       "src": "CGTN·Sports",
-      "title": "Shared love of pickleball draws young Americans and Chinese together",
-      "link": "https://news.cgtn.com/news/2026-10-16/Shared-love-of-pickleball-draws-young-Americans-and-Chinese-together-1RhGZh1Hh8Q/p.html"
+      "title": "Choi takes early lead at Buick LPGA Shanghai, Yin tied for third",
+      "link": "https://news.cgtn.com/news/2026-10-16/Choi-takes-early-lead-at-Buick-LPGA-Shanghai-Yin-tied-for-third-1RhC2ZqwaiY/p.html"
     }
   ],
   "readings": [
